@@ -23,7 +23,6 @@ First rows must be:
 - List ALL indicators that appear in that age range, even if they also appear in other ranges
 
 3. INDICATORS:
-- Each indicator must be in its own cell, properly quoted with double quotes
 - Include complete text without modifications
 - Keep all parenthetical examples
 - Include all punctuation exactly as shown
@@ -31,14 +30,12 @@ First rows must be:
 - Type should be "Indicator"
 - Include the note category from right side in ALL CAPS
 
-4. TEXT FORMATTING:
-- Each indicator statement must be wrapped in double quotes
-- Use double quotes for cells containing commas
-- Use escaped quotes (\") for any quotes within the text
-- Don't use line breaks within cells
-- Join multi-line text into single lines within the quotes
+4. TEXT PROCESSING:
+- Join multi-line text into single lines
 - Keep exact wording and punctuation
+- Include complete examples in parentheses
 - Don't combine or deduplicate indicators that appear in multiple age ranges
+- Keep indicators under each age range where they appear
 
 Example Format:
 code,statement,type,notes
@@ -46,19 +43,17 @@ SE,Social and Emotional Development,Domain of Development & Learning,
 SE1.,RELATIONSHIPS WITH OTHERS,Domain Component,
 SE1.1,Forms trusting relationships with nurturing adults,Learning Goal,
 ,BIRTH-8m,,
-,"Engages in back-and-forth interactions with familiar adults (e.g., peek-a-boo, makes vocalizations)",Indicator,INTERACTIONS
+,"[complete indicator text]",Indicator,INTERACTIONS
 ,9-18m,,
-,"[complete indicator text in quotes]",Indicator,INTERACTIONS
+,"[same indicator if it appears again]",Indicator,INTERACTIONS
 
 Important:
-- Each indicator must be in its own properly quoted cell
 - List each indicator under EVERY age range where it appears
-- Don't modify or combine text at all
+- Don't modify or combine or summarize  text
 - Keep exact punctuation and capitalization
 - Notes should be in ALL CAPS
 - Include asterisks (*) where present
 - Include all parenthetical examples in full
-- Ensure proper CSV escaping for commas and quotes
 
 Format response as CSV data only with no additional text or explanations."""
 
@@ -124,28 +119,21 @@ def parse_claude_response(response_text):
     
     # Convert rows to dictionaries with correct field names
     parsed_data = []
-    current_code = ''
-    current_type = ''
     
     for row in reader:
         if len(row) >= 1:
-            # Preserve code and type for hierarchy
-            if row[0]:  # If there's a code, update current code
-                current_code = row[0]
-                if len(row) > 2:
-                    current_type = row[2]
-            
-            # Create the parsed row
             parsed_row = {
                 'code': row[0] if row[0] else '',
                 'statement': row[1] if len(row) > 1 else '',
                 'type': row[2] if len(row) > 2 else '',
-                'notes': row[3] if len(row) > 3 else ''
+                'notes': row[3].upper() if len(row) > 3 and row[3] else ''  # Convert notes to uppercase
             }
             
-            # Ensure Indicator type for descriptor boxes
-            if (not parsed_row['type'] and parsed_row['statement'] and 
-                not any(age in parsed_row['statement'] for age in ['Birth-', '9-', '19-', '37-', '49-'])):
+            # Ensure Indicator type for descriptive boxes when needed
+            if (parsed_row['statement'] and 
+                not any(x in parsed_row['statement'] for x in ['Birth-', '9-', '19-', '37-', '49-']) and
+                not parsed_row['type'] and
+                parsed_row['statement'] not in ['Domain of Development & Learning', 'Domain Component', 'Learning Goal']):
                 parsed_row['type'] = 'Indicator'
             
             # Add to parsed data if there's meaningful content
@@ -190,8 +178,8 @@ def process_images_with_claude(image_folder, output_csv):
                 ]
 
                 response = client.messages.create(
-                    model="claude-3-5-sonnet-20241022",
-                    max_tokens=2500,
+                    model="claude-3-opus-20240229",
+                    max_tokens=1500,
                     messages=messages
                 )
 
@@ -229,8 +217,8 @@ def process_images_with_claude(image_folder, output_csv):
         print("No data to export")
 
 def main():
-    image_folder = 'arkansas'
-    output_csv = 'akfullutput.csv'
+    image_folder = 'sample'
+    output_csv = 'aksampleoutput.csv'
 
     process_images_with_claude(image_folder, output_csv)
 

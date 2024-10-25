@@ -95,8 +95,8 @@ def process_images_with_claude(image_folder, output_csv):
                 ]
 
                 response = client.messages.create(
-                    model="claude-3-opus-20240229",
-                    max_tokens=1500,
+                    model="claude-3-5-sonnet-20241022",
+                    max_tokens=2500,
                     messages=messages
                 )
 

@@ -1,39 +1,34 @@
 filename,code,statement,type,notes
+page_2.png,SE,Social and Emotional Development,Domain of Development & Learning,
 page_2.png,SE1.,RELATIONSHIPS WITH OTHERS,Domain Component,
 page_2.png,SE1.2,Interacts with peers,Learning Goal,
-page_2.png,,Birth-8m,,
-page_2.png,,Shows interest in peers (e.g., watches other children, reacts out to touch them
+page_2.png,,BIRTH-8m,Indicator,
+page_2.png,"Shows interest in peers (e.g., watches other children, reaches out to touch them, imitates sounds or actions) with increasing participation in simple, brief back-and-forth interactions with peers",Indicator,INTERACTIONS,
 page_2.png,,9-18m,,
-page_2.png,,Begins to engage in parallel play (playing next to but not directly involved in another child's play),Indicator,
+page_2.png,"Shows preferences for certain playmates and develops friendships with a small group of children that are more reciprocal, exclusive, and enduring over time",Indicator,SOCIAL PLAY,
+page_2.png,Begins to engage in parallel play (playing next to but not directly involved in another child's play),Indicator,STAGES OF PLAY,
 page_2.png,,19-36m,,
-page_2.png,,"Participates in associative play (playing independently but engaging in the same activity as other children, sometimes interacting through talking or sharing toys)",Indicator,
+page_2.png,"Shows preferences for certain playmates and develops friendships with a small group of children that are more reciprocal, exclusive, and enduring over time",Indicator,SOCIAL PLAY,
+page_2.png,"Participates in associative play (playing independently but engaging in the same activity as other children, sometimes interacting through talking or sharing toys)",Indicator,STAGES OF PLAY,
 page_2.png,,37-48m,,
-page_2.png,,Engages in cooperative play with peers (communicates and collaborates with other children in role play or to achieve a goal),Indicator,
+page_2.png,Engages in cooperative play* with peers (communicates and collaborates with other children in role play or to achieve a goal),Indicator,SOCIAL PLAY,
 page_2.png,,49-60m,,
-page_2.png,,"Shows increasing understanding and demonstration of social skills such as turn-taking, initiating and joining in group play situations, and solving social conflict with adult guidance",Indicator,STAGES OF PLAY
-page_3.png,SE,Social and Emotional Development,Domain of Development & Learning,
-page_3.png,SE2.,EMOTIONAL EXPRESSION AND UNDERSTANDING,Domain Component,
-page_3.png,SE2.1,Experiences, expresses, and regulates a range of emotions
-page_3.png,,Birth-8m,,
-page_3.png,,Expresses a range of basic emotions (e.g., joy, sadness
-page_3.png,,Uses adult support to calm self (e.g., relaxes when picked up and held by a familiar adult) and demonstrates some self-soothing behaviors (e.g., thumb/fist sucking
-page_3.png,,Comforts self by seeking a special toy, object, or caregiver when upset
-page_3.png,,9-18m,,
-page_3.png,,Uses words, signs, other communication methods
-page_3.png,,Shows increasing ability to constructively express emotions or alter emotional expression based on social context and cultural norms*,Indicator,Expression
-page_3.png,,Uses an expanding range of self-regulation strategies with support and modeling (e.g., taking deep breaths and relaxing muscles, verbal reasoning or reframing of the situation
-page_3.png,,19-36m,,
-page_3.png,,37-48m,,
-page_3.png,,49-60m,,
-page_1.png,SE1.,RELATIONSHIPS WITH OTHERS,Domain Component,
-page_1.png,SE1.1,Forms trusting relationships with nurturing adults,Learning Goal,
-page_1.png,,Birth-8m,,
-page_1.png,,"Engages in back-and-forth interactions with familiar adults (e.g., peek-a-boo, makes vocalizations in response to adult interaction, imitates facial expressions or sounds)",Indicator,INTERACTIONS
-page_1.png,,9-18m,,
-page_1.png,,"Participates in longer back-and-forth interactions with adults to share experiences; imitates adults' actions; communicates ideas; seeks distance; and engages in role play, games, or other activities",Indicator,
-page_1.png,,19-36m,,
-page_1.png,,"Takes greater initiative in social interactions and begins to show interest in familiar adults' feelings, preferences, and well-being",Indicator,
-page_1.png,,37-48m,,
-page_1.png,,Looks to particular people for security comfort and protection and shows distress or uneasiness when separated from a special person (separation anxiety) or when encountering strangers (stranger anxiety),Indicator,ATTACHMENT RELATIONSHIPS
-page_1.png,,49-60m,,
-page_1.png,,Separates from primary caregivers with minimal distress when with other familiar and trusted adults*,Indicator,
+page_2.png,"Shows increasing understanding and demonstration of social skills such as turn-taking, initiating and joining in group play situations, and solving social conflict with adult guidance",Indicator,SOCIAL PLAY,
+page_4.png,SE,Social and Emotional Development,Domain of Development & Learning,
+page_4.png,SE2.,EMOTIONAL EXPRESSION AND UNDERSTANDING,Domain Component,
+page_4.png,SE2.2,Interprets and responds to the feelings of others,Learning Goal,
+page_4.png,,BIRTH-8m,Indicator,
+page_4.png,,"Demonstrates interest or concern when others are hurt or in distress and may try to comfort or assist, at times actions may not always match needs of person (e.g., may bring stuffed animal to adult who has headache)",Indicator,EMPATHY
+page_4.png,,"Reacts to and takes cues from others' emotional expressions (e.g., cries when hears other children crying, smiles when someone laughs, stops an action when sees a worried or alarmed expression on caregiver's or peer's face)",Indicator,EMOTION UNDERSTANDING
+page_4.png,,9-18m,,
+page_4.png,,"Demonstrates interest or concern when others are hurt or in distress and may try to comfort or assist, at times actions may not always match needs of person (e.g., may bring stuffed animal to adult who has headache)",Indicator,EMPATHY
+page_4.png,,"Reacts to and takes cues from others' emotional expressions (e.g., cries when hears other children crying, smiles when someone laughs, stops an action when sees a worried or alarmed expression on caregiver's or peer's face)",Indicator,EMOTION UNDERSTANDING
+page_4.png,,"Recognizes and labels emotional reactions based on facial expressions, body language, and tone with increasing accuracy and precision",Indicator,EMOTION UNDERSTANDING
+page_4.png,,19-36m,,
+page_4.png,,"Responds sympathetically to others' distress with increased initiative and understanding that each person has their own specific needs (e.g., gets a peer's blanket from their cubby when child notices peer is sad)",Indicator,EMPATHY
+page_4.png,,"Recognizes and labels emotional reactions based on facial expressions, body language, and tone with increasing accuracy and precision",Indicator,EMOTION UNDERSTANDING
+page_4.png,,37-48m,,
+page_4.png,,"Responds sympathetically to others' distress with increased initiative and understanding that each person has their own specific needs (e.g., gets a peer's blanket from their cubby when child notices peer is sad)",Indicator,EMPATHY
+page_4.png,,"Recognizes and labels emotional reactions based on facial expressions, body language, and tone with increasing accuracy and precision",Indicator,EMOTION UNDERSTANDING
+page_4.png,,49-60m,,
+page_4.png,,"Makes predictions and identifies causes and consequences of others' emotional reactions with increasing accuracy (e.g., says, ""I think the bears will feel scared when they find Goldilocks in their house""; ""When I get home from school my little sister is so excited to see me she jumps up and down"")",Indicator,EMOTION UNDERSTANDING
