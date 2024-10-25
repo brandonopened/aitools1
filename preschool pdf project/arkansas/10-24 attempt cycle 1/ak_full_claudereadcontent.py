@@ -4,63 +4,66 @@ import base64
 from io import StringIO
 from anthropic import Anthropic
 
-CLAUDE_PROMPT = """You are a precise data processor specialized in converting educational development standards from images to structured CSV format. Process the developmental timeline image into a CSV where indicators are listed under each age range they appear in.
+CLAUDE_PROMPT = """You are a precise data processor specialized in converting educational development standards from images to structured CSV format. You will be shown an image that uses a developmental timeline format.
 
-Output CSV with columns:
+Process this image into CSV format with these exact columns:
 code,statement,type,notes
 
-Follow these exact rules:
+Rules for each field:
 
-1. DOMAIN/COMPONENT:
-First rows must be:
-- Domain header (e.g., "SE,Social and Emotional Development,Domain of Development & Learning,")
-- Component (e.g., "SE1.,RELATIONSHIPS WITH OTHERS,Domain Component,")
-- Goal (e.g., "SE1.1,Forms trusting relationships with nurturing adults,Learning Goal,")
+1. CODE:
+- Main domain code (e.g., "SE" for Social and Emotional)
+- Component code (e.g., "SE1.")
+- Goal code (e.g., "SE1.1")
+- Leave empty for age ranges and indicators
 
-2. AGE RANGE SECTIONS:
-- Process each age range in order: BIRTH-8m, 9-18m, 19-36m, 37-48m, 49-60m
-- Start each age range section with a row containing just the age range (empty code/type/notes)
-- List ALL indicators that appear in that age range, even if they also appear in other ranges
+2. STATEMENT:
+- Capture complete text, don't truncate
+- Include full text from boxes
+- Include age ranges as separate entries (e.g., "Birth-8m", "9-18m", etc.)
+- Preserve exact wording
+- If text wraps across lines, combine into single line
 
-3. INDICATORS:
-- Each indicator must be in its own cell, properly quoted with double quotes
-- Include complete text without modifications
-- Keep all parenthetical examples
-- Include all punctuation exactly as shown
-- Preserve asterisks (*) when present
-- Type should be "Indicator"
-- Include the note category from right side in ALL CAPS
+3. TYPE:
+Must be one of:
+- "Domain of Development & Learning" (main heading)
+- "Domain Component" (main coded sections)
+- "Learning Goal" (specific numbered goals)
+- "Indicator" (for descriptive boxes)
+- Empty for age range rows
 
-4. TEXT FORMATTING:
-- Each indicator statement must be wrapped in double quotes
-- Use double quotes for cells containing commas
-- Use escaped quotes (\") for any quotes within the text
-- Don't use line breaks within cells
-- Join multi-line text into single lines within the quotes
-- Keep exact wording and punctuation
-- Don't combine or deduplicate indicators that appear in multiple age ranges
+4. NOTES:
+- Include categories shown on right side of diagram
+- Leave empty if no category is shown
+- Preserve exact capitalization of notes
 
-Example Format:
+Output Format:
+- Start with domain header
+- Follow with component
+- Include learning goal
+- List each age range as separate row
+- Include all indicators under their age range
+- Use quotes around fields containing commas
+- Maintain exact order from top to bottom, left to right
+
+Example:
 code,statement,type,notes
 SE,Social and Emotional Development,Domain of Development & Learning,
-SE1.,RELATIONSHIPS WITH OTHERS,Domain Component,
+SE1.,Relationships with Others,Domain Component,
 SE1.1,Forms trusting relationships with nurturing adults,Learning Goal,
-,BIRTH-8m,,
-,"Engages in back-and-forth interactions with familiar adults (e.g., peek-a-boo, makes vocalizations)",Indicator,INTERACTIONS
+,Birth-8m,,
+,"[complete indicator text]",Indicator,INTERACTIONS
 ,9-18m,,
-,"[complete indicator text in quotes]",Indicator,INTERACTIONS
+,"[complete indicator text]",Indicator,ATTACHMENT
 
 Important:
-- Each indicator must be in its own properly quoted cell
-- List each indicator under EVERY age range where it appears
-- Don't modify or combine text at all
-- Keep exact punctuation and capitalization
-- Notes should be in ALL CAPS
-- Include asterisks (*) where present
-- Include all parenthetical examples in full
-- Ensure proper CSV escaping for commas and quotes
+- Preserve ALL text exactly as written
+- Don't truncate or abbreviate content
+- Include every age range even if empty
+- Maintain hierarchical structure
+- Capture all notes from right side
 
-Format response as CSV data only with no additional text or explanations."""
+Format response ONLY as CSV data with no other text or explanation."""
 
 def encode_image(image_path):
     with open(image_path, "rb") as image_file:
@@ -190,8 +193,8 @@ def process_images_with_claude(image_folder, output_csv):
                 ]
 
                 response = client.messages.create(
-                    model="claude-3-5-sonnet-20241022",
-                    max_tokens=2500,
+                    model="claude-3-opus-20240229",
+                    max_tokens=1500,
                     messages=messages
                 )
 
@@ -229,8 +232,8 @@ def process_images_with_claude(image_folder, output_csv):
         print("No data to export")
 
 def main():
-    image_folder = 'arkansas'
-    output_csv = 'akfullutput.csv'
+    image_folder = 'sample'
+    output_csv = 'aksampleoutput1.csv'
 
     process_images_with_claude(image_folder, output_csv)
 

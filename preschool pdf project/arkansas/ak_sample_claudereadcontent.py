@@ -4,52 +4,63 @@ import base64
 from io import StringIO
 from anthropic import Anthropic
 
-CLAUDE_PROMPT = """
-You are a precise data processor specialized in converting educational development standards from images to structured CSV format. You will be shown an image that uses a developmental timeline format with:
+CLAUDE_PROMPT = """You are a precise data processor specialized in converting educational development standards from images to structured CSV format. Process the developmental timeline image into a CSV where indicators are listed under each age range they appear in.
 
-A main heading at the top (in a colored banner)
-A coded section number and title below it (e.g., "SE1.2 Interacts with peers" but could be different codes/titles)
-Age ranges displayed with icons (typically showing progression from birth to 60 months)
-Text descriptions in angled boxes showing developmental indicators for each age range
-Labels or notes on the right side of the diagram
+Output CSV with columns:
+code,statement,type,notes
 
-Process this image into a CSV format with these exact columns:
+Follow these exact rules:
 
-code: The alphanumeric identifier (main section code and subsections)
-statement: The actual text content
-type: One of these categories:
+1. DOMAIN/COMPONENT:
+First rows must be:
+- Domain header (e.g., "SE,Social and Emotional Development,Domain of Development & Learning,")
+- Component (e.g., "SE1.,RELATIONSHIPS WITH OTHERS,Domain Component,")
+- Goal (e.g., "SE1.1,Forms trusting relationships with nurturing adults,Learning Goal,")
 
-"Domain of Development & Learning" (for main heading)
-"Domain Component" (for main coded sections)
-"Learning Goal" (for specific numbered goals)
-"Indicator" (for the descriptive boxes in age ranges)
+2. AGE RANGE SECTIONS:
+- Process each age range in order: BIRTH-8m, 9-18m, 19-36m, 37-48m, 49-60m
+- Start each age range section with a row containing just the age range (empty code/type/notes)
+- List ALL indicators that appear in that age range, even if they also appear in other ranges
 
-notes: Any categorization shown on the right side of the image
+3. INDICATORS:
+- Each indicator must be in its own cell, properly quoted with double quotes
+- Include complete text without modifications
+- Keep all parenthetical examples
+- Include all punctuation exactly as shown
+- Preserve asterisks (*) when present
+- Type should be "Indicator"
+- Include the note category from right side in ALL CAPS
 
-Follow these rules:
+4. TEXT FORMATTING:
+- Each indicator statement must be wrapped in double quotes
+- Use double quotes for cells containing commas
+- Use escaped quotes (\") for any quotes within the text
+- Don't use line breaks within cells
+- Join multi-line text into single lines within the quotes
+- Keep exact wording and punctuation
+- Don't combine or deduplicate indicators that appear in multiple age ranges
 
-Start with the main domain heading
-Include the domain component (coded section)
-Include the specific learning goal
-For each age range indicator:
-
-List the age range on a separate row
-Include each text box as a separate indicator entry
-Preserve the exact wording from the image
-
-Maintain hierarchical structure through the coding system
-Use empty cells where no value exists (marked by commas in CSV)
-Put age ranges in Birth-18m, 9-36m, 19-36m, 37-60m format before their indicators
-
-Important: Format your response ONLY as CSV data with no other text or explanation.
-
-Example:
+Example Format:
 code,statement,type,notes
 SE,Social and Emotional Development,Domain of Development & Learning,
-SE1.,Relationships with Others,Domain Component,
-SE1.2,Interacts with peers,Learning Goal,
-,Birth-18m,,
-,"[exact text from box]",Indicator,[right-side category if present]"""
+SE1.,RELATIONSHIPS WITH OTHERS,Domain Component,
+SE1.1,Forms trusting relationships with nurturing adults,Learning Goal,
+,BIRTH-8m,,
+,"Engages in back-and-forth interactions with familiar adults (e.g., peek-a-boo, makes vocalizations)",Indicator,INTERACTIONS
+,9-18m,,
+,"[complete indicator text in quotes]",Indicator,INTERACTIONS
+
+Important:
+- Each indicator must be in its own properly quoted cell
+- List each indicator under EVERY age range where it appears
+- Don't modify or combine text
+- Keep exact punctuation and capitalization
+- Notes should be in ALL CAPS
+- Include asterisks (*) where present
+- Include all parenthetical examples in full
+- Ensure proper CSV escaping for commas and quotes
+
+Format response as CSV data only with no additional text or explanations."""
 
 def encode_image(image_path):
     with open(image_path, "rb") as image_file:
@@ -61,31 +72,78 @@ def parse_claude_response(response_text):
     
     # Look for the CSV content
     csv_content = []
-    for line in lines:
-        if ',' in line:  # Simple check for CSV-like content
-            csv_content.append(line)
+    current_line = []
+    in_quotes = False
     
-    if not csv_content:
-        return []
-
-    # Use StringIO to create a file-like object from the CSV content
+    # First, properly join wrapped lines that are part of the same field
+    for line in lines:
+        # Skip lines until we find the header
+        if not csv_content and not line.startswith('code,'):
+            continue
+            
+        # Handle header line
+        if line.startswith('code,'):
+            csv_content.append(line)
+            continue
+            
+        # Handle content lines
+        if '"' in line:
+            quotes_count = line.count('"')
+            if quotes_count % 2 == 1:  # Odd number of quotes
+                if in_quotes:
+                    current_line.append(line)
+                    csv_content.append(' '.join(current_line))
+                    current_line = []
+                    in_quotes = False
+                else:
+                    current_line = [line]
+                    in_quotes = True
+            else:
+                if current_line:
+                    current_line.append(line)
+                    csv_content.append(' '.join(current_line))
+                    current_line = []
+                else:
+                    csv_content.append(line)
+        else:
+            if in_quotes:
+                current_line.append(line)
+            else:
+                csv_content.append(line)
+    
+    # Handle any remaining content
+    if current_line:
+        csv_content.append(' '.join(current_line))
+    
+    # Parse the CSV content
     csv_file = StringIO('\n'.join(csv_content))
     reader = csv.reader(csv_file)
     
     # Skip the header row
-    next(reader)
+    header = next(reader)
     
     # Convert rows to dictionaries with correct field names
     parsed_data = []
+    
     for row in reader:
-        if len(row) >= 4:  # Ensure we have enough columns
+        if len(row) >= 1:
             parsed_row = {
-                'code': row[0],
-                'statement': row[1],
-                'type': row[2],
-                'notes': row[3] if len(row) > 3 else ''
+                'code': row[0] if row[0] else '',
+                'statement': row[1] if len(row) > 1 else '',
+                'type': row[2] if len(row) > 2 else '',
+                'notes': row[3].upper() if len(row) > 3 and row[3] else ''  # Convert notes to uppercase
             }
-            parsed_data.append(parsed_row)
+            
+            # Ensure Indicator type for descriptive boxes when needed
+            if (parsed_row['statement'] and 
+                not any(x in parsed_row['statement'] for x in ['Birth-', '9-', '19-', '37-', '49-']) and
+                not parsed_row['type'] and
+                parsed_row['statement'] not in ['Domain of Development & Learning', 'Domain Component', 'Learning Goal']):
+                parsed_row['type'] = 'Indicator'
+            
+            # Add to parsed data if there's meaningful content
+            if parsed_row['statement'] or parsed_row['code']:
+                parsed_data.append(parsed_row)
     
     return parsed_data
 
@@ -145,6 +203,9 @@ def process_images_with_claude(image_folder, output_csv):
 
             except Exception as e:
                 print(f"Error processing {filename}: {str(e)}")
+                print("Full error:")
+                import traceback
+                print(traceback.format_exc())
                 continue
 
     if all_data:
