@@ -229,8 +229,8 @@ def process_images_with_claude(image_folder, output_csv):
         print("No data to export")
 
 def main():
-    image_folder = 'arkansas'
-    output_csv = 'akfullutput.csv'
+    image_folder = 'missing'
+    output_csv = 'akmissingutput.csv'
 
     process_images_with_claude(image_folder, output_csv)
 
