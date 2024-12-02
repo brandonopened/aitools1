@@ -1,28 +1,1352 @@
-filename
-page_10.png
-page_14.png
-page_17.png
-page_18.png
-page_22.png
-page_24.png
-page_25.png
-page_29.png
-page_32.png
-page_35.png
-page_40.png
-page_42.png
-page_51.png
-page_53.png
-page_55.png
-page_56.png
-page_57.png
-page_58.png
-page_6.png
-page_60.png
-page_62.png
-page_64.png
-page_66.png
-page_67.png
-page_68.png
-page_69.png
-page_70.png
+filename,code,statement,type,notes
+page_1.png,SE,Social and Emotional Development,Domain of Development & Learning,
+page_1.png,SE1.,RELATIONSHIPS WITH OTHERS,Domain Component,
+page_1.png,SE1.1,Forms trusting relationships with nurturing adults,Learning Goal,
+page_1.png,,BIRTH-8m,Label,
+page_1.png,,"Engages in back-and-forth interactions with familiar adults (e.g., peek-a-boo, makes vocalizations in response to adult interaction, imitates facial expressions or sounds)",Indicator,INTERACTIONS
+page_1.png,,9-18m,Label,
+page_1.png,,"Participates in longer back-and-forth interactions with adults to share experiences; imitates adults' actions; communicates ideas; seeks assistance; and engages in role play, games, or other activities",Indicator,ATTACHMENT RELATIONSHIPS
+page_1.png,,19-36m,Label,
+page_1.png,,"Communicates needs to familiar adults through a variety of behaviors ranging from crying, looking at object of interest and back at caregiver, smiling, pointing, dropping or banging objects, to leading adult by the hand",Indicator,INTERACTIONS
+page_1.png,,"Forms strong emotional bonds (attachment) with one or more caregivers (e.g., shows preference for familiar adults, demonstrates pleasure during caregiver interactions, is soothed by caregiver)",Indicator,ATTACHMENT RELATIONSHIPS
+page_1.png,,"Looks to particular people for security, comfort, and protection and shows distress or uneasiness when separated from a special person (separation anxiety) or when encountering strangers (stranger anxiety)",Indicator,ATTACHMENT RELATIONSHIPS
+page_1.png,,Explores the environment while regularly checking in (visually or physically) with trusted adults and seeks these adults when experiencing stress or uncertainty,Indicator,ATTACHMENT RELATIONSHIPS
+page_1.png,,37-48m,,
+page_1.png,,"Takes greater initiative in social interactions and begins to show interest in familiar adults' feelings, preferences, and well-being",Indicator,INTERACTIONS
+page_1.png,,Separates from primary caregivers with minimal distress when with other familiar and trusted adults*,Indicator,ATTACHMENT RELATIONSHIPS
+page_1.png,,49-60m,,
+page_2.png,SE,Social and Emotional Development,Domain of Development & Learning,
+page_2.png,SE1.,Relationships with Others,Domain Component,
+page_2.png,SE1.2,Interacts with peers,Learning Goal,
+page_2.png,,Birth-8m,,
+page_2.png,,"Shows interest in peers (e.g., watches other children, reaches out to touch them, imitates sounds or actions) with increasing participation in simple, brief back-and-forth interactions with peers",Indicator,INTERACTIONS
+page_2.png,,9-18m,,
+page_2.png,,"Shows preferences for certain playmates and develops friendships with a small group of children that are more reciprocal, exclusive, and enduring over time",Indicator,STAGES OF PLAY
+page_2.png,,19-36m,,
+page_2.png,,Begins to engage in parallel play (playing next to but not directly involved in another child's play),Indicator,STAGES OF PLAY
+page_2.png,,37-48m,,
+page_2.png,,"Participates in associative play (playing independently but engaging in the same activity as other children, sometimes interacting through talking or sharing toys)",Indicator,STAGES OF PLAY
+page_2.png,,49-60m,,
+page_2.png,,Engages in cooperative play with peers (communicates and collaborates with other children in role play or to achieve a goal),Indicator,SOCIAL SKILLS
+page_2.png,,"Shows increasing understanding and demonstration of social skills such as turn-taking, initiating and joining in group play situations, and solving social conflict with adult guidance",Indicator,SOCIAL SKILLS
+page_3.png,SE,Social and Emotional Development,Domain of Development & Learning,
+page_3.png,SE2.,EMOTIONAL EXPRESSION AND UNDERSTANDING,Domain Component,
+page_3.png,SE2.1,Experiences, expresses, and regulates a range of emotions
+page_3.png,,Birth-8m,,
+page_3.png,,"Expresses a range of basic emotions (e.g., joy, sadness, contentment, distress, interest, disgust, surprise, anger, fear) through facial expressions, gestures, and sounds",Indicator,EMOTION EXPRESSION
+page_3.png,,9-18m,,
+page_3.png,,"Uses adult support to calm self (e.g., relaxes when picked up and held by a familiar adult) and demonstrates some self-soothing behaviors (e.g., thumb/fist sucking, rocking, turning away from source of overstimulation)",Indicator,EMOTION REGULATION
+page_3.png,,"Comforts self by seeking a special toy, object, or caregiver when upset",Indicator,
+page_3.png,,19-36m,,
+page_3.png,,Uses words signs other communication methods and pretend play to express basic emotions as well as more complex self-conscious emotions (e.g. pride embarrassment shame guilt) with increasing awareness of their effects on others,Indicator,EMOTION EXPRESSION
+page_3.png,,Shows increasing ability to constructively express emotions or alter emotional expression based on social context and cultural norms*,Indicator,EMOTION REGULATION
+page_3.png,,37-48m,,
+page_3.png,,Uses an expanding range of self-regulation strategies with support and modeling (eg taking deep breaths and relaxing muscles verbal reasoning or reframing of the situation seeking quiet alone time),Indicator,EMOTION REGULATION
+page_3.png,,49-60m,,
+page_4.png,SE,Social and Emotional Development,Domain of Development & Learning,
+page_4.png,SE2.,EMOTIONAL EXPRESSION AND UNDERSTANDING,Domain Component,
+page_4.png,SE2.2,Interprets and responds to the feelings of others,Learning Goal,
+page_4.png,,BIRTH-8M,,
+page_4.png,,"Reacts to and takes cues from others' emotional expressions (e.g., cries when hears other children crying, smiles when someone laughs, stops an action when sees a worried or alarmed expression on caregiver's or peer's face)",Indicator,EMPATHY
+page_4.png,,9-18M,,
+page_4.png,,"Demonstrates interest or concern when others are hurt or in distress and may try to comfort or assist; at times actions may not always match needs of person (e.g., may bring stuffed animal to adult who has headache)",Indicator,EMPATHY
+page_4.png,,19-36M,,
+page_4.png,,"Demonstrates interest or concern when others are hurt or in distress and may try to comfort or assist; at times actions may not always match needs of person (e.g., may bring stuffed animal to adult who has headache)",Indicator,EMPATHY
+page_4.png,,"Recognizes and labels emotional reactions based on facial expressions, body language, and tone with increasing accuracy and precision",Indicator,EMOTION UNDERSTANDING
+page_4.png,,37-48M,,
+page_4.png,,"Responds sympathetically to others' distress with increased initiative and understanding that each person has their own specific needs (e.g., gets a peer's blanket from their cubby when child notices peer is sad)",Indicator,EMPATHY
+page_4.png,,"Recognizes and labels emotional reactions based on facial expressions, body language, and tone with increasing accuracy and precision",Indicator,EMOTION UNDERSTANDING
+page_4.png,,"Makes predictions and identifies causes and consequences of others' emotional reactions with increasing accuracy (e.g., says, I think the bears will feel scared when they find Goldilocks in their house""; ""When I get home from school my little sister is so excited to see me she jumps up and down"")""",Indicator,EMOTION UNDERSTANDING
+page_4.png,,49-60M,,
+page_4.png,,"Responds sympathetically to others' distress with increased initiative and understanding that each person has their own specific needs (e.g., gets a peer's blanket from their cubby when child notices peer is sad)",Indicator,EMPATHY
+page_4.png,,"Recognizes and labels emotional reactions based on facial expressions, body language, and tone with increasing accuracy and precision",Indicator,EMOTION UNDERSTANDING
+page_4.png,,"Makes predictions and identifies causes and consequences of others' emotional reactions with increasing accuracy (e.g., says, I think the bears will feel scared when they find Goldilocks in their house""; ""When I get home from school my little sister is so excited to see me she jumps up and down"")""",Indicator,EMOTION UNDERSTANDING
+page_5.png,SE,Social and Emotional Development,Domain of Development & Learning,
+page_5.png,SE3.,SELF-AWARENESS AND SELF-CONCEPT,Domain Component,
+page_5.png,SE3.1,Shows awareness of self as unique individual,Learning Goal,
+page_5.png,,BIRTH-8m,Indicator,
+page_5.png,,Develops beginning self-awareness (e.g., explores own hands and feet, responds to name)
+page_5.png,,9-18m,,
+page_5.png,,"Uses first-person pronouns (e.g., me, I) and own name to refer to themselves and shows growing understanding of ""mine"" and ""not mine""",Indicator,SENSE OF IDENTITY
+page_5.png,,19-36m,,
+page_5.png,,"Shows growing awareness of own physical characteristics (e.g., recognizes self in mirror and in photos; points to eyes, ears, or nose when asked)",Indicator,CHARACTERISTICS
+page_5.png,,Recognizes similarities and differences in their own and others' personal characteristics (e.g., communicates that a peers' hair color is different than their own; labels self as boy or girl),Indicator
+page_5.png,,37-48m,,
+page_5.png,,"Shows increased understanding that others have different interests, thoughts, beliefs, ideas, feelings, and abilities and differentiates themselves from others (e.g., I'm a fast runner", No one else in my family likes fish," but I do"")"""
+page_5.png,,Shows preferences for specific people, books, toys
+page_5.png,,49-60m,,
+page_5.png,,Communicates preferences and interests and shows increasing ability to explain their likes and dislikes (e.g.," ""I don't like bananas"" and later"," ""I like carrots because they're crunchy"")"
+page_5.png,*Children may show variation in these skills based on whether independence or interdependence is valued in their family and culture.,,,
+page_6.png,SE,Social and Emotional Development,Domain of Development & Learning,
+page_6.png,SE3.,SELF-AWARENESS AND SELF-CONCEPT,Domain Component,
+page_6.png,SE3.2,Demonstrates competence and confidence,Learning Goal,
+page_6.png,,BIRTH-8m,Indicator,
+page_6.png,,"Experiments with ability to influence surroundings and behavior of others (e.g., shows pleasure and curiosity in making toys produce noise; repeats actions or sounds that receive attention)",Indicator,SENSE OF AUTONOMY
+page_6.png,,9-18m,,
+page_6.png,,"Experiments with ability to influence surroundings and behavior of others (e.g., shows pleasure and curiosity in making toys produce noise; repeats actions or sounds that receive attention)",Indicator,SENSE OF AUTONOMY
+page_6.png,,Alternates between doing things independently and wanting help or comfort,Indicator,SENSE OF AUTONOMY
+page_6.png,,19-36m,,
+page_6.png,,Alternates between doing things independently and wanting help or comfort,Indicator,SENSE OF AUTONOMY
+page_6.png,,"Shows increasing confidence and competence in growing abilities by attempting to perform self-care activities without adult assistance (e.g., dressing self, pouring own juice)* and by selecting more challenging activities (e.g., choosing more difficult puzzles)",Indicator,SELF-CONFIDENCE
+page_6.png,,37-48m,,
+page_6.png,,"Shows increasing confidence and competence in growing abilities by attempting to perform self-care activities without adult assistance (e.g., dressing self, pouring own juice)* and by selecting more challenging activities (e.g., choosing more difficult puzzles)",Indicator,SELF-CONFIDENCE
+page_6.png,,"Describes own physical characteristics, behavior, abilities, gender, and ethnic identity positively",Indicator,SELF-CONFIDENCE
+page_6.png,,49-60m,,
+page_6.png,,"Shows increasing confidence and competence in growing abilities by attempting to perform self-care activities without adult assistance (e.g., dressing self, pouring own juice)* and by selecting more challenging activities (e.g., choosing more difficult puzzles)",Indicator,SELF-CONFIDENCE
+page_6.png,,"Describes own physical characteristics, behavior, abilities, gender, and ethnic identity positively",Indicator,SELF-CONFIDENCE
+page_7.png,CD,Cognitive Development,Domain of Development & Learning,
+page_7.png,,9-18 months,,
+page_7.png,,"Child doesn't point to show things to others, doesn't know what familiar things are, doesn't have at least 6 words or doesn't gain new words, or loses skills that he or she once had",Indicator,DEVELOPMENTAL WARNING SIGNS
+page_7.png,,18-36 months,Indicator,
+page_7.png,,"Child doesn't point to show things to others, doesn't know what familiar things are, doesn't have at least 6 words or doesn't gain new words, or loses skills that he or she once had",Indicator,DEVELOPMENTAL WARNING SIGNS
+page_7.png,,36 months (3 years),Indicator,
+page_7.png,,"Child drools or has unclear speech, can't work simple toys like peg boards or simple puzzles, doesn't understand simple instructions, or loses skills he or she once had",Indicator,DEVELOPMENTAL WARNING SIGNS
+page_7.png,,48 months (4 years),Indicator,
+page_7.png,,"Child has trouble scribbling, shows no interest in interactive games or make believe, doesn't follow three-part directions, can't retell a favorite story, or loses skills that he or she once had",Indicator,DEVELOPMENTAL WARNING SIGNS
+page_7.png,,60 months (5 years),Indicator,
+page_7.png,,"Child is easily distracted or has trouble focusing on one activity for more than 5 minutes; can't tell what is real and what is make believe, can't give his or her first and last name, doesn't draw pictures, or loses skills he or she once had",Indicator,DEVELOPMENTAL WARNING SIGNS
+page_8.png,CD1.1,Demonstrates increasing ability to focus attention and process information based on experiences,Learning Goal,
+page_8.png,,BIRTH-8M,,
+page_8.png,,Focuses visual attention or processes information differently when experiencing toxic stress vs. nurturing environments,Indicator,IMPACT OF STRESS
+page_8.png,,9-18M,,
+page_8.png,,Shows ability to maintain attention for specific tasks in positive learning environments,Indicator,EXECUTIVE FUNCTION
+page_8.png,,19-36M,,
+page_8.png,,Demonstrates capacity for cognitive flexibility when switching between two languages,Indicator,CULTURAL IMPACTS
+page_8.png,,Can focus attention for longer periods in supportive settings with fewer adverse experiences,Indicator,IMPACT OF STRESS
+page_8.png,,37-48M,,
+page_8.png,,Exhibits executive functioning skills like planning and task focus when experiencing positive relationships,Indicator,EXECUTIVE FUNCTION
+page_8.png,,May show behavioral challenges related to poor executive functioning due to adverse experiences,Indicator,IMPACT OF STRESS
+page_8.png,,49-60M,,
+page_8.png,,Successfully juggles multiple tasks requiring executive function when supported by nurturing caregivers,Indicator,EXECUTIVE FUNCTION
+page_8.png,,Can overcome negative effects of adverse experiences through supportive environments,Indicator,IMPACT OF STRESS
+page_8.png,,Demonstrates alternate ways of reaching cognitive milestones at different paces,Indicator,SPECIAL CONSIDERATIONS
+page_10.png,CD1.2,Shows persistence in approaching tasks,Learning Goal,
+page_10.png,,BIRTH-8m,Indicator,
+page_10.png,,"Repeats actions to produce similar results (e.g., repeatedly shakes toy to produce noise; puts objects in a container and dumps them out over and over again)",Indicator,DETERMINATION
+page_10.png,,"Demonstrates increasing ability to continue interactions with others (e.g., attends to game of peek-a-boo for longer period of time, makes back-and-forth vocalizations with adult) and stays engaged with toys for more than just a brief time",Indicator,TASK COMPLETION
+page_10.png,,9-18m,,
+page_10.png,,"Demonstrates increasing ability to continue interactions with others (e.g., attends to game of peek-a-boo for longer period of time, makes back-and-forth vocalizations with adult) and stays engaged with toys for more than just a brief time",Indicator,TASK COMPLETION
+page_10.png,,"Shows increasing willingness to repeat attempts at communication if not understood or repeat actions when encountering difficulties, with increasing ability to try different strategies until successful (e.g., repeatedly tries to force same shape into shape sorter; later in age range, tries a different shape after unsuccessful attempt)",Indicator,ACCEPTANCE OF CHALLENGES
+page_10.png,,19-36m,,
+page_10.png,,"Practices an activity many times with increasing independence to learn new skills and build mastery (e.g., chooses the same puzzle every day until they are able to assemble each piece quickly and easily)",Indicator,DETERMINATION
+page_10.png,,"Persists in activities for longer periods of time and shows increasing tendency to engage in tasks from start-to-finish (e.g., insists on finishing a drawing before going outside, wants to continue building structure until all blocks are used) and later in this age range seeks to return to an activity after having been away from it in order to complete the task",Indicator,TASK COMPLETION
+page_10.png,,"Shows increasing willingness to repeat attempts at communication if not understood or repeat actions when encountering difficulties, with increasing ability to try different strategies until successful (e.g., repeatedly tries to force same shape into shape sorter; later in age range, tries a different shape after unsuccessful attempt)",Indicator,ACCEPTANCE OF CHALLENGES
+page_10.png,,37-48m,,
+page_10.png,,"Practices an activity many times with increasing independence to learn new skills and build mastery (e.g., chooses the same puzzle every day until they are able to assemble each piece quickly and easily)",Indicator,DETERMINATION
+page_10.png,,"Persists in activities for longer periods of time and shows increasing tendency to engage in tasks from start-to-finish (e.g., insists on finishing a drawing before going outside, wants to continue building structure until all blocks are used) and later in this age range seeks to return to an activity after having been away from it in order to complete the task",Indicator,TASK COMPLETION
+page_10.png,,"Persists with adult encouragement and support even when presented with challenges (e.g., continues trying to build tall block tower even when some pieces fall; tries again to write name after running out of space on paper or recognizing a mistake)",Indicator,ACCEPTANCE OF CHALLENGES
+page_10.png,,49-60m,,
+page_10.png,,"Practices an activity many times with increasing independence to learn new skills and build mastery (e.g., chooses the same puzzle every day until they are able to assemble each piece quickly and easily)",Indicator,DETERMINATION
+page_10.png,,"Persists in activities for longer periods of time and shows increasing tendency to engage in tasks from start-to-finish (e.g., insists on finishing a drawing before going outside, wants to continue building structure until all blocks are used) and later in this age range seeks to return to an activity after having been away from it in order to complete the task",Indicator,TASK COMPLETION
+page_10.png,,"Persists with adult encouragement and support even when presented with challenges (e.g., continues trying to build tall block tower even when some pieces fall; tries again to write name after running out of space on paper or recognizing a mistake)",Indicator,ACCEPTANCE OF CHALLENGES
+page_11.png,CD2.1,Focuses and sustains attention,Learning Goal,
+page_11.png,,BIRTH-8M,,
+page_11.png,,"Orients to and focuses on sounds, activities, people, and objects in the environment (e.g., attends to sounds, lights, etc.; turns head to follow caregiver with his or her gaze)",Indicator,ATTENTION & ENGAGEMENT
+page_11.png,,"Shows increasing ability to attend to people and objects and join others in a common focus (e.g., attends to a short, familiar storybook, though may not want to follow book page by page)",Indicator,ATTENTION & ENGAGEMENT
+page_11.png,,9-18M,,
+page_11.png,,"Shows increasing ability to attend to people and objects and join others in a common focus (e.g., attends to a short, familiar storybook, though may not want to follow book page by page)",Indicator,ATTENTION & ENGAGEMENT
+page_11.png,,19-36M,,filename=cd2.1.image
+page_11.png,,Maintains focus and attention for longer periods of time with increasing independence and ability to ignore distractions and resume task after interruptions*,Indicator,ATTENTION & ENGAGEMENT
+page_11.png,,"Focuses on something specific while ignoring irrelevant information (selective attention) with increasing skill (e.g., counts only yellow bears in a group that includes bears of other colors; carries on a conversation despite loud background noise on the playground)",Indicator,SELECTIVE ATTENTION
+page_11.png,,37-48M,,
+page_11.png,,Maintains focus and attention for longer periods of time with increasing independence and ability to ignore distractions and resume task after interruptions*,Indicator,ATTENTION & ENGAGEMENT
+page_11.png,,"Focuses on something specific while ignoring irrelevant information (selective attention) with increasing skill (e.g., counts only yellow bears in a group that includes bears of other colors; carries on a conversation despite loud background noise on the playground)",Indicator,SELECTIVE ATTENTION
+page_11.png,,"Shifts focus among various aspects of an object, activity, or story (e.g., recognizes two objects are alike because they are the same color, then recognizes that one of them is like another object because it is the same shape; talks about specific aspects of a story)",Indicator,SELECTIVE ATTENTION
+page_11.png,,"Shows increasing ability to shift attention away from a desired object, activity, person, etc. with adult support and coaching (e.g., engages in a different activity when preferred activity is unavailable; with support focuses on a book after a difficult separation from caregiver)",Indicator,SELECTIVE ATTENTION
+page_11.png,,49-60M,,filename=cd2.1.image
+page_11.png,,Maintains focus and attention for longer periods of time with increasing independence and ability to ignore distractions and resume task after interruptions*,Indicator,ATTENTION & ENGAGEMENT
+page_11.png,,"Focuses on something specific while ignoring irrelevant information (selective attention) with increasing skill (e.g., counts only yellow bears in a group that includes bears of other colors; carries on a conversation despite loud background noise on the playground)",Indicator,SELECTIVE ATTENTION
+page_11.png,,"Shifts focus among various aspects of an object, activity, or story (e.g., recognizes two objects are alike because they are the same color, then recognizes that one of them is like another object because it is the same shape; talks about specific aspects of a story)",Indicator,SELECTIVE ATTENTION
+page_11.png,,"Shows increasing ability to shift attention away from a desired object, activity, person, etc. with adult support and coaching (e.g., engages in a different activity when preferred activity is unavailable; with support focuses on a book after a difficult separation from caregiver)",Indicator,SELECTIVE ATTENTION
+page_12.png,CD2.,EXECUTIVE FUNCTION,Domain Component,
+page_12.png,CD2.2,Shows flexibility in adjusting thinking and behavior to different contexts,Learning Goal,
+page_12.png,,BIRTH-8m,Indicator,
+page_12.png,,"Uses familiar objects in new or unanticipated ways (e.g., drops or throws a rattle, uses an overturned pail as a drum, and later in this age range pretends a block is a phone)",Indicator,FLEXIBLE THINKING
+page_12.png,,9-18m,,
+page_12.png,,"Uses familiar objects in new or unanticipated ways (e.g., drops or throws a rattle, uses an overturned pail as a drum, and later in this age range pretends a block is a phone)",Indicator,FLEXIBLE THINKING
+page_12.png,,19-36m,,
+page_12.png,,"Uses familiar objects in new or unanticipated ways (e.g., drops or throws a rattle, uses an overturned pail as a drum, and later in this age range pretends a block is a phone)",Indicator,FLEXIBLE THINKING
+page_12.png,,"Transitions from one activity to the next (e.g., moving from center time to snack time) with increasing independence and ability to adjust to changes in routine when necessary with support and advance notice from adults",Indicator,ADJUSTING BEHAVIOR TO MATCH CONTEXT
+page_12.png,,37-48m,,
+page_12.png,,"Shows increasing ability to flexibly shift between roles or use props in multiple ways (e.g., pretends to be the dad and the pet dog, using different voices and actions for each character; uses a paper plate as a steering wheel and then later as a bus driver's hat)",Indicator,FLEXIBLE THINKING
+page_12.png,,"Transitions from one activity to the next (e.g., moving from center time to snack time) with increasing independence and ability to adjust to changes in routine when necessary with support and advance notice from adults",Indicator,ADJUSTING BEHAVIOR TO MATCH CONTEXT
+page_12.png,,"Applies different rules in different contexts with decreasing need for reminders (e.g., takes shoes off at home, but not at school; runs and uses ""outside voice"" when on playground, but uses ""walking feet"" and ""inside voice"" in classroom; if a dual language learner, speaks in home language or English based on whom they are talking to)",Indicator,ADJUSTING BEHAVIOR TO MATCH CONTEXT
+page_12.png,,49-60m,,
+page_12.png,,"Shows increasing ability to flexibly shift between roles or use props in multiple ways (e.g., pretends to be the dad and the pet dog, using different voices and actions for each character; uses a paper plate as a steering wheel and then later as a bus driver's hat)",Indicator,FLEXIBLE THINKING
+page_12.png,,"Flexibly shifts between directions during an activity or game (e.g., usually performs actions at appropriate times during ""Simon Says""; sorts objects by color and then by shape when prompted)",Indicator,ADJUSTING BEHAVIOR TO MATCH CONTEXT
+page_13.png,CD2.3,Regulates impulses and behaviors,Learning Goal,
+page_13.png,,BIRTH-8M,,
+page_13.png,,"Typical development of these skills tends to emerge after 8 months. However, foundations of this learning goal are built through: SE2.1 Experiences, expresses, and regulates a range of emotions (see page 20)",Indicator,IMPULSE CONTROL
+page_13.png,,9-18M,,
+page_13.png,,"Responds to redirection and limit-setting with increasing consistency (e.g., pauses when an adult says stop"" or asks them not to do something)""",Indicator,IMPULSE CONTROL
+page_13.png,,19-36M,,
+page_13.png,,"Shows increasing control over impulsive actions, words, and behaviors with adult support (e.g., walks around instead of through a puddle when directed; avoids imitating negative behavior of peer with adult support; requests turn with a toy rather than grabbing it)",Indicator,IMPULSE CONTROL
+page_13.png,,"Shows increasing understanding of phrases like later"" and ""after lunch"" and ability to comply with requests that involve waiting (e.g."," ""Eat your snack and then we'll play with cars."")""",Indicator
+page_13.png,,37-48M,,
+page_13.png,,"Shows increasing control over impulsive actions, words, and behaviors with adult support (e.g., walks around instead of through a puddle when directed; avoids imitating negative behavior of peer with adult support; requests turn with a toy rather than grabbing it)",Indicator,IMPULSE CONTROL
+page_13.png,,"Shows increasing understanding of phrases like later"" and ""after lunch"" and ability to comply with requests that involve waiting (e.g."," ""Eat your snack and then we'll play with cars."")""",Indicator
+page_13.png,,"Shows increasing ability to delay gratification (e.g., raises hand and waits to be called on during small group time; waits until end of birthday song to eat special snack; waits until there is space at a center to select an activity)",Indicator,DELAY OF GRATIFICATION
+page_13.png,,49-60M,,filename=cd2.3.image
+page_13.png,,"Shows increasing control over impulsive actions, words, and behaviors with adult support (e.g., walks around instead of through a puddle when directed; avoids imitating negative behavior of peer with adult support; requests turn with a toy rather than grabbing it)",Indicator,IMPULSE CONTROL
+page_13.png,,"Shows increasing understanding of phrases like later"" and ""after lunch"" and ability to comply with requests that involve waiting (e.g."," ""Eat your snack and then we'll play with cars."")""",Indicator
+page_13.png,,"Shows increasing ability to delay gratification (e.g., raises hand and waits to be called on during small group time; waits until end of birthday song to eat special snack; waits until there is space at a center to select an activity)",Indicator,DELAY OF GRATIFICATION
+page_14.png,CD2.,EXECUTIVE FUNCTION,Domain Component,
+page_14.png,CD2.4,Holds and manipulates information in memory,Learning Goal,
+page_14.png,,BIRTH-8m,Indicator,
+page_14.png,,"Shows awareness that people and objects still exist when they are out of sight and sound range (object permanence; e.g., reaches under a blanket to retrieve a stuffed animal that an adult has hidden while child watches; when older, watches at the window after a family member leaves)",Indicator,SHORT-TERM & WORKING MEMORY
+page_14.png,,"Anticipates familiar actions or routines (e.g., raises legs when diaper is changed; later in this age range, goes to table when it is time to eat)",Indicator,LONG-TERM MEMORY
+page_14.png,,"Responds to familiar people and objects (e.g., shows excitement about a toy that was played with days earlier; later in this age range looks for or points to familiar people or objects when they are named)",Indicator,LONG-TERM MEMORY
+page_14.png,,9-18m,,
+page_14.png,,19-36m,,
+page_14.png,,"Searches for hidden or missing objects and notices when people are missing from a familiar group (e.g., when a peer is absent)",Indicator,SHORT-TERM & WORKING MEMORY
+page_14.png,,"Remembers and communicates about recent events (e.g., what happened earlier in the day; what has just happened in a story being read)",Indicator,SHORT-TERM & WORKING MEMORY
+page_14.png,,"Remembers and follows two-step directions (e.g., ""Put all the crayons in the basket, then put the basket on the shelf""; ""Touch your nose, then touch your ear"") with decreasing need for adult support",Indicator,SHORT-TERM & WORKING MEMORY
+page_14.png,,"Learns and recalls motor routines, songs, and rhymes over time with increasing accuracy (e.g., sings along with familiar song and performs accompanying actions)",Indicator,LONG-TERM MEMORY
+page_14.png,,Tells some details about stories or personal experiences with adult support and modeling,Indicator,LONG-TERM MEMORY
+page_14.png,,37-48m,,
+page_14.png,,"Shows increasing skill in memory games (e.g., recalls an increasing number of items removed from view in games like ""What's Missing""; plays simple memory matching card games)",Indicator,SHORT-TERM & WORKING MEMORY
+page_14.png,,"Remembers and follows multi-step directions (e.g., ""Push in your chair, throw away your trash, and then join us for circle time""; follows a sequence of actions for a song such as jumping, then clapping, then turning around) with decreasing need for adult support",Indicator,SHORT-TERM & WORKING MEMORY
+page_14.png,,"Remembers and processes multiple pieces of information before responding (e.g., considers two or more options before making a choice; remembers response to teacher's question long enough to respond after waiting for peers to share their comments)",Indicator,SHORT-TERM & WORKING MEMORY
+page_14.png,,"Imitates actions or behaviors that were observed at an earlier time (e.g., uses traffic hand signals on trike track after seeing them demonstrated by a crossing guard; divides markers into ""fair share"" groups after observing teacher do this the day before)",Indicator,LONG-TERM MEMORY
+page_14.png,,49-60m,,
+page_14.png,,Remembers past experiences or familiar stories with increasing ability to independently and accurately recall details and retell events in sequence,Indicator,LONG-TERM MEMORY
+page_15.png,CD3.,LOGIC AND REASONING,Domain Component,
+page_15.png,CD3.1,Uses reasoning and planning ahead to solve problems and reach goals,Learning Goal,
+page_15.png,,BIRTH-8m,Indicator,
+page_15.png,,"Uses own movements and actions to solve simple problems or reach goals (e.g., rolls to the side to reach an interesting object; pulls on an adult's leg when wants to be picked up)",Indicator,PROBLEM SOLVING
+page_15.png,,9-18m,,
+page_15.png,,"Uses own movements and actions to solve simple problems or reach goals (e.g., rolls to the side to reach an interesting object; pulls on an adult's leg when wants to be picked up)",Indicator,PROBLEM SOLVING
+page_15.png,,"Uses a variety of strategies to solve problems, such as trial-and-error, applying knowledge from previous experience, asking for help, or using objects as tools (e.g., using an object to reach something under a shelf)",Indicator,PROBLEM SOLVING
+page_15.png,,19-36m,,
+page_15.png,,"Uses a variety of strategies to solve problems, such as trial-and-error, applying knowledge from previous experience, asking for help, or using objects as tools (e.g., using an object to reach something under a shelf)",Indicator,PROBLEM SOLVING
+page_15.png,,37-48m,,
+page_15.png,,"Uses a variety of strategies to solve problems, such as trial-and-error, applying knowledge from previous experience, asking for help, or using objects as tools (e.g., using an object to reach something under a shelf)",Indicator,PROBLEM SOLVING
+page_15.png,,"Generates new approaches or changes plans if a better alternative is thought of or suggested (e.g., decides to build block structure on hard surface after it keeps falling down on the thick rug; accepts suggestion to use tape instead of glue to affix small leaves to a piece of paper)",Indicator,PROBLEM SOLVING
+page_15.png,,"Talks out loud to self (self-talk) during play (e.g., says ""I need all the red pieces. Here's another one...doesn't fit...turn it this way"" while putting together a puzzle; ""I'm the mommy, so I'm going to feed the baby then go to work"" while playing alone in the dramatic play area)",Indicator,PLANNING
+page_15.png,,"Shows increasing ability to independently and collaboratively make choices, plan for play scenarios or activities, and anticipate problems (e.g., assigns roles in dramatic play; gathers materials to complete an art project; says ""Tell me when you're finished at the computer so I can have a turn."")",Indicator,PLANNING
+page_15.png,,49-60m,,
+page_15.png,,"Uses a variety of strategies to solve problems, such as trial-and-error, applying knowledge from previous experience, asking for help, or using objects as tools (e.g., using an object to reach something under a shelf)",Indicator,PROBLEM SOLVING
+page_15.png,,"Generates new approaches or changes plans if a better alternative is thought of or suggested (e.g., decides to build block structure on hard surface after it keeps falling down on the thick rug; accepts suggestion to use tape instead of glue to affix small leaves to a piece of paper)",Indicator,PROBLEM SOLVING
+page_15.png,,"Talks out loud to self (self-talk) during play (e.g., says ""I need all the red pieces. Here's another one...doesn't fit...turn it this way"" while putting together a puzzle; ""I'm the mommy, so I'm going to feed the baby then go to work"" while playing alone in the dramatic play area)",Indicator,PLANNING
+page_15.png,,"Shows increasing ability to independently and collaboratively make choices, plan for play scenarios or activities, and anticipate problems (e.g., assigns roles in dramatic play; gathers materials to complete an art project; says ""Tell me when you're finished at the computer so I can have a turn."")",Indicator,PLANNING
+page_16.png,CD3.,LOGIC AND REASONING,Domain Component,
+page_16.png,CD3.2,Engages in symbolic and abstract thinking,Learning Goal,
+page_16.png,,BIRTH-8m,Indicator,
+page_16.png,,LD1.1 Understands and responds to language (in child's home language) [see page 47],Indicator,
+page_16.png,,"LD2.1 Uses increasingly complex vocabulary, grammar, and sentence structure [see page 48]",Indicator,
+page_16.png,,9-18m,,
+page_16.png,,"Uses realistic props in ways similar to the real objects they represent (e.g., talks on a toy phone) and imitates everyday actions of others",Indicator,PRETEND PLAY
+page_16.png,,"Recognizes that illustrations and photographs are representations of real things (e.g., points to pictures in book rather than trying to grasp objects on page; identifies people in photographs; learns names of animals from book and extends knowledge to real animals they see)",Indicator,SYMBOLIC REPRESENTATION
+page_16.png,,19-36m,,
+page_16.png,,"Uses familiar objects to represent something else (object substitution; e.g., uses a block as a pretend phone) and acts out routines, stories, or social roles alone or with peers",Indicator,PRETEND PLAY
+page_16.png,,"Recognizes that illustrations and photographs are representations of real things (e.g., points to pictures in book rather than trying to grasp objects on page; identifies people in photographs; learns names of animals from book and extends knowledge to real animals they see)",Indicator,SYMBOLIC REPRESENTATION
+page_16.png,,"Shows awareness that symbols (e.g., sign, icon, drawing) have meaning and understands that print carries a message",Indicator,SYMBOLIC REPRESENTATION
+page_16.png,,37-48m,,
+page_16.png,,"Uses language or imaginary props to stand in for objects (e.g., mimes holding a phone; says ""Let's pretend I gave you a ticket for the bus"") and engages in increasingly complex, longer play scenarios, assigning or assuming roles and discussing and planning actions",Indicator,PRETEND PLAY
+page_16.png,,"Uses drawing, emergent writing of numbers and letters, movement, and other constructions (e.g., art projects) to represent ideas or feelings",Indicator,SYMBOLIC REPRESENTATION
+page_16.png,,49-60m,,
+page_16.png,,"With adult support and prompting, engages in thinking that goes beyond the ""here and now"" (e.g., discusses details in a story that are not shown in an illustration, begins to understand explanations of events they have not directly experienced)",Indicator,ABSTRACT THINKING
+page_18.png,PH1.,Special Considerations,Domain Component,
+page_18.png,PH1.1,Physical Development and Health Adaptations,Learning Goal,
+page_18.png,,Special Considerations,Indicator,
+page_18.png,,"Children will reach the physical development indicators at different ages. Young children who live in poverty, lack stable relationships at home, live with drug- or alcohol-dependent caregivers, or who are exposed to other adverse conditions may face more challenges in engaging in physical activity and supporting their own nutrition and health. These children may require more intense positive interactions and learning opportunities to support their physical development and health.",Indicator,ADAPTATIONS
+page_18.png,,"Children's cultural background may play a role in how they develop and meet physical development and health milestones. Children's development in certain areas is dependent on the exposure they have to certain activities and opportunities to practice certain skills. For example, girls in some cultures may not be exposed to riding a bike or other physical activities. Similarly, a child's demonstration of fine motor skills using utensils may depend on whether early self-help skills such as feeding oneself are expected and taught in their family and culture, and use of utensils may vary across cultures.",Indicator,CULTURAL CONSIDERATIONS
+page_18.png,,"Children with physical disabilities should be included in physical activities, but may require alternate ways of meeting gross and fine motor indicators. These children may pedal an adaptive tricycle, navigate a wheelchair, or feed themselves with a specialized spoon. Children with cognitive disabilities may also meet the physical development and health goals in a different way, often at a different pace, with a different degree of accomplishment, and in a different order than typically developing children. When observing how children demonstrate what they know and can do, early childhood professionals must consider appropriate adaptations and modifications, as necessary.",Indicator,DISABILITIES
+page_18.png,,"A key consideration in promoting physical development is the safety of the children involved in physical activities. Wearing the appropriate safety equipment during a physical activity, not swinging an object when others are close, and providing adequate space to allow children the ability to move without bumping into others are key elements of safety when engaging in physical activity.",Indicator,SAFETY
+page_19.png,PH,Physical Development and Health,Domain of Development & Learning,
+page_19.png,PH1.,GROSS MOTOR,Domain Component,
+page_19.png,PH1.1,Demonstrates locomotor skills,Learning Goal,
+page_19.png,,BIRTH-8m,Indicator,
+page_19.png,,Lifts head and chest off firm surface such as floor when on tummy; rolls over,Indicator,BODY MOVEMENT
+page_19.png,,9-18m,,
+page_19.png,,"Shifts between lying down, sitting, and balancing on hands and knees",Indicator,BODY MOVEMENT
+page_19.png,,Moves from crawling to cruising* to walking** showing increasing coordination for each skill,Indicator,TRAVELING
+page_19.png,,"Crawls up stairs on hands or knees, later in this age range walks up and down stairs holding an adult's hand, stepping with both feet on each step",Indicator,CLIMBING
+page_19.png,,19-36m,,
+page_19.png,,"Changes speed or direction while moving (walking, running, using walker), though may have difficulty stopping with control",Indicator,TRAVELING
+page_19.png,,"Walks and runs with balance but may move unevenly (e.g., one arm may pump more) and has relatively wide space between feet",Indicator,TRAVELING
+page_19.png,,"Walks up and down stairs or climbing equipment by stepping with both feet on each step, with increasing ability to move without support from adult or handrail",Indicator,CLIMBING
+page_19.png,,"Experiments with different ways of moving (e.g., walks on tiptoes, walks backwards, marches, uses walker, pushes or pedals riding toy with feet)",Indicator,COMPLEX MOVEMENT
+page_19.png,,37-48m,,
+page_19.png,,"Moves with control, avoiding obstacles and people while moving (e.g., moves through obstacle course, steers wheelchair into small spaces; stops at intended location when running)",Indicator,TRAVELING
+page_19.png,,Walks and runs smoothly with more consistent leg and arm opposition movements and narrower space between feet,Indicator,TRAVELING
+page_19.png,,"Climbs up and down stairs or playground equipment using alternating feet and smooth, coordinated movements",Indicator,CLIMBING
+page_19.png,,"Shows increasing ability to coordinate complex movements (e.g., galloping, sliding, hopping, and later skipping and leaping) smoothly and with ease",Indicator,COMPLEX MOVEMENT
+page_19.png,,49-60m,,
+page_19.png,,"Moves with control, avoiding obstacles and people while moving (e.g., moves through obstacle course, steers wheelchair into small spaces; stops at intended location when running)",Indicator,TRAVELING
+page_19.png,,Walks and runs smoothly with more consistent leg and arm opposition movements and narrower space between feet,Indicator,TRAVELING
+page_19.png,,"Climbs up and down stairs or playground equipment using alternating feet and smooth, coordinated movements",Indicator,CLIMBING
+page_19.png,,"Shows increasing ability to coordinate complex movements (e.g., galloping, sliding, hopping, and later skipping and leaping) smoothly and with ease",Indicator,COMPLEX MOVEMENT
+page_20.png,PH,Physical Development and Health,Domain of Development & Learning,
+page_20.png,PH1.,GROSS MOTOR,Domain Component,
+page_20.png,PH1.2,Shows stability and balance,Learning Goal,
+page_20.png,,BIRTH-8m,Indicator,
+page_20.png,,"Sits independently with increasing stability and ability to change positions (e.g., get into sitting position from lying down or crawling, reach for a toy without falling, pull to a standing position from sitting)",Indicator,CORE STABILITY
+page_20.png,,9-18m,,
+page_20.png,,"Sits independently with increasing stability and ability to change positions (e.g., get into sitting position from lying down or crawling, reach for a toy without falling, pull to a standing position from sitting)",Indicator,CORE STABILITY
+page_20.png,,"Shows increased ability to maintain balance while in motion when moving from one position to another, changing directions, or stopping abruptly (e.g., carries a toy while walking, gets in and out of a chair, squats to pick up toys, ""freezes"" while running)",Indicator,CORE STABILITY
+page_20.png,,19-36m,,
+page_20.png,,"Shows increased ability to maintain balance while in motion when moving from one position to another, changing directions, or stopping abruptly (e.g., carries a toy while walking, gets in and out of a chair, squats to pick up toys, ""freezes"" while running)",Indicator,CORE STABILITY
+page_20.png,,"Coordinates increasingly complex movements while maintaining core stability (e.g., holds body upright while moving wheelchair forward, sits on and steers tricycle or other ride-on toy)",Indicator,CORE STABILITY
+page_20.png,,"Balances (e.g., on beam or sandbox edge or while standing on one leg) for progressively longer periods of time with increasing stability and independence",Indicator,CORE STABILITY
+page_20.png,,"Shows increasing competence in jumping for height (e.g., up and down, off a low step) and distance (e.g., jumps over objects, jumps forward), with increasing ability to use two-footed takeoff and landing with arm swing",Indicator,JUMPING HOPPING & LEAPING
+page_20.png,,37-48m,,
+page_20.png,,"Shows increased ability to maintain balance while in motion when moving from one position to another, changing directions, or stopping abruptly (e.g., carries a toy while walking, gets in and out of a chair, squats to pick up toys, ""freezes"" while running)",Indicator,CORE STABILITY
+page_20.png,,"Coordinates increasingly complex movements while maintaining core stability (e.g., holds body upright while moving wheelchair forward, sits on and steers tricycle or other ride-on toy)",Indicator,CORE STABILITY
+page_20.png,,"Balances (e.g., on beam or sandbox edge or while standing on one leg) for progressively longer periods of time with increasing stability and independence",Indicator,CORE STABILITY
+page_20.png,,"Shows increasing competence in jumping for height (e.g., up and down, off a low step) and distance (e.g., jumps over objects, jumps forward), with increasing ability to use two-footed takeoff and landing with arm swing",Indicator,JUMPING HOPPING & LEAPING
+page_20.png,,"Hops and leaps with increasing skill and control (e.g., hops forward on one foot without losing balance, leaps over a ""river"" made from two ropes taking off with one foot and landing on the other)",Indicator,JUMPING HOPPING & LEAPING
+page_20.png,,49-60m,,
+page_20.png,,"Shows increased ability to maintain balance while in motion when moving from one position to another, changing directions, or stopping abruptly (e.g., carries a toy while walking, gets in and out of a chair, squats to pick up toys, ""freezes"" while running)",Indicator,CORE STABILITY
+page_20.png,,"Coordinates increasingly complex movements while maintaining core stability (e.g., holds body upright while moving wheelchair forward, sits on and steers tricycle or other ride-on toy)",Indicator,CORE STABILITY
+page_20.png,,"Balances (e.g., on beam or sandbox edge or while standing on one leg) for progressively longer periods of time with increasing stability and independence",Indicator,CORE STABILITY
+page_20.png,,"Shows increasing competence in jumping for height (e.g., up and down, off a low step) and distance (e.g., jumps over objects, jumps forward), with increasing ability to use two-footed takeoff and landing with arm swing",Indicator,JUMPING HOPPING & LEAPING
+page_20.png,,"Hops and leaps with increasing skill and control (e.g., hops forward on one foot without losing balance, leaps over a ""river"" made from two ropes taking off with one foot and landing on the other)",Indicator,JUMPING HOPPING & LEAPING
+page_21.png,PH,Physical Development and Health,Domain of Development & Learning,
+page_21.png,PH1.,GROSS MOTOR,Domain Component,
+page_21.png,PH1.3,Demonstrates gross-motor manipulative skills,Learning Goal,
+page_21.png,,BIRTH-8m,Indicator,
+page_21.png,,"Reaches for and drops objects, grasps a rolled ball or other object with two hands, pushes or rolls objects, bats or swipes at toys",Indicator,THROWING
+page_21.png,,9-18m,,
+page_21.png,,"Reaches for and drops objects, grasps a rolled ball or other object with two hands, pushes or rolls objects, bats or swipes at toys",Indicator,THROWING
+page_21.png,,19-36m,,
+page_21.png,,"Catches medium- to large-size balls and similar objects by trapping ball against body with straight arms, showing increased ability to visually track objects in space",Indicator,CATCHING
+page_21.png,,"Tosses or throws balls or other objects (e.g., beanbag) with increasing control of direction, aim, and speed",Indicator,THROWING
+page_21.png,,"Strikes a stationary ball or other object with hand or arm (e.g., strikes a ball off of a table with hand), may not follow through or have accurate aim",Indicator,STRIKING
+page_21.png,,"Kicks with increased control and range of movement, progressing from kicking a stationary ball from a standing position to stepping or running up to it",Indicator,KICKING
+page_21.png,,37-48m,,
+page_21.png,,"Catches medium- to large-size balls and similar objects by trapping ball against body with straight arms, showing increased ability to visually track objects in space",Indicator,CATCHING
+page_21.png,,"Tosses or throws balls or other objects (e.g., beanbag) with increasing control of direction, aim, and speed",Indicator,THROWING
+page_21.png,,"Strikes a stationary ball or other object (e.g., hits beach ball with a short-handled paddle) with increasing follow through and accurate aim",Indicator,STRIKING
+page_21.png,,"Kicks with increased control and range of movement, progressing from kicking a stationary ball from a standing position to stepping or running up to it",Indicator,KICKING
+page_21.png,,49-60m,,
+page_21.png,,"Catches balls or other objects of any size with both hands, with arms bent",Indicator,CATCHING
+page_21.png,,"Tosses or throws balls or other objects with increased accuracy and force, stepping forward with the leg opposite the throwing arm and following through",Indicator,THROWING
+page_21.png,,"Strikes a stationary ball or other object (e.g., hits beach ball with a short-handled paddle) with increasing follow through and accurate aim",Indicator,STRIKING
+page_21.png,,"Kicks moving ball while running, tracking ball visually and using full leg swing with arms moving in opposition to the legs",Indicator,KICKING
+page_22.png,PH,Physical Development and Health,Domain of Development & Learning,
+page_22.png,PH2.,FINE MOTOR,Domain Component,
+page_22.png,PH2.1,Demonstrates fine-motor strength control and coordination,Learning Goal,
+page_22.png,,BIRTH-8m,Indicator,
+page_22.png,,"Uses hand-eye coordination to reach for, touch, and explore properties of objects",Indicator,HAND-EYE COORDINATION
+page_22.png,,"Grasps objects with increasing skill, adjusting grasp to match task (e.g., uses index finger and thumb [pincer grasp] to pick up pieces of cereal, uses whole hands to bang two blocks together)",Indicator,GRASP AND MANIPULATION
+page_22.png,,9-18m,,
+page_22.png,,"Uses hand-eye coordination to reach for, touch, and explore properties of objects",Indicator,HAND-EYE COORDINATION
+page_22.png,,"Grasps objects with increasing skill, adjusting grasp to match task (e.g., uses index finger and thumb [pincer grasp] to pick up pieces of cereal, uses whole hands to bang two blocks together)",Indicator,GRASP AND MANIPULATION
+page_22.png,,19-36m,,
+page_22.png,,"Uses hand-eye coordination to complete tasks (e.g., turning pages and pointing to pictures in books, turning knobs and unscrewing lids), though may lack precision in some actions (e.g., spills water when pouring)",Indicator,HAND-EYE COORDINATION
+page_22.png,,"Handles medium-size blocks, puzzle pieces, and manipulatives (e.g., works on three- to four-piece puzzles, puts together large connecting blocks or linking toys, strings large beads)",Indicator,GRASP AND MANIPULATION
+page_22.png,,"Manipulates a variety of fasteners with increasing skill, such as buttons, zippers, laces, and buckles",Indicator,GRASP AND MANIPULATION
+page_22.png,,37-48m,,
+page_22.png,,"Shows increasing refinement in hand-eye coordination (e.g., tracks words across page with finger with adult modeling and support, pours without spilling, pushes specific keys on keyboard)",Indicator,HAND-EYE COORDINATION
+page_22.png,,"Handles smaller blocks, puzzle pieces, and manipulatives (e.g., works puzzles of up to 10 pieces, builds structures using small Legos® or blocks, arranges small pegs in pegboard, strings small beads)",Indicator,GRASP AND MANIPULATION
+page_22.png,,"Manipulates a variety of fasteners with increasing skill, such as buttons, zippers, laces, and buckles",Indicator,GRASP AND MANIPULATION
+page_22.png,,49-60m,,
+page_22.png,,"Shows increasing refinement in hand-eye coordination (e.g., tracks words across page with finger with adult modeling and support, pours without spilling, pushes specific keys on keyboard)",Indicator,HAND-EYE COORDINATION
+page_22.png,,"Handles smaller blocks, puzzle pieces, and manipulatives (e.g., works puzzles of up to 10 pieces, builds structures using small Legos® or blocks, arranges small pegs in pegboard, strings small beads)",Indicator,GRASP AND MANIPULATION
+page_22.png,,"Manipulates more complex fasteners (e.g., threads belt through loops on pants, attempts to tie shoes)",Indicator,GRASP AND MANIPULATION
+page_23.png,PH,Physical Development and Health,Domain of Development & Learning,
+page_23.png,PH2.,FINE MOTOR,Domain Component,
+page_23.png,PH2.2,Adjusts grasp and coordinates movements to use tools,Learning Goal,
+page_23.png,,BIRTH-8m,Indicator,
+page_23.png,,"PH2.1 Demonstrates fine motor strength, control, and coordination",Indicator,FOUNDATIONS
+page_23.png,,9-18m,,
+page_23.png,,Scoops food with spoon with increasing control *,Indicator,UTENSILS
+page_23.png,,"Holds large writing and drawing tools (e.g., crayons, sidewalk chalk) to make spontaneous dots and scribbles, progressing from whole hand grip to approximate thumb-and-finger grip (may still move whole arm to make marks)",Indicator,WRITING & DRAWING TOOLS
+page_23.png,,19-36m,,
+page_23.png,,"Uses eating utensils with increasing competence, including spearing food with a fork and cutting food with a butter knife*",Indicator,UTENSILS
+page_23.png,,"Holds large writing and drawing tools (e.g., crayons, sidewalk chalk) to make spontaneous dots and scribbles, progressing from whole hand grip to approximate thumb-and-finger grip (may still move whole arm to make marks)",Indicator,WRITING & DRAWING TOOLS
+page_23.png,,Snips paper with child safety scissors with increasing ability to make changes in the direction of cutting to cut out simple shapes like circles (though may not be perfectly round),Indicator,SCISSORS
+page_23.png,,"Adjusts grasp to use different tools for different purposes (e.g., digs with shovel in sandbox, uses turkey baster at water table, scoops flour during food experiences) and uses increasingly complex tools such as stapler, hole punch, tape dispenser",Indicator,VARIETY OF TOOLS
+page_23.png,,37-48m,,
+page_23.png,,"Uses eating utensils with increasing competence, including spearing food with a fork and cutting food with a butter knife*",Indicator,UTENSILS
+page_23.png,,"Holds drawing and writing tools using three-point finger grip, using the other hand to hold paper, to make a variety of lines and shapes (e.g., circles, crosses, triangles), letter- and numeral-like forms, and some letters and numerals",Indicator,WRITING & DRAWING TOOLS
+page_23.png,,Snips paper with child safety scissors with increasing ability to make changes in the direction of cutting to cut out simple shapes like circles (though may not be perfectly round),Indicator,SCISSORS
+page_23.png,,"Adjusts grasp to use different tools for different purposes (e.g., digs with shovel in sandbox, uses turkey baster at water table, scoops flour during food experiences) and uses increasingly complex tools such as stapler, hole punch, tape dispenser",Indicator,VARIETY OF TOOLS
+page_23.png,,49-60m,,
+page_23.png,,"Uses eating utensils with increasing competence, including spearing food with a fork and cutting food with a butter knife*",Indicator,UTENSILS
+page_23.png,,"Holds drawing and writing tools using three-point finger grip, using the other hand to hold paper, to make a variety of lines and shapes (e.g., circles, crosses, triangles), letter- and numeral-like forms, and some letters and numerals",Indicator,WRITING & DRAWING TOOLS
+page_23.png,,Uses correct scissors grip and holds paper with one hand to cut along a straight line and cut out simple shapes and pictures,Indicator,SCISSORS
+page_23.png,,"Adjusts grasp to use different tools for different purposes (e.g., digs with shovel in sandbox, uses turkey baster at water table, scoops flour during food experiences) and uses increasingly complex tools such as stapler, hole punch, tape dispenser",Indicator,VARIETY OF TOOLS
+page_24.png,PH,Physical Development and Health,Domain of Development & Learning,
+page_24.png,PH3.,HEALTH AND WELL-BEING,Domain Component,
+page_24.png,PH3.1,Demonstrates interest in engaging in healthy eating habits and making nutritious food choices,Learning Goal,
+page_24.png,,BIRTH-8m,Indicator,
+page_24.png,,"Communicates to adults when hungry, thirsty, or has had enough to eat through actions (e.g., infant turns away from breast or bottle when full, crying when hungry) and later in this age range by using words or signs",Indicator,COMMUNICATING NEEDS
+page_24.png,,9-18m,,
+page_24.png,,"Communicates to adults when hungry, thirsty, or has had enough to eat through actions (e.g., infant turns away from breast or bottle when full, crying when hungry) and later in this age range by using words or signs",Indicator,COMMUNICATING NEEDS
+page_24.png,,"Shows a willingness to taste new foods (e.g., will take at least one bite of a new food, though may need to be offered several times) and expresses preferences about foods",Indicator,EXPLORATION OF FOOD EXPERIENCES
+page_24.png,,19-36m,,
+page_24.png,,"Shows a willingness to taste new foods (e.g., will take at least one bite of a new food, though may need to be offered several times) and expresses preferences about foods",Indicator,EXPLORATION OF FOOD EXPERIENCES
+page_24.png,,"Engages in basic cooking tasks during food experiences or in dramatic play scenarios (e.g., stirring ingredients in a bowl; setting plates out for snack; cutting with a plastic knife; scooping and measuring, spreading, sprinkling or mashing)",Indicator,EXPLORATION OF FOOD EXPERIENCES
+page_24.png,,"Names an increasing variety of foods, begins to ask questions about where food comes from, and later makes connections among food items (e.g., calls an apple and a pear ""fruit""; after working in the garden, notices that carrots and potatoes both grow in the ground)",Indicator,FOOD KNOWLEDGE
+page_24.png,,37-48m,,
+page_24.png,,"Shows a willingness to taste new foods (e.g., will take at least one bite of a new food, though may need to be offered several times) and expresses preferences about foods",Indicator,EXPLORATION OF FOOD EXPERIENCES
+page_24.png,,"Engages in basic cooking tasks during food experiences or in dramatic play scenarios (e.g., stirring ingredients in a bowl; setting plates out for snack; cutting with a plastic knife; scooping and measuring, spreading, sprinkling or mashing)",Indicator,EXPLORATION OF FOOD EXPERIENCES
+page_24.png,,"Names an increasing variety of foods, begins to ask questions about where food comes from, and later makes connections among food items (e.g., calls an apple and a pear ""fruit""; after working in the garden, notices that carrots and potatoes both grow in the ground)",Indicator,FOOD KNOWLEDGE
+page_24.png,,"Shows increasing awareness of healthy and unhealthy foods; demonstrates basic understanding that eating a variety of foods helps the body grow and be healthy, and makes choices about foods, sometimes based on whether the food is nutritious",Indicator,FOOD KNOWLEDGE
+page_24.png,,49-60m,,
+page_24.png,,"Engages in basic cooking tasks during food experiences or in dramatic play scenarios (e.g., stirring ingredients in a bowl; setting plates out for snack; cutting with a plastic knife; scooping and measuring, spreading, sprinkling or mashing)",Indicator,EXPLORATION OF FOOD EXPERIENCES
+page_24.png,,"Names an increasing variety of foods, begins to ask questions about where food comes from, and later makes connections among food items (e.g., calls an apple and a pear ""fruit""; after working in the garden, notices that carrots and potatoes both grow in the ground)",Indicator,FOOD KNOWLEDGE
+page_24.png,,"Shows increasing awareness of healthy and unhealthy foods; demonstrates basic understanding that eating a variety of foods helps the body grow and be healthy, and makes choices about foods, sometimes based on whether the food is nutritious",Indicator,FOOD KNOWLEDGE
+page_25.png,PH,Physical Development and Health,Domain of Development & Learning,
+page_25.png,PH3.,HEALTH AND WELL-BEING,Domain Component,
+page_25.png,PH3.2,Shows awareness of safe behavior,Learning Goal,
+page_25.png,,BIRTH-8m,Indicator,
+page_25.png,,"Uses sensory information and cues from caregivers to assess safety of environment (e.g., startles at a loud noise, looks to caregiver when approached by an unfamiliar adult, shows awareness of steep drop-offs when crawling or walking)",Indicator,AWARENESS OF SAFE BEHAVIOR AND SIGNALS OF DANGER
+page_25.png,,9-18m,,
+page_25.png,,"Stops unsafe behavior when prompted by an adult, though often needs additional support and redirection (e.g., when distracted or caught up in emotion)",Indicator,AWARENESS OF SAFE BEHAVIOR AND SIGNALS OF DANGER
+page_25.png,,19-36m,,
+page_25.png,,"Follows basic safety rules, practices, and routines with adult guidance and support (e.g., holds on to rope with knots or loops when moving with group from indoors to outdoors, keeps a safe distance from the swings when reminded)",Indicator,UNDERSTANDING OF SAFETY RULES AND PRACTICES
+page_25.png,,37-48m,,
+page_25.png,,"Identifies, avoids, and alerts others to danger and seeks and accepts adults' help in potentially unsafe situations (e.g., alerts teacher to a broken fence part, calls for help from the top of the play structure when needs assistance getting down, reminds another child to go down the slide feet first)",Indicator,AWARENESS OF SAFE BEHAVIOR AND SIGNALS OF DANGER
+page_25.png,,"Follows basic safety rules, practices, and routines with adult guidance and support (e.g., holds on to rope with knots or loops when moving with group from indoors to outdoors, keeps a safe distance from the swings when reminded)",Indicator,UNDERSTANDING OF SAFETY RULES AND PRACTICES
+page_25.png,,49-60m,,
+page_25.png,,"Identifies, avoids, and alerts others to danger and seeks and accepts adults' help in potentially unsafe situations (e.g., alerts teacher to a broken fence part, calls for help from the top of the play structure when needs assistance getting down, reminds another child to go down the slide feet first)",Indicator,AWARENESS OF SAFE BEHAVIOR AND SIGNALS OF DANGER
+page_25.png,,"Demonstrates knowledge of and ability to follow safety rules and routines with increased independence (e.g., most of the time remembers to put on a helmet before riding a tricycle; lines up when fire alarm goes off and when class is outside says to a peer, ""Now the teacher's going to call names to make sure we're all here."")",Indicator,UNDERSTANDING OF SAFETY RULES AND PRACTICES
+page_26.png,PH,Physical Development and Health,Domain of Development & Learning,
+page_26.png,PH3.,HEALTH AND WELL-BEING,Domain Component,
+page_26.png,PH3.3,Engages in a variety of developmentally appropriate physical activities,Learning Goal,
+page_26.png,,BIRTH-8m,Indicator,
+page_26.png,,"Participates in simple physical play with an adult (e.g., flexes legs while lying down as adult gently pushes feet back and forth, plays patty cake)",Indicator,PARTICIPATION IN PHYSICAL ACTIVITY
+page_26.png,,9-18m,,
+page_26.png,,"Shows interest and enjoyment in physical activity, movement games, and dances*",Indicator,PARTICIPATION IN PHYSICAL ACTIVITY
+page_26.png,,19-36m,,
+page_26.png,,"Shows interest and enjoyment in physical activity, movement games, and dances*",Indicator,PARTICIPATION IN PHYSICAL ACTIVITY
+page_26.png,,"Sustains physical activity (e.g., games, dances, running, other movement activities) for increasing periods of time without tiring*",Indicator,PARTICIPATION IN PHYSICAL ACTIVITY
+page_26.png,,37-48m,,
+page_26.png,,"Sustains physical activity (e.g., games, dances, running, other movement activities) for increasing periods of time without tiring*",Indicator,PARTICIPATION IN PHYSICAL ACTIVITY
+page_26.png,,"Initiates or engages in a variety of increasingly complex physical activities (e.g., pedals a tricycle; jumps in and out of hula hoops; completes an obstacle course that requires climbing, rolling, and crawling)",Indicator,PARTICIPATION IN PHYSICAL ACTIVITY
+page_26.png,,"Shows increasing understanding of the physical benefits of exercise (e.g., ""Running is good for my body;"" ""Mom said helping her carry in groceries made my arm muscles stronger"")",Indicator,KNOWLEDGE OF BENEFITS OF PHYSICAL ACTIVITY
+page_26.png,,49-60m,,
+page_26.png,,"Sustains physical activity (e.g., games, dances, running, other movement activities) for increasing periods of time without tiring*",Indicator,PARTICIPATION IN PHYSICAL ACTIVITY
+page_26.png,,"Initiates or engages in a variety of increasingly complex physical activities (e.g., pedals a tricycle; jumps in and out of hula hoops; completes an obstacle course that requires climbing, rolling, and crawling)",Indicator,PARTICIPATION IN PHYSICAL ACTIVITY
+page_26.png,,"Shows increasing understanding of the physical benefits of exercise (e.g., ""Running is good for my body;"" ""Mom said helping her carry in groceries made my arm muscles stronger"")",Indicator,KNOWLEDGE OF BENEFITS OF PHYSICAL ACTIVITY
+page_28.png,LD,Language Development,Domain of Development & Learning,
+page_28.png,LD1.,RECEPTIVE AND EXPRESSIVE LANGUAGE DEVELOPMENT,Domain Component,
+page_28.png,LD1.1,Demonstrates understanding and ability to process and respond to language,Learning Goal,
+page_28.png,,Receptive language describes children's ability to understand and respond to language (in the child's home language). This includes their understanding of an increasingly large vocabulary of words and their ability to comprehend and follow directions.,Indicator,RECEPTIVE LANGUAGE
+page_28.png,,"Expressive language refers to a child's speaking vocabulary, grammar and sentence structure, and clarity of communication.",Indicator,EXPRESSIVE LANGUAGE
+page_28.png,,Communication skills outline a child's ability to hold conversations and understand the social rules of language. Even young babies engage in 'conversations' by making sounds or faces back-and-forth with adults.,Indicator,COMMUNICATION SKILLS
+page_28.png,,"For children from families who speak a language other than English at home, development depends on exposure time rather than age. Progress through 'early-stage', 'mid-stage' and 'late-stage' English language development varies based on individual characteristics, exposure to English, and other factors.",Indicator,ENGLISH LANGUAGE DEVELOPMENT
+page_28.png,,"Early professionals should monitor for potential developmental delays, while understanding that language development varies widely between children.",Indicator,WARNING SIGNS
+page_29.png,LD,Language Development,Domain of Development & Learning,
+page_29.png,LD1.,LANGUAGE DEVELOPMENT MILESTONES,Domain Component,
+page_29.png,LD1.1,Demonstrates age-appropriate language development indicators,Learning Goal,
+page_29.png,,BIRTH-8m,Indicator,
+page_29.png,,BY 9 MONTHS,Indicator,
+page_29.png,,"a child doesn't babble (""mama"", ""baba"", ""dada"") or doesn't respond to own name",Indicator,WARNING SIGNS
+page_29.png,,9-18m,,
+page_29.png,,a child doesn't gain new words or doesn't have at least 6 words,Indicator,WARNING SIGNS
+page_29.png,,19-36m,,
+page_29.png,,a child doesn't speak in sentences or doesn't understand simple instructions,Indicator,WARNING SIGNS
+page_29.png,,37-48m,,
+page_29.png,,"a child doesn't follow 3-part commands, doesn't understand ""same"" and ""different,"" doesn't use ""me"" and ""you"" correctly, or doesn't speak clearly",Indicator,WARNING SIGNS
+page_29.png,,49-60m,,
+page_29.png,,"a child can't give his first and last name, doesn't use plurals or past tense properly, or doesn't talk about daily activities or experiences",Indicator,WARNING SIGNS
+page_30.png,LD1.1,Understands and responds to language (in child's home language),Learning Goal,
+page_30.png,,BIRTH-8M,,
+page_30.png,,"Responds to noises and voices in the environment (e.g., startles or cries at unexpected sounds; smiles or coos when parentese"" is used)""",Indicator,VOCABULARY & LANGUAGE COMPREHENSION
+page_30.png,,"Shows excitement at familiar words such as mommy, bottle, or beb� (baby in spanish)",,
+page_30.png,,"Engages in reciprocal face-to-face interactions and responds to adults through gestures, looking in a specific direction, or vocalizations",Indicator,FOLLOWS DIRECTIONS
+page_30.png,,9-18M,,
+page_30.png,,"Attends to familiar objects or people that have been named and understands the meaning of an increasing number of simple words, especially objects encountered in everyday life",Indicator,VOCABULARY & LANGUAGE COMPREHENSION
+page_30.png,,"Follows simple one- or two-word requests like Wave bye-bye"" with decreasing need for adult gestures""",Indicator,FOLLOWS DIRECTIONS
+page_30.png,,19-36M,,
+page_30.png,,"Identifies (e.g., points to) people, animals, and objects when prompted (e.g., points to a cow in a book when adult asks Where's the cow?"")""",Indicator,VOCABULARY & LANGUAGE COMPREHENSION
+page_30.png,,"Follows one- or two-step directions that involve familiar experiences or objects (e.g., Pick up the ball and roll it to me"," or Dame la mano"" [""Give me your hand"" in Spanish for dual language learners])""",Indicator
+page_30.png,,37-48M,,
+page_30.png,,"Understands an increasing number of words for objects (nouns), actions (verbs), and characteristics (adjectives) encountered in real and symbolic contexts* (e.g., when playing doctor"" brings another child a stethoscope when he or she asks for it)""",Indicator,VOCABULARY & LANGUAGE COMPREHENSION
+page_30.png,,Responds to increasingly complex Who, What, Why
+page_30.png,,"Follows increasingly more detailed, multi-step directions (e.g., Please put away your markers", put your picture in your cubby," and join us on the carpet."")"""
+page_30.png,,49-60M,,
+page_30.png,,"Understands an increasing number of words for objects (nouns), actions (verbs), and characteristics (adjectives) encountered in real and symbolic contexts* (e.g., when playing doctor"" brings another child a stethoscope when he or she asks for it)""",Indicator,VOCABULARY & LANGUAGE COMPREHENSION
+page_30.png,,Responds to increasingly complex Who, What, Why
+page_30.png,,"Follows increasingly more detailed, multi-step directions (e.g., Please put away your markers", put your picture in your cubby," and join us on the carpet."")"""
+page_31.png,LD,Language Development,Domain of Development & Learning,
+page_31.png,LD2.,EXPRESSIVE LANGUAGE,Domain Component,
+page_31.png,LD2.1,Uses increasingly complex vocabulary grammar and sentence structure (in child's home language)*,Learning Goal,
+page_31.png,,BIRTH-8m,Indicator,
+page_31.png,,"Experiments with making sounds (e.g., babbling), often repeating consonant sounds (e.g., da da and ba ba)",Indicator,EXPRESSIVE VOCABULARY
+page_31.png,,"Uses vocalizations (e.g., cooing) and gestures to communicate needs, interests, and emotions",Indicator,CLARITY OF COMMUNICATION
+page_31.png,,9-18m,,
+page_31.png,,"Begins to say a number of simple words [e.g., ""nana"", ""go,"" ""hi,"" and ""leche"" (milk in Spanish for dual language learners)]",Indicator,EXPRESSIVE VOCABULARY
+page_31.png,,"May combine two words to express a want or interest (e.g., says ""go side"" when wanting to go outside)",Indicator,GRAMMAR & SENTENCE STRUCTURE
+page_31.png,,Uses a small number of real and made-up words that can be understood by familiar adults who speak the same language,Indicator,CLARITY OF COMMUNICATION
+page_31.png,,19-36m,,
+page_31.png,,"Begins to use two- and three-syllable words and names specific people, animals, and toys",Indicator,EXPRESSIVE VOCABULARY
+page_31.png,,"Begins to use plurals, past tense, subject-verb agreement, and the possessive form* although often incorrectly (e.g., ""Mommy good work"")",Indicator,GRAMMAR & SENTENCE STRUCTURE
+page_31.png,,"Increasingly combines simple words into sentence-like structures (e.g., ""Me milk please"") and when older, sentences (e.g., ""Let's go to Grammy's house!"" or ""Léeme un cuento"" [""Read me a story"" in Spanish for dual language learners])",Indicator,GRAMMAR & SENTENCE STRUCTURE
+page_31.png,,"Speaks or signs clearly enough most of the time that unfamiliar adults who speak the same language can understand; still mispronounces many words (e.g., says ""buhsghetti"" for spaghetti)",Indicator,CLARITY OF COMMUNICATION
+page_31.png,,37-48m,,
+page_31.png,,"Uses increasingly complex and varied vocabulary words to express needs and describe objects, relationships between objects, emotions, and actions",Indicator,EXPRESSIVE VOCABULARY
+page_31.png,,"Tells increasingly detailed stories about other times and places, with increasing accuracy in use of past and future tenses",Indicator,GRAMMAR & SENTENCE STRUCTURE
+page_31.png,,"Uses increasingly longer (i.e., at least four to six word sentences) that are increasingly complex (i.e., combining two or three phrases* in a sentence)",Indicator,GRAMMAR & SENTENCE STRUCTURE
+page_31.png,,Communicates clearly enough to be understood by most people and will usually only mispronounce new and/or unusual words,Indicator,CLARITY OF COMMUNICATION
+page_31.png,,49-60m,,
+page_31.png,,"Uses increasingly complex and varied vocabulary words to express needs and describe objects, relationships between objects, emotions, and actions",Indicator,EXPRESSIVE VOCABULARY
+page_31.png,,"Tells increasingly detailed stories about other times and places, with increasing accuracy in use of past and future tenses",Indicator,GRAMMAR & SENTENCE STRUCTURE
+page_31.png,,"Uses increasingly longer (i.e., at least four to six word sentences) that are increasingly complex (i.e., combining two or three phrases* in a sentence)",Indicator,GRAMMAR & SENTENCE STRUCTURE
+page_31.png,,Communicates clearly enough to be understood by most people and will usually only mispronounce new and/or unusual words,Indicator,CLARITY OF COMMUNICATION
+page_32.png,LD,Language Development,Domain of Development & Learning,
+page_32.png,LD3.,COMMUNICATION SKILLS,Domain Component,
+page_32.png,LD3.1,Communicates using social and conversational rules,Learning Goal,
+page_32.png,,BIRTH-8m,Indicator,
+page_32.png,,"Uses eye contact, facial expressions, gestures, and sounds to engage in turn-taking ""conversations"" with adults",Indicator,CONVERSATIONS
+page_32.png,,9-18m,,
+page_32.png,,"Initiates interaction or ""conversation"" with adults by pointing at objects, speaking or signing a word, sharing a toy, or calling attention to an object or person",Indicator,CONVERSATIONS
+page_32.png,,"Shows joint attention* by shifting gaze to where an adult is looking or gesturing (e.g., looks at an object an adult is pointing to and looking at) and when older, initiates bids for joint attention (e.g., holds up a toy and looks at it, looks at adult for eye contact, then returns gaze to toy)",Indicator,SOCIAL RULES OF LANGUAGE
+page_32.png,,19-36m,,
+page_32.png,,"Engages in brief back-and-forth conversations, often repeating or imitating words, tone, and actions of adults",Indicator,CONVERSATIONS
+page_32.png,,"Begins to use polite forms of communication by saying ""please,"" ""thank you,"" and ""excuse me"" with modeling",Indicator,SOCIAL RULES OF LANGUAGE
+page_32.png,,37-48m,,
+page_32.png,,"Engages in back-and-forth conversations of increasing duration (two to five conversational exchanges**), with increasing ability to extend conversations by asking questions, making comments related to the topic, and later in this age range, engages in a wider variety of conversational topics",Indicator,CONVERSATIONS
+page_32.png,,"With support and reminders, uses social rules of language*** with increasing consistency and ability to apply rules in both familiar and unfamiliar settings",Indicator,SOCIAL RULES OF LANGUAGE
+page_32.png,,49-60m,,
+page_32.png,,"Engages in back-and-forth conversations of increasing duration (two to five conversational exchanges**), with increasing ability to extend conversations by asking questions, making comments related to the topic, and later in this age range, engages in a wider variety of conversational topics",Indicator,CONVERSATIONS
+page_32.png,,"With support and reminders, uses social rules of language*** with increasing consistency and ability to apply rules in both familiar and unfamiliar settings",Indicator,SOCIAL RULES OF LANGUAGE
+page_33.png,LD,Language Development,Domain of Development & Learning,
+page_33.png,LD4.,ENGLISH LANGUAGE DEVELOPMENT,Domain Component,
+page_33.png,LD4.1,Demonstrates progress in attending to understanding and responding to English,Learning Goal,
+page_33.png,,EARLY-STAGE ENGLISH LANGUAGE DEVELOPMENT*,Indicator,
+page_33.png,,"Responds to simple, commonly used words and phrases when accompanied by gestures and other supports",Indicator,ENGLISH LANGUAGE DEVELOPMENT
+page_33.png,,Pays attention to and observes other children and adults as English is spoken,Indicator,ENGLISH LANGUAGE DEVELOPMENT
+page_33.png,,"Attends to English in small- and large-group activities, such as circle time, storybook reading, etc.",Indicator,ENGLISH LANGUAGE DEVELOPMENT
+page_33.png,,"Imitates behaviors of other children to get the same result (e.g. sees child make the sign for ""me too"" in sign language and makes the same sign)",Indicator,ENGLISH LANGUAGE DEVELOPMENT
+page_33.png,,"Continues to make developmentally appropriate progress in receptive language skills in home language, including increasing ability to comprehend and respond to directions in home language",Indicator,HOME LANGUAGE DEVELOPMENT
+page_33.png,,MID-STAGE ENGLISH LANGUAGE DEVELOPMENT,Indicator,
+page_33.png,,"Responds to words, phrases, and directions in English when they are not accompanied by gestures or other visual aids",Indicator,ENGLISH LANGUAGE DEVELOPMENT
+page_33.png,,"Demonstrates an understanding of English words related to basic concepts (e.g., colors, some animal classifications, foods, etc.)",Indicator,ENGLISH LANGUAGE DEVELOPMENT
+page_33.png,,"Responds appropriately to requests in English that involve one-step directions (e.g., ""clean up"") when personally directed by others (these requests may occur with or without contextual cues)",Indicator,ENGLISH LANGUAGE DEVELOPMENT
+page_33.png,,"Continues to make developmentally appropriate progress in receptive language skills in home language, including increasing ability to comprehend and respond to directions in home language",Indicator,HOME LANGUAGE DEVELOPMENT
+page_33.png,,LATE-STAGE ENGLISH LANGUAGE DEVELOPMENT,Indicator,
+page_33.png,,"Demonstrates an understanding of a larger set of words in English (for objects and actions, personal pronouns, and possessives) in both real and pretend activities",Indicator,ENGLISH LANGUAGE DEVELOPMENT
+page_33.png,,"Demonstrates an understanding of words in English related to more advanced concepts (e.g., abstract emotions and ideas)",Indicator,ENGLISH LANGUAGE DEVELOPMENT
+page_33.png,,"Follows directions that involve a one- or two-step sequence, relying less on contextual cues",Indicator,ENGLISH LANGUAGE DEVELOPMENT
+page_33.png,,"Continues to make developmentally appropriate progress in receptive language skills in home language, including increasing ability to comprehend and respond to directions in home language",Indicator,HOME LANGUAGE DEVELOPMENT
+page_34.png,LD,Language Development,Domain of Development & Learning,
+page_34.png,LD4.,ENGLISH LANGUAGE DEVELOPMENT,Domain Component,
+page_34.png,LD4.2,Demonstrates progress in speaking and expressing self in English,Learning Goal,
+page_34.png,,EARLY-STAGE ENGLISH LANGUAGE DEVELOPMENT,Indicator,
+page_34.png,,"Relies on nonverbal communication, such as gestures or behaviors, to seek attention, request objects, or initiate a response from others",Indicator,ENGLISH LANGUAGE DEVELOPMENT
+page_34.png,,Repeats sounds and words in English,Indicator,ENGLISH LANGUAGE DEVELOPMENT
+page_34.png,,Uses age-appropriate vocabulary and grammar in the home language,Indicator,HOME LANGUAGE DEVELOPMENT
+page_34.png,,Listens to and converses in age appropriate way in home language,Indicator,HOME LANGUAGE DEVELOPMENT
+page_34.png,,"Asks a variety of age-appropriate questions (e.g., ""what,"" ""why,"" ""how,"" ""when,"" and ""where"") in home language",Indicator,HOME LANGUAGE DEVELOPMENT
+page_34.png,,MID-STAGE ENGLISH LANGUAGE DEVELOPMENT,Indicator,
+page_34.png,,Combines nonverbal with some verbal communication to be understood by others,Indicator,ENGLISH LANGUAGE DEVELOPMENT
+page_34.png,,Engages in codeswitching* during conversations,Indicator,ENGLISH LANGUAGE DEVELOPMENT
+page_34.png,,Uses telegraphic speech**,Indicator,ENGLISH LANGUAGE DEVELOPMENT
+page_34.png,,"Uses formulaic speech (expressions that are learned whole, e.g., ""I don't know"")",Indicator,ENGLISH LANGUAGE DEVELOPMENT
+page_34.png,,Uses English vocabulary that mainly consists of concrete nouns and some verbs and pronouns,Indicator,ENGLISH LANGUAGE DEVELOPMENT
+page_34.png,,Converses with others in English using two or three words at a time but switches back and forth between English and their home language,Indicator,ENGLISH LANGUAGE DEVELOPMENT
+page_34.png,,"Uses some English grammatical markers (e.g., ""-ing"" or the plural-forming ""-s"") and applies at times the rules of grammar of the home language to English",Indicator,ENGLISH LANGUAGE DEVELOPMENT
+page_34.png,,"Uses ""what"" and ""why"" questions in English, sometimes with errors",Indicator,ENGLISH LANGUAGE DEVELOPMENT
+page_34.png,,LATE-STAGE ENGLISH LANGUAGE DEVELOPMENT,Indicator,
+page_34.png,,Demonstrates increasing reliance on verbal communication in English to be understood by others while still making some mistakes,Indicator,ENGLISH LANGUAGE DEVELOPMENT
+page_34.png,,"Uses new English vocabulary to share knowledge of concepts, including conversational and academic vocabulary",Indicator,ENGLISH LANGUAGE DEVELOPMENT
+page_34.png,,"Sustains a conversation in English with increasingly complex syntax, adding conjunctions, adjectives, adverbs, subject-verb-object patterns, and other more advanced elements of English sentence construction",Indicator,ENGLISH LANGUAGE DEVELOPMENT
+page_34.png,,"Expands use of different forms of grammar in English (e.g., plurals; possessive pronouns; simple past tense verbs), sometimes with errors",Indicator,ENGLISH LANGUAGE DEVELOPMENT
+page_34.png,,"Uses ""what,"" ""why,"" ""how,"" ""when,"" and ""where"" questions in more complete forms in English, sometimes with mistakes",Indicator,ENGLISH LANGUAGE DEVELOPMENT
+page_35.png,EL,Emergent Literacy,Domain of Development & Learning,
+page_35.png,EL1.,EARLY LITERACY DEVELOPMENT,Domain Component,
+page_35.png,EL1.1,Demonstrates developmental progression of literacy skills,Learning Goal,
+page_35.png,,BIRTH-8m,Indicator,
+page_35.png,,By 9 months,Indicator,
+page_35.png,,"A child doesn't babble (""mama"", ""baba"", ""dada""), doesn't play any games involving back-and-forth interaction, doesn't respond to own name or doesn't look where you point",Indicator,WARNING SIGNS
+page_35.png,,By 18 months,Indicator,
+page_35.png,,A child doesn't gain new words or doesn't have at least 6 words,Indicator,WARNING SIGNS
+page_35.png,,By 3 years old (36 months),Indicator,
+page_35.png,,"A child drools, has very unclear speech, doesn't speak in sentences, or doesn't understand simple instructions",Indicator,WARNING SIGNS
+page_35.png,,By 4 years old (48 months),Indicator,
+page_35.png,,"A child has trouble scribbling, can't retell a favorite story, doesn't follow 3-part commands, doesn't understand ""same"" and ""different"" or ""he"" and ""she"", doesn't use ""me"" and ""you"" correctly, or speaks unclearly",Indicator,WARNING SIGNS
+page_35.png,,By 5 years old (60 months),Indicator,
+page_35.png,,"A child can't give his or her first and last name, doesn't use plurals or past tense properly, or doesn't talk about daily activities or experiences",Indicator,WARNING SIGNS
+page_35.png,,Additional Warning Signs,Indicator,
+page_35.png,,"For older preschool children (4-5 years old), difficulty with rhyming games, learning the alphabet, associating appropriate sounds with letters, or delayed or impaired speech",Indicator,WARNING SIGNS
+page_36.png,EL,Emergent Literacy,Domain of Development & Learning,
+page_36.png,EL1.,LITERACY SPECIAL CONSIDERATIONS,Domain Component,
+page_36.png,,"For children 5-years-old, not recognizing letters of the alphabet",Indicator,LITERACY RISK
+page_36.png,,"For all children, being from families who have a history of learning disabilities with speech, language, spelling, or reading",Indicator,LITERACY RISK
+page_36.png,EL2.,LITERACY ACCESS AND EXPOSURE,Domain Component,
+page_36.png,,"Children from middle-class families are typically read to for about 1,000 hours before beginning kindergarten whereas children from families who live in poverty are read to for only about 25 hours",Indicator,SOCIOECONOMIC FACTORS
+page_36.png,EL3.,CULTURAL CONSIDERATIONS,Domain Component,
+page_36.png,,Within some cultures many parents believe that literacy is something that develops from formal schooling after age 5,Indicator,CULTURAL BELIEFS
+page_36.png,,Understanding different cultural models of literacy may be especially helpful for early childhood professionals as they work to create home-school partnerships,Indicator,PARTNERSHIPS
+page_36.png,EL4.,ACCOMMODATIONS,Domain Component,
+page_36.png,,Early childhood professionals must ensure that young children with disabilities can fully participate in early literacy learning activities,Indicator,ADAPTATIONS
+page_36.png,,Children with disabilities may require adaptations both to engage in early literacy activities and to demonstrate their emergent literacy skills,Indicator,ADAPTATIONS
+page_36.png,EL5.,KEY TAKEAWAYS,Domain Component,
+page_36.png,,"By the time children turn 3, there are already dramatic differences in the development of emergent literacy skills, making the goal of reading by third grade more challenging for some children than others",Indicator,DEVELOPMENTAL DIFFERENCES
+page_36.png,,Developing the foundation of emergent literacy begins at birth with later emergent literacy skills building on skills acquired in the very earliest years of life,Indicator,SKILL PROGRESSION
+page_36.png,,Children from socioeconomically and culturally diverse families have different levels of exposure to literacy experiences at home,Indicator,ACCESS DISPARITIES
+page_37.png,EL,Emergent Literacy,Domain of Development & Learning,
+page_37.png,EL1.,ENGAGEMENT IN LITERACY EXPERIENCES AND UNDERSTANDING OF STORIES AND BOOKS,Domain Component,
+page_37.png,EL1.1,Shows interest in literacy experiences,Learning Goal,
+page_37.png,,BIRTH-8m,Indicator,
+page_37.png,,"Demonstrates listening by becoming quiet or shows pleasure when listening to a familiar story, rhyme, or song",Indicator,ENGAGEMENT IN LITERACY EXPERIENCES
+page_37.png,,9-18m,,
+page_37.png,,"Demonstrates listening by becoming quiet or shows pleasure when listening to a familiar story, rhyme, or song",Indicator,ENGAGEMENT IN LITERACY EXPERIENCES
+page_37.png,,19-36m,,
+page_37.png,,"Participates in and actively seeks out a variety of literacy experiences such as telling and listening to stories, singing and saying rhymes, engaging with writing materials, and incorporating books or other print into play",Indicator,ENGAGEMENT IN LITERACY EXPERIENCES
+page_37.png,,37-48m,,
+page_37.png,,"Participates in and actively seeks out a variety of literacy experiences such as telling and listening to stories, singing and saying rhymes, engaging with writing materials, and incorporating books or other print into play",Indicator,ENGAGEMENT IN LITERACY EXPERIENCES
+page_37.png,,"Shows interest in an increasing variety of types of stories and texts (e.g., picture books, informational texts, rhymes and poetry, illustrated biographies, folk and fairy tales)",Indicator,VARIETY OF INTERESTS
+page_37.png,,49-60m,,
+page_37.png,,"Participates in and actively seeks out a variety of literacy experiences such as telling and listening to stories, singing and saying rhymes, engaging with writing materials, and incorporating books or other print into play",Indicator,ENGAGEMENT IN LITERACY EXPERIENCES
+page_37.png,,"Shows interest in an increasing variety of types of stories and texts (e.g., picture books, informational texts, rhymes and poetry, illustrated biographies, folk and fairy tales)",Indicator,VARIETY OF INTERESTS
+page_38.png,EL,Emergent Literacy,Domain of Development & Learning,
+page_38.png,EL1.,ENGAGEMENT IN LITERACY EXPERIENCES AND UNDERSTANDING OF STORIES AND BOOKS,Domain Component,
+page_38.png,EL1.2,Engages in read-alouds and conversations about books and stories,Learning Goal,
+page_38.png,,BIRTH-8m,Indicator,
+page_38.png,,Attends to caregiver's voice when being held and read to,Indicator,ENGAGEMENT WITH BOOKS AND STORIES
+page_38.png,,9-18m,,
+page_38.png,,"Actively participates in book reading experiences by pointing to pictures, turning pages, and making sounds or simple comments",Indicator,ENGAGEMENT WITH BOOKS AND STORIES
+page_38.png,,19-36m,,
+page_38.png,,"Shows comprehension by making comments, asking and answering questions, and responding to prompts during book reading experiences",Indicator,STORY COMPREHENSION
+page_38.png,,"Pretends to read, describing what is happening and using some language from the book with pictures as cues",Indicator,STORY STRUCTURE
+page_38.png,,"Retells stories (e.g., favorite book, personal experience) with increasing use of proper sequence and inclusion of major story elements in their narratives such as main characters, setting, story problems, and cause-and-effect relationships",Indicator,STORY STRUCTURE
+page_38.png,,37-48m,,
+page_38.png,,"Shows comprehension by making comments, asking and answering questions, and responding to prompts during book reading experiences",Indicator,STORY COMPREHENSION
+page_38.png,,"Retells stories (e.g., favorite book, personal experience) with increasing use of proper sequence and inclusion of major story elements in their narratives such as main characters, setting, story problems, and cause-and-effect relationships",Indicator,STORY STRUCTURE
+page_38.png,,"Demonstrates knowledge from informational texts* in a variety of ways and makes connections to other books or personal experiences (e.g., when teacher reads the story Owl Moon, child says, ""We learned in that other book that owls stay awake at night and sleep during the day."")",Indicator,INFORMATIONAL TEXTS
+page_38.png,,49-60m,,
+page_38.png,,"With modeling and support, discusses predictions, cause-and-effect relationships, story-related problems and resolutions, and connections to other books and own experiences",Indicator,STORY COMPREHENSION
+page_38.png,,"Retells stories (e.g., favorite book, personal experience) with increasing use of proper sequence and inclusion of major story elements in their narratives such as main characters, setting, story problems, and cause-and-effect relationships",Indicator,STORY STRUCTURE
+page_38.png,,"Demonstrates knowledge from informational texts* in a variety of ways and makes connections to other books or personal experiences (e.g., when teacher reads the story Owl Moon, child says, ""We learned in that other book that owls stay awake at night and sleep during the day."")",Indicator,INFORMATIONAL TEXTS
+page_39.png,EL,Emergent Literacy,Domain of Development & Learning,
+page_39.png,EL2.,PHONOLOGICAL AWARENESS,Domain Component,
+page_39.png,EL2.1,Notices and manipulates the sounds of language,Learning Goal,
+page_39.png,,BIRTH-8m,Indicator,
+page_39.png,,Shows increasing awareness of and interest in the sounds of spoken language by focusing on the speaker,Indicator,EXPLORATION OF SOUNDS OF LANGUAGE
+page_39.png,,Experiments with the sounds of language,Indicator,EXPLORATION OF SOUNDS OF LANGUAGE
+page_39.png,,9-18m,,
+page_39.png,,Shows increasing awareness of and interest in the sounds of spoken language by focusing on the speaker,Indicator,EXPLORATION OF SOUNDS OF LANGUAGE
+page_39.png,,Experiments with the sounds of language,Indicator,EXPLORATION OF SOUNDS OF LANGUAGE
+page_39.png,,"Joins in and repeats songs, fingerplays, and poems with rhyming or alliterative phrases (words with same initial sound)",Indicator,RHYME
+page_39.png,,19-36m,,
+page_39.png,,"Joins in and repeats songs, fingerplays, and poems with rhyming or alliterative phrases (words with same initial sound)",Indicator,RHYME
+page_39.png,,"Fills in the missing rhyming word of a song, fingerplay, or story and can generate rhyming words spontaneously (real or nonsense words)",Indicator,RHYME
+page_39.png,,37-48m,,
+page_39.png,,"Fills in the missing rhyming word of a song, fingerplay, or story and can generate rhyming words spontaneously (real or nonsense words)",Indicator,RHYME
+page_39.png,,"Shows awareness that some words begin with the same sound (e.g., ""Sam and Selena start with the same sound!"")",Indicator,ALLITERATION
+page_39.png,,Shows awareness of separate words in sentences,Indicator,MANIPULATING UNITS OF LANGUAGE
+page_39.png,,49-60m,,
+page_39.png,,Decides whether two words rhyme,Indicator,RHYME
+page_39.png,,"Shows awareness that some words begin with the same sound (e.g., ""Sam and Selena start with the same sound!"")",Indicator,ALLITERATION
+page_39.png,,Shows awareness of separate words in sentences,Indicator,MANIPULATING UNITS OF LANGUAGE
+page_39.png,,"Verbally identifies, blends, segments, and deletes parts of words (manipulating units of language)* with decreasing need for modeling or visual supports",Indicator,MANIPULATING UNITS OF LANGUAGE
+page_40.png,EL,Emergent Literacy,Domain of Development & Learning,
+page_40.png,EL3.,KNOWLEDGE AND USE OF BOOKS PRINT AND LETTERS,Domain Component,
+page_40.png,EL3.1,Responds to features of books and print,Learning Goal,
+page_40.png,,BIRTH-8m,Indicator,
+page_40.png,,"Explores books with all senses (e.g., sight, touch, even taste)",Indicator,BOOK KNOWLEDGE
+page_40.png,,9-18m,,
+page_40.png,,"Explores books with all senses (e.g., sight, touch, even taste)",Indicator,BOOK KNOWLEDGE
+page_40.png,,19-36m,,
+page_40.png,,"Shows beginning book handling skills (e.g., holds books right-side-up, turns pages one at a time from front-to-back) with adult support",Indicator,BOOK KNOWLEDGE
+page_40.png,,37-48m,,
+page_40.png,,"Imitates the act of reading (e.g., pretends to read to stuffed animals or peers) and shows increasing independence in book handling skills",Indicator,BOOK KNOWLEDGE
+page_40.png,,"Knows some features of a book (e.g., title, author, illustrator)",Indicator,BOOK KNOWLEDGE
+page_40.png,,Shows understanding that print carries a message and can represent spoken language,Indicator,PRINT KNOWLEDGE
+page_40.png,,"Shows increasing awareness of print concepts (e.g., words are made up of letters, print is read left-to-right and top-to-bottom)",Indicator,PRINT KNOWLEDGE
+page_40.png,,49-60m,,
+page_40.png,,"Imitates the act of reading (e.g., pretends to read to stuffed animals or peers) and shows increasing independence in book handling skills",Indicator,BOOK KNOWLEDGE
+page_40.png,,"Knows some features of a book (e.g., title, author, illustrator)",Indicator,BOOK KNOWLEDGE
+page_40.png,,Shows understanding that print carries a message and can represent spoken language,Indicator,PRINT KNOWLEDGE
+page_40.png,,"Shows increasing awareness of print concepts (e.g., words are made up of letters, print is read left-to-right and top-to-bottom)",Indicator,PRINT KNOWLEDGE
+page_42.png,EL,Emergent Literacy,Domain of Development & Learning,
+page_42.png,EL3.,KNOWLEDGE AND USE OF BOOKS PRINT AND LETTERS,Domain Component,
+page_42.png,EL3.3,Demonstrates emergent writing skills,Learning Goal,
+page_42.png,,BIRTH-8m,Indicator,
+page_42.png,,Typical development of these skills tends to emerge after 8 months. However foundations of this learning goal are built through: EL1.1 Shows interest in literacy experiences (see page 54); EL2.1 Notices and manipulates the sounds of language (see page 56); EL3.1 Responds to features of books and print (see page 57); PH2.1 Demonstrates fine motor strength control and coordination (see page 39),Indicator,PRE-WRITING EXPLORATION
+page_42.png,,9-18m,,
+page_42.png,,Explores writing tools and movements making scribble marks with increasing control,Indicator,PRE-WRITING EXPLORATION
+page_42.png,,19-36m,,
+page_42.png,,Explores writing tools and movements making scribble marks with increasing control,Indicator,PRE-WRITING EXPLORATION
+page_42.png,,Shows increasing understanding that writing carries a message and uses scribbles letter-like shapes or letters to represent words or ideas,Indicator,LETTER AND PRINT WRITING CONCEPTS
+page_42.png,,37-48m,,
+page_42.png,,Shows increasing understanding that writing carries a message and uses scribbles letter-like shapes or letters to represent words or ideas,Indicator,LETTER AND PRINT WRITING CONCEPTS
+page_42.png,,Produces strings of letters and/or letter-like forms (may be in unconventional order); begins to separate groups of letters with spaces,Indicator,LETTER AND PRINT WRITING CONCEPTS
+page_42.png,,Writes an increasing number of letters correctly especially those in own name,Indicator,LETTER AND PRINT WRITING CONCEPTS
+page_42.png,,49-60m,,
+page_42.png,,Shows increasing understanding that writing carries a message and uses scribbles letter-like shapes or letters to represent words or ideas,Indicator,LETTER AND PRINT WRITING CONCEPTS
+page_42.png,,Produces strings of letters and/or letter-like forms (may be in unconventional order); begins to separate groups of letters with spaces,Indicator,LETTER AND PRINT WRITING CONCEPTS
+page_42.png,,Writes an increasing number of letters correctly especially those in own name,Indicator,LETTER AND PRINT WRITING CONCEPTS
+page_42.png,,Writes first name with or without mistakes*,Indicator,EARLY WORD WRITING
+page_42.png,,Uses early invented spelling (writes initial and/or final sounds to represent whole word; e.g. writes MK for milk)*,Indicator,EARLY WORD WRITING
+page_44.png,MT,Mathematical Thinking,Domain of Development & Learning,
+page_44.png,MT1.,MATHEMATICAL DEVELOPMENT,Domain Component,
+page_44.png,MT1.1,Demonstrates foundational mathematical thinking and understanding,Learning Goal,
+page_44.png,,ALL AGES,Indicator,
+page_44.png,,Algebraic thinking charts a child's progression in the ability to sort objects and recognize and create patterns,Indicator,FOUNDATIONAL SKILLS
+page_44.png,,"Participates in exploratory measurement activities and compares objects focuses on a child's growing ability to measure, compare, and organize (sericate) objects",Indicator,FOUNDATIONAL SKILLS
+page_44.png,,"Explores and describes shapes and spatial relationships provides a progression of a child's knowledge of shapes and spatial sense, as well as the child's ability to manipulate shapes",Indicator,FOUNDATIONAL SKILLS
+page_44.png,,WARNING SIGNS (4-5 YEARS),Indicator,
+page_44.png,,"For older preschool children (4-5 years old), difficulty learning to associate specific numbers to a small group of items (i.e., fewer than four), sorting items in logical ways, remembering numbers, and sensing time accurately (e.g., wants to know soon after arriving at school why it's not lunchtime already)",Indicator,DEVELOPMENTAL DELAY SIGNS
+page_44.png,,"Five-year-old children who do not recognize numbers, have difficulty counting, and have problems recognizing patterns, sizes, shapes, or colors",Indicator,DEVELOPMENTAL DELAY SIGNS
+page_44.png,,SPECIAL CONSIDERATIONS,Indicator,
+page_44.png,,"Children from families who have a history of learning disabilities, children whose mothers consumed alcohol during pregnancy, children who were born at a low birth weight, and children who have experienced a traumatic brain injury are at higher risk of a mathematical learning disability",Indicator,RISK FACTORS
+page_44.png,,"Language plays a primary role in teaching and learning mathematics, so it is important to culturally and linguistically diverse children that language does not become a barrier to teaching mathematics",Indicator,TEACHING CONSIDERATIONS
+page_46.png,MT,Mathematical Thinking,Domain of Development & Learning,
+page_46.png,MT1.,NUMBER CONCEPTS AND OPERATIONS,Domain Component,
+page_46.png,MT1.1,Demonstrates number sense and an understanding of quantity,Learning Goal,
+page_46.png,,BIRTH-8m,Indicator,
+page_46.png,,"Attends to quantity while playing with objects (e.g., reaches or looks for more than one object)",Indicator,NUMBER SENSE & COUNTING SEQUENCE
+page_46.png,,9-18m,,
+page_46.png,,"Knows some number names (e.g., joins in counting songs, says or gestures ""two"" when asked age), and later in this age range says or signs more number words in sequence with occasional errors (e.g., says ""one, two, three, five"")",Indicator,NUMBER NAMES & COUNTING SEQUENCE
+page_46.png,,"Places objects in one-to-one correspondence; later in this age period, begins to use the words more, less, or the same",Indicator,COMPARISON OF QUANTITY
+page_46.png,,"Shows early one-to-one correspondence* when supported by context (e.g., places one plastic egg in each indentation in a muffin tin)",Indicator,CONNECTION OF NUMBER
+page_46.png,,19-36m,,
+page_46.png,,"Visually determines (without counting) which group of objects has more or less for groups of five or fewer objects (e.g., chooses a group that has more of a preferred item; indicates which group of crackers has more when prompted)",Indicator,COMPARISON OF QUANTITY
+page_46.png,,Shows increasing ability to count objects using one number for each object (one-to-one correspondence) and with increasing consistency uses the last number counted to represent how many objects are in a group (cardinality),Indicator,CONNECTION OF NUMBER
+page_46.png,,Instantly recognizes without counting (subitizes) the number of objects in sets of one to three objects,Indicator,CONNECTION OF NUMBER
+page_46.png,,37-48m,,
+page_46.png,,"Says or signs number words in order accurately with increasing ability to count to 5, then up to 10, and finally to 20 and beyond by the end of this age range",Indicator,NUMBER NAMES & COUNTING SEQUENCE
+page_46.png,,"Identifies place in a series using terms like first, second, last, etc. (ordinality)",Indicator,COMPARISON OF QUANTITY
+page_46.png,,"Counts to determine and compare whether the number of objects in one group is more than, less than, or the same as objects in another group (for groups of five to ten objects)",Indicator,COMPARISON OF QUANTITY
+page_46.png,,"Instantly recognizes without counting (subitizes) objects in sets of one to four objects (e.g., when playing game where teacher changes the number of blocks under a sheet and then uncovers them, child correctly identifies number of blocks without counting)",Indicator,CONNECTION OF NUMBER
+page_46.png,,"Begins to use numerals to represent and communicate quantity (e.g., puts three counting bears on a card with the numeral ""3"" in a game)",Indicator,CONNECTION OF NUMBER
+page_46.png,,"Shows increasing understanding of the concept of zero (e.g., holds up closed fist to show ""no more monkeys jumping on the bed"" during the last verse of the song; when teacher takes all of counting bears during a game and asks, ""Now how many do you have?"" child responds ""None!"")",Indicator,CONNECTION OF NUMBER
+page_46.png,,"Produces a set of a certain number when prompted (e.g., puts five napkins on the table when asked)",Indicator,CONNECTION OF NUMBER
+page_46.png,,49-60m,,
+page_46.png,,"Names what number comes after another number with decreasing need to count up from one (e.g., When asked ""What comes after four?"" immediately says ""Five"" instead of ""One, two, three, four, five...five!"")",Indicator,NUMBER NAMES & COUNTING SEQUENCE
+page_47.png,MT,Mathematical Thinking,Domain of Development & Learning,
+page_47.png,MT1.,NUMBER CONCEPTS AND OPERATIONS,Domain Component,
+page_47.png,MT1.2,Explores combining and separating groups (numerical operations),Learning Goal,
+page_47.png,,BIRTH-8m,Indicator,
+page_47.png,,"Typical development of these skills tends to emerge after birth-8m. However, foundations of this learning goal are built through MT1.1 Demonstrates number sense and an understanding of quantity (see page 63)",Indicator,CHANGES IN QUANTITY
+page_47.png,,9-18m,,
+page_47.png,,"Shows increasing understanding of changes in quantity by using and responding to phrases like ""more,"" ""less,"" and ""all gone"" and later in this age range ""one fewer"" and ""one more"" [e.g., when prompted, child hands peer one more block]",Indicator,CHANGES IN QUANTITY
+page_47.png,,19-36m,,
+page_47.png,,"With increasing independence creates larger and smaller groups of objects [e.g., placing and removing rings on a vertical peg] and later in this age range adds and subtracts with sets of objects smaller than three with adult support [e.g., ""subtracts"" from a group of three toys by offering one to an adult, then pointing to the remaining toys and communicating ""Two""]",Indicator,ADDITION & SUBTRACTION
+page_47.png,,37-48m,,
+page_47.png,,"Shows increased understanding that adding to or taking away objects from a group will increase or decrease the number of objects in the set [e.g., communicates, ""I wanted more green blocks so my friend gave me three of his""] and can describe parts of a group [e.g., Says, ""I have four cubes. Two are red, and two are blue""]",Indicator,CHANGES IN QUANTITY
+page_47.png,,"Using fingers or manipulatives as tools, shows increasing ability to solve simple addition problems by joining objects together for increasingly larger totals [up to 10; e.g, when adding a group of 3 and a group of 2, counts ""one, two, three..."" and then counts on ""four, five!"" keeping track with fingers]",Indicator,ADDITION & SUBTRACTION
+page_47.png,,"Using fingers or manipulatives as tools, shows increasing ability to solve simple subtraction problems by separating increasingly larger totals [up to 10; e.g., when asked how many counting bears will be left from a group of six if a friend takes two, child moves two bears to the side then counts remaining bears, ""one, two, three, four...four bears!""]",Indicator,ADDITION & SUBTRACTION
+page_47.png,,"Explores early division concepts by dividing objects into ""fair-share"" groups [e.g., gives three peers each two pieces of play fruit while playing restaurant] and identifying the concepts of a fraction whole and half by using real objects [e.g., identifies two equal parts of an apple or graham cracker as a half]",Indicator,EARLY DIVISION AND FRACTIONS
+page_47.png,,49-60m,,
+page_48.png,MT,Mathematical Thinking,Domain of Development & Learning,
+page_48.png,MT2.,ALGEBRAIC THINKING,Domain Component,
+page_48.png,MT2.1,Uses classification and patterning skills,Learning Goal,
+page_48.png,,BIRTH-8m,Indicator,
+page_48.png,,"Explores the characteristics of objects through various means (e.g., banging, mouthing, dropping) and shows different responses to familiar and unfamiliar people and situations",Indicator,CLASSIFICATION
+page_48.png,,"Enjoys and anticipates repetition in activities and daily routines (e.g., smiles in anticipation of adult revealing face during peek-a-boo; makes vocalizations upon hearing a familiar song that is sung each time they are diapered)",Indicator,PATTERNING
+page_48.png,,9-18m,,
+page_48.png,,"Forms groups of like objects based on broad categories (e.g., puts toy cars in one pile and toy animals in another) and later in this age range, child can name the attribute used in sorting",Indicator,CLASSIFICATION
+page_48.png,,"Repeats certain action sequences intuitively (e.g., fills up and dumps out container repeatedly) and joins in or copies simple patterns (e.g., does stomp-clap-stomp-clap movements during a song with modeling and support)! Later in this age range, shows recognition of simple ABAB patterns (e.g., points to stripes on a shirt and communicates, ""Black, white, black, white."")",Indicator,PATTERNING
+page_48.png,,19-36m,,
+page_48.png,,"Sorts objects based on a single, simple characteristic (e.g., color, shape, size) with increasing ability to sort into more than two categories (e.g., making three color groups instead of two color groups)",Indicator,CLASSIFICATION
+page_48.png,,"Repeats certain action sequences intuitively (e.g., fills up and dumps out container repeatedly) and joins in or copies simple patterns (e.g., does stomp-clap-stomp-clap movements during a song with modeling and support)! Later in this age range, shows recognition of simple ABAB patterns (e.g., points to stripes on a shirt and communicates, ""Black, white, black, white."")",Indicator,PATTERNING
+page_48.png,,37-48m,,
+page_48.png,,"Recognizes, extends, and replicates simple repeating patterns* (e.g., triangle, square, triangle, square or repeated music verses)",Indicator,PATTERNING
+page_48.png,,49-60m,,
+page_48.png,,"Sorts objects by more than one attribute (e.g., color and shape); attends to more complex attributes (e.g., weight, texture). Sorts and then resorts based on a different characteristic (e.g., sorts by size and then by color)",Indicator,CLASSIFICATION
+page_48.png,,"Creates own patterns in different forms (e.g., objects, sounds, movements) and fills in missing elements of a simple pattern (e.g., selects a green counting bear and completes the series of bears set out by the teacher: yellow, green, green, yellow, green, green, yellow, ____, green)",Indicator,PATTERNING
+page_49.png,MT,Mathematical Thinking,Domain of Development & Learning,
+page_49.png,MT3.,MEASUREMENT AND COMPARISON,Domain Component,
+page_49.png,MT3.1,Participates in exploratory measurement activities and compares objects,Learning Goal,
+page_49.png,,BIRTH-8m,Indicator,
+page_49.png,,"Explores the size and shape of objects in various ways (e.g., grasping, mouthing, banging, dropping)",Indicator,MEASUREMENT
+page_49.png,,9-18m,,
+page_49.png,,"Investigates properties of objects and materials (e.g., volume, relative size) through exploration and play (e.g., tries to squeeze large object into smaller container, pours liquid from one container to another); later in this age range labels some attributes of objects (e.g., recognizes length by communicating I'm tall"")""",Indicator,MEASUREMENT
+page_49.png,,Uses descriptive words or signs of increasing complexity including big, little, hot
+page_49.png,,19-36m,,
+page_49.png,,"Investigates properties of objects and materials (e.g., volume, relative size) through exploration and play (e.g., tries to squeeze large object into smaller container, pours liquid from one container to another); later in this age range labels some attributes of objects (e.g., recognizes length by communicating I'm tall"")""",Indicator,MEASUREMENT
+page_49.png,,37-48m,,
+page_49.png,,"Measures attributes of objects (e.g., length, height, weight) using non-standard units (e.g., lines up a variety of objects, such as blocks and cars, end-to-end without gaps, to measure rug); and explores formal measuring tools (e.g., measuring cups, scale, ruler) with increasing independence and initiation of activity",Indicator,MEASUREMENT
+page_49.png,,"Directly compares objects to see which is longer and later in this age range uses a third object to compare the length of two objects (e.g., uses yarn to measure two different objects)",Indicator,MEASUREMENT
+page_49.png,,"Uses comparative language (e.g., shorter"," heaviest"") to directly compare two or more objects (e.g."," identifies ""small"
+page_49.png,,Shows increasing ability to identify that different arrangements of the same number of objects are equal; begins to count to compare,Indicator,COMPARISON
+page_49.png,,"Organizes a small set of objects (i.e., three to five) in an increasing or decreasing order (seriation; e.g., arranges a set of twigs from shortest to longest)",Indicator,SERIATION
+page_49.png,,49-60m,,
+page_49.png,,"Measures attributes of objects (e.g., length, height, weight) using non-standard units (e.g., lines up a variety of objects, such as blocks and cars, end-to-end without gaps, to measure rug); and explores formal measuring tools (e.g., measuring cups, scale, ruler) with increasing independence and initiation of activity",Indicator,MEASUREMENT
+page_49.png,,"Uses comparative language (e.g., shorter"," heaviest"") to directly compare two or more objects (e.g."," identifies ""small"
+page_49.png,,Shows increasing ability to identify that different arrangements of the same number of objects are equal; begins to count to compare,Indicator,COMPARISON
+page_49.png,,"Organizes a small set of objects (i.e., three to five) in an increasing or decreasing order (seriation; e.g., arranges a set of twigs from shortest to longest)",Indicator,SERIATION
+page_50.png,MT,Mathematical Thinking,Domain of Development & Learning,
+page_50.png,MT4.,GEOMETRY AND SPATIAL SENSE,Domain Component,
+page_50.png,MT4.1,Explores and describes shapes and spatial relationships*,Learning Goal,
+page_50.png,,BIRTH-8m,Indicator,
+page_50.png,,"Explores the size and shape of objects in various ways (e.g., grasping, mouthing, banging, dropping)",Indicator,SHAPE KNOWLEDGE
+page_50.png,,"Explores how objects move (e.g., tracking objects with eyes and head, pushing cars down a ramp) and their own spatial sense (e.g., rolling over, bumping into things, trying to sit on chair that is too small)",Indicator,SPATIAL SENSE
+page_50.png,,9-18m,,
+page_50.png,,"Matches and sorts familiar shapes with increasing ability to do so with shapes of different sizes or orientations (e.g., puts small square and large square together; picks up triangle block to put in shape sorter even if block is rotated at a different orientation, e.g., ▲ and ►)",Indicator,SHAPE KNOWLEDGE
+page_50.png,,"Responds to and uses basic spatial directions (e.g., ""reach up,"" ""slide down"") and simple prepositions (e.g., on, in, under, up), especially when accompanied by gestures",Indicator,SPATIAL SENSE
+page_50.png,,19-36m,,
+page_50.png,,"Recognizes and names familiar shapes (e.g., square, triangle, circle, rectangle) and later less familiar shapes (e.g., hexagon, trapezoid) and some three-dimensional shapes (e.g., cube, cone, cylinder, sphere); with increasing ability to recognize shapes regardless of orientation or size and to describe shapes in terms of their attributes (e.g., a triangle has three straight sides)",Indicator,SHAPE KNOWLEDGE
+page_50.png,,37-48m,,
+page_50.png,,"Uses increasingly complex spatial vocabulary (e.g., inside, beside, below); follows directions related to directionality, order, and position in space (e.g., ""move forward,"" ""put it behind the green car""); and without needing to handle the object can mentally turn an object to perform simple tasks (e.g., communicates to a friend, ""If you turn the puzzle piece it will fit"")",Indicator,SPATIAL SENSE
+page_50.png,,"Builds increasingly complex designs, pictures, and structures using two- and three-dimensional shapes (e.g., uses circles and rectangles to make a snowman image, constructs a castle out of building blocks), progressing from using one shape for each part of a picture to using several shapes to make one part",Indicator,SHAPE MANIPULATION
+page_50.png,,49-60m,,
+page_50.png,,"Combines, rotates, flips, and separates shapes to create designs (e.g., using parquetry blocks) and to make other shapes (e.g., combines two wood triangle-shaped unit blocks to make a square [▶+◀=■]) and later in this age range shows increasing ability to predict which shapes might be used to create other shapes",Indicator,SHAPE MANIPULATION
+page_53.png,ST,Science and Technology,Domain of Development & Learning,
+page_53.png,ST1.1,Engages in the scientific process to collect analyze and communicate information,Learning Goal,
+page_53.png,,BIRTH-8m,Indicator,
+page_53.png,,"Explores and manipulates objects using multiple senses (e.g., touch, taste, sight, smell, sound)",Indicator,OBSERVATIONS & QUESTIONS
+page_53.png,,9-18m,,
+page_53.png,,"Explores and manipulates objects using multiple senses (e.g., touch, taste, sight, smell, sound)",Indicator,OBSERVATIONS & QUESTIONS
+page_53.png,,19-36m,,
+page_53.png,,"Asks questions, makes observations, and predictions about the world around them with adult support (e.g., ""Where snow go?""; describes texture of fabrics as soft, scratchy, or bumpy when prompted; predicts that apples will be served for snack)",Indicator,OBSERVATIONS & QUESTIONS
+page_53.png,,37-48m,,
+page_53.png,,"Asks questions, makes observations, and predictions about the world around them with adult support (e.g., ""Where snow go?""; describes texture of fabrics as soft, scratchy, or bumpy when prompted; predicts that apples will be served for snack)",Indicator,OBSERVATIONS & QUESTIONS
+page_53.png,,49-60m,,
+page_53.png,,"Asks questions about the world (e.g., ""What do plants need to grow?"") and seeks answers from various sources (e.g., asks teacher to help find information about spiders in a book)",Indicator,OBSERVATIONS & QUESTIONS
+page_53.png,,"Makes increasingly complex observations about objects and events (e.g., notices that outdoor area smells different after rain)",Indicator,OBSERVATIONS & QUESTIONS
+page_53.png,,"Makes predictions about what might happen based on past experience (e.g., ""I think that adding yellow paint to blue paint will make green""; ""I think the ping pong ball will float"")",Indicator,OBSERVATIONS & QUESTIONS
+page_54.png,,BIRTH-8m,Indicator,
+page_54.png,,"Recognizes ability to make things happen (e.g., hits or kicks an object and it moves) and intentionally repeats actions to observe the reaction (e.g., bangs block on floor repeatedly to hear the sound it makes; flips switches on and off; splashes hands in water to see toys move)",Indicator,INVESTIGATION & HYPOTHESIS TESTING
+page_54.png,,9-18m,,
+page_54.png,,"Recognizes ability to make things happen (e.g., hits or kicks an object and it moves) and intentionally repeats actions to observe the reaction (e.g., bangs block on floor repeatedly to hear the sound it makes; flips switches on and off; splashes hands in water to see toys move)",Indicator,INVESTIGATION & HYPOTHESIS TESTING
+page_54.png,,19-36m,,
+page_54.png,,"Explores cause-and-effect relationships by varying actions to change the reaction (e.g., mixes red paint with blue paint, then mixes red paint with green paint; changes the size and/or orientation of blocks used when attempting to build a tall structure that doesn't fall down)",Indicator,INVESTIGATION & HYPOTHESIS TESTING
+page_54.png,,37-48m,,
+page_54.png,,"Engages in adult-supported investigations; forms and tests hypotheses (e.g., mixes soil and water to make mud; builds a ""bridge"" out of classroom materials and seeing how many foam blocks it will hold before collapsing; waters seeds in one container, but not another to answer the question, ""Do plants need water to grow?"")",Indicator,INVESTIGATION & HYPOTHESIS TESTING
+page_54.png,,"With adult assistance, analyzes, interprets, and communicates data (e.g., compares initial prediction of which objects would float to actual results; records information through a drawing or dictation)",Indicator,DATA ANALYSIS & COMMUNICATION
+page_54.png,,49-60m,,
+page_54.png,,"Engages in adult-supported investigations; forms and tests hypotheses (e.g., mixes soil and water to make mud; builds a ""bridge"" out of classroom materials and seeing how many foam blocks it will hold before collapsing; waters seeds in one container, but not another to answer the question, ""Do plants need water to grow?"")",Indicator,INVESTIGATION & HYPOTHESIS TESTING
+page_54.png,,"With adult assistance, analyzes, interprets, and communicates data (e.g., compares initial prediction of which objects would float to actual results; records information through a drawing or dictation)",Indicator,DATA ANALYSIS & COMMUNICATION
+page_55.png,ST,Science and Technology,Domain of Development & Learning,
+page_55.png,ST2.,KNOWLEDGE OF SCIENCE CONCEPTS,Domain Component,
+page_55.png,ST2.1,Demonstrates knowledge of core science ideas and concepts,Learning Goal,
+page_55.png,,BIRTH-8m,Indicator,
+page_55.png,,"Shows beginning awareness of parts of own body and how to use them to interact with the world in specific ways (e.g., using hands to pick up things; later in this age range leans ear closer to window when adult says, ""Listen! Can you hear that outside?"")",Indicator,SYSTEM PARTS & WHOLES
+page_55.png,,"Explores characteristics of different animals, materials, and objects (e.g., explores different textures in touch-and-feel books; touches mouth of caregiver who is singing to see where sound is coming from)",Indicator,STRUCTURE & FUNCTION
+page_55.png,,"Anticipates familiar routines and activities (e.g., mealtimes) and notices changes in the environment (e.g., later in this age range points to a piece of furniture that has been moved)",Indicator,STABILITY AND CHANGE
+page_55.png,,9-18m,,
+page_55.png,"Explores characteristics of different animals, materials, and objects (e.g., explores different textures in touch-and-feel books; touches mouth of caregiver who is singing to see where sound is coming from)",Indicator,STRUCTURE & FUNCTION,
+page_55.png,,19-36m,,
+page_55.png,,"Identifies parts of a whole (e.g., labels parts of a toy car such as door, wheel, headlight) and with adult support can describe their basic functions",Indicator,SYSTEM PARTS & WHOLES
+page_55.png,,"Observes and describes basic features and functions of living things, objects, and materials (e.g., talks about body parts and their uses; describes attributes of materials related to their function by using words like strong, squishy, round, soft; communicates, ""Windows are clear so we can see through them"")",Indicator,STRUCTURE & FUNCTION
+page_55.png,,"Describes changes in the environment with adult support (e.g., talks about weather conditions such as rain, snow, and wind; notices clouds changing shape and moving across the sky)",Indicator,STABILITY AND CHANGE
+page_55.png,,37-48m,,
+page_55.png,,"With adult support asks questions and makes comments about parts of more complex systems and how they interact to make it function (e.g., talks about roles of members of their family; asks about the gears and parts of a wind-up toy and how they make it work)",Indicator,SYSTEM PARTS & WHOLES
+page_55.png,,"Observes and describes environmental changes over time with increasing sophistication (e.g., comments on flowers blooming in the spring; notices when branches have been trimmed from a tree; communicates, ""The sun made the slide hot!""; notices the shape of the moon changing over time)",Indicator,STABILITY AND CHANGE
+page_55.png,,"Demonstrates an understanding that living things change over time in size and other capacities as they grow (e.g., talks about similarities and differences between babies and adults; acts out a song about growth by pretending to be a plant and demonstrating with body how a seed grows into a seedling then a tree)",Indicator,STABILITY AND CHANGE
+page_55.png,,49-60m,,
+page_55.png,,"Makes observations and generalizations about structure and function (e.g., generalizes that objects that are round will roll; talks about why plants need stems; describes why birds can fly and people can't)",Indicator,STRUCTURE & FUNCTION
+page_56.png,ST,Science and Technology,Domain of Development & Learning,
+page_56.png,ST3.,KNOWLEDGE OF SCIENCE CONTENT,Domain Component,
+page_56.png,ST3.1,Demonstrates knowledge of the characteristics of living things the earth's environment and physical objects and materials,Learning Goal,
+page_56.png,,BIRTH-8m,Indicator,
+page_56.png,,"Responds to and explores characteristics of living things (e.g., Observes with interest fish swimming in a bowl or aquarium; points and squeals when sees a dog; runs hand over bark of a tree; later in this age range, chases or follows a butterfly, ladybug, or bird)",Indicator,LIVING THINGS
+page_56.png,,"Shows interest in the natural world (e.g., closes eyes and tilts head up to feel breeze on face; touches flowers and plants; investigates natural materials such as water, dirt, and leaves)",Indicator,NATURE & THE ENVIRONMENT
+page_56.png,,"Actively explores and experiments with the physical properties of objects and materials (e.g., combines different substances such as water and dirt; stacks and knocks down towers; bounces balls; explores fabrics with different textures)",Indicator,PHYSICAL OBJECTS & MATERIALS
+page_56.png,,9-18m,,
+page_56.png,,"Responds to and explores characteristics of living things (e.g., Observes with interest fish swimming in a bowl or aquarium; points and squeals when sees a dog; runs hand over bark of a tree; later in this age range, chases or follows a butterfly, ladybug, or bird)",Indicator,LIVING THINGS
+page_56.png,,"Shows interest in the natural world (e.g., closes eyes and tilts head up to feel breeze on face; touches flowers and plants; investigates natural materials such as water, dirt, and leaves)",Indicator,NATURE & THE ENVIRONMENT
+page_56.png,,"Actively explores and experiments with the physical properties of objects and materials (e.g., combines different substances such as water and dirt; stacks and knocks down towers; bounces balls; explores fabrics with different textures)",Indicator,PHYSICAL OBJECTS & MATERIALS
+page_56.png,,19-36m,,
+page_56.png,,"Shows interest in the natural world (e.g., closes eyes and tilts head up to feel breeze on face; touches flowers and plants; investigates natural materials such as water, dirt, and leaves)",Indicator,NATURE & THE ENVIRONMENT
+page_56.png,,"Helps care for the environment (e.g., throws away a used paper towel; participates in some way in clean-up time)",Indicator,NATURE & THE ENVIRONMENT
+page_56.png,,"Actively explores and experiments with the physical properties of objects and materials (e.g., combines different substances such as water and dirt; stacks and knocks down towers; bounces balls; explores fabrics with different textures)",Indicator,PHYSICAL OBJECTS & MATERIALS
+page_56.png,,37-48m,,
+page_56.png,,"With increasing independence, asks and answers questions about the similarities, differences, and categories of plants and animals (e.g., talks about how birds have feathers covering their bodies, but snakes have scales)",Indicator,LIVING THINGS
+page_56.png,,"Shows curiosity and knowledge about how living things grow and change over time (e.g., talks about how kitten at home is getting bigger; asks why leaves change color)",Indicator,LIVING THINGS
+page_56.png,,"With adult support describes characteristics that define living things (e.g., breathes, moves, grows)",Indicator,LIVING THINGS
+page_56.png,,"Shows curiosity about the relationship of living things to their environments/habitats (e.g., asks why fish always live in water; wonders where birds sleep)",Indicator,LIVING THINGS
+page_56.png,,"Investigates and uses increasingly complex vocabulary to describe natural elements in the environment (e.g., observes a group of ants moving on the playground and comments, ""They're moving around like they're scared""; draws different kinds of leaves in the science center and communicates ""This one has round edges, this one has pointy edges."")",Indicator,NATURE & THE ENVIRONMENT
+page_56.png,,"Demonstrates respect for the environment (e.g., observes flowers or insects without intruding or destroying; picks up a piece of litter and says, ""Animals might get sick if they eat this"")",Indicator,NATURE & THE ENVIRONMENT
+page_56.png,,"Uses observable characteristics to describe and categorize physical objects and materials based on similarities and differences (e.g., after participating in an investigation, sorts items into those that float and those that sink; sorts objects made of wood and those made of plastic)",Indicator,PHYSICAL OBJECTS & MATERIALS
+page_56.png,,49-60m,,
+page_56.png,,"With increasing independence, asks and answers questions about the similarities, differences, and categories of plants and animals (e.g., talks about how birds have feathers covering their bodies, but snakes have scales)",Indicator,LIVING THINGS
+page_56.png,,"Shows curiosity and knowledge about how living things grow and change over time (e.g., talks about how kitten at home is getting bigger; asks why leaves change color)",Indicator,LIVING THINGS
+page_56.png,,"With adult support describes characteristics that define living things (e.g., breathes, moves, grows)",Indicator,LIVING THINGS
+page_56.png,,"Shows curiosity about the relationship of living things to their environments/habitats (e.g., asks why fish always live in water; wonders where birds sleep)",Indicator,LIVING THINGS
+page_56.png,,"Investigates and uses increasingly complex vocabulary to describe natural elements in the environment (e.g., observes a group of ants moving on the playground and comments, ""They're moving around like they're scared""; draws different kinds of leaves in the science center and communicates ""This one has round edges, this one has pointy edges."")",Indicator,NATURE & THE ENVIRONMENT
+page_56.png,,"Demonstrates respect for the environment (e.g., observes flowers or insects without intruding or destroying; picks up a piece of litter and says, ""Animals might get sick if they eat this"")",Indicator,NATURE & THE ENVIRONMENT
+page_56.png,,"Uses observable characteristics to describe and categorize physical objects and materials based on similarities and differences (e.g., after participating in an investigation, sorts items into those that float and those that sink; sorts objects made of wood and those made of plastic)",Indicator,PHYSICAL OBJECTS & MATERIALS
+page_57.png,ST,Science and Technology,Domain of Development & Learning,
+page_57.png,ST3.,KNOWLEDGE OF SCIENCE CONTENT,Domain Component,
+page_57.png,ST3.2,Uses tools and engineering practices to explore and solve problems,Learning Goal,
+page_57.png,,BIRTH-8m,Indicator,
+page_57.png,,"Uses body parts as tools to obtain a result (e.g., reaches out and grasps a rattle)",Indicator,KNOWLEDGE & USE OF TOOLS
+page_57.png,,9-18m,,
+page_57.png,,"Uses own body, other people, or objects to make something happen (e.g., pulls an adult's hand and guides it to push a button on a toy; later in this age range uses an object to reach something under a chair)",Indicator,KNOWLEDGE & USE OF TOOLS
+page_57.png,,19-36m,,
+page_57.png,,"Explores and later in this age range identifies simple machines such as ramps, gears, wheels, pulleys, and levers through play experiences (e.g., plays with ramps and vehicles in the block area; uses pulleys in the sand table; explores manipulative toys that use gears)",Indicator,KNOWLEDGE & USE OF TOOLS
+page_57.png,,"Explores principles such as stability and balance (e.g., building block structure) and force and motion (e.g., rolling a car down a ramp)",Indicator,ENGINEERING PRACTICES & THINKING
+page_57.png,,37-48m,,
+page_57.png,,"Uses a variety of tools (e.g., ruler, balance scale, magnifying glass, toy stethoscope, unit blocks, measuring cups, thermometer) to gather information, investigate objects, and solve problems",Indicator,KNOWLEDGE & USE OF TOOLS
+page_57.png,,"Communicates how tools are used by people in their world (e.g., ladders help firefighters, stethoscopes help doctors and nurses)",Indicator,KNOWLEDGE & USE OF TOOLS
+page_57.png,,"Shows increased understanding of relationships between variables and outcomes (e.g., steepness of a ramp and speed of a rolled ball; size of blocks and stability of structure)",Indicator,ENGINEERING PRACTICES & THINKING
+page_57.png,,49-60m,,
+page_57.png,,"With adult support, generates multiple solutions to problems, tests solutions and revises them, (e.g., builds block tower that falls with a foundation of small blocks; uses bigger blocks the next time) and develops increasingly detailed explanations of their ideas and reasons for outcomes",Indicator,ENGINEERING PRACTICES & THINKING
+page_58.png,ST,Science and Technology,Domain of Development & Learning,
+page_58.png,ST3.,KNOWLEDGE OF SCIENCE CONTENT,Domain Component,
+page_58.png,ST3.3,Engages in developmentally appropriate interactions with technology* and media that support creativity exploration and play,Learning Goal,
+page_58.png,,BIRTH-8m,Indicator,
+page_58.png,,"Typical development of these skills tends to emerge after 8 months. However, foundations of this learning goal are built through: CD1.1 Shows curiosity and a willingness to try new things [see page 26]",Indicator,
+page_58.png,,9-18m,,
+page_58.png,,"Explores and uses simple tools (e.g., spoons, hairbrushes, crayons) and later in this age range common devices such as sinks and toilets",Indicator,TECHNOLOGY HANDLING
+page_58.png,,19-36m,,
+page_58.png,,"Incorporates technology tools into their pretend play (e.g., pretends to call someone on a toy phone, uses a keyboard in the ""office"" prop box to pretend to write someone a letter)",Indicator,TECHNOLOGY HANDLING
+page_58.png,,37-48m,,
+page_58.png,,"Develops knowledge of and explores the functionality of simple digital devices (e.g., touch screen, e-book reader, digital camera, copier, light table, music player)**",Indicator,TECHNOLOGY HANDLING
+page_58.png,,"Identifies technology tools for multiple purposes, including creating, problem solving, gathering information, and documenting (e.g., creates a picture or story on an electronic device, suggests looking up a question or the meaning of a word on the internet, records a story made up on a recording device)",Indicator,DIGITAL LITERACY
+page_58.png,,"Shows knowledge of how to use technology in safe, healthy, acceptable, responsible, and socially positive ways (e.g., suggests sending a get-well message to a friend who is sick)",Indicator,DIGITAL CITIZENSHIP
+page_58.png,,Follows directions and class rules for using digital devices (can log in and out; keeps foreign materials away from equipment; handles equipment with care; knows the time limit or sign up rule for access to the device),Indicator,DIGITAL CITIZENSHIP
+page_58.png,,49-60m,,
+page_58.png,,"Develops knowledge of and explores the functionality of simple digital devices (e.g., touch screen, e-book reader, digital camera, copier, light table, music player)**",Indicator,TECHNOLOGY HANDLING
+page_58.png,,"Identifies technology tools for multiple purposes, including creating, problem solving, gathering information, and documenting (e.g., creates a picture or story on an electronic device, suggests looking up a question or the meaning of a word on the internet, records a story made up on a recording device)",Indicator,DIGITAL LITERACY
+page_58.png,,"Shows knowledge of how to use technology in safe, healthy, acceptable, responsible, and socially positive ways (e.g., suggests sending a get-well message to a friend who is sick)",Indicator,DIGITAL CITIZENSHIP
+page_58.png,,Follows directions and class rules for using digital devices (can log in and out; keeps foreign materials away from equipment; handles equipment with care; knows the time limit or sign up rule for access to the device),Indicator,DIGITAL CITIZENSHIP
+page_60.png,SS,Social Studies,Domain of Development & Learning,
+page_60.png,SS1.,FAMILY COMMUNITY AND CULTURE,Domain Component,
+page_60.png,SS1.1,Demonstrates positive connection to family and community,Learning Goal,
+page_60.png,,BIRTH-8m,Indicator,
+page_60.png,,9-18m,,
+page_60.png,,19-36m,,
+page_60.png,,"Begins to identify as a member of a classroom or group (e.g., ""I'm a Ladybug [class name]"") and follows simple rules with adult support",Indicator,LEARNING COMMUNITY
+page_60.png,,"Recognizes similarities and differences among individual people and groups of people (e.g., notices when another language is spoken; says ""Everyone in my family has brown hair"")",Indicator,FAMILY & CULTURAL IDENTITY
+page_60.png,,"Engages in increasingly complex pretend play acting out family or community roles and events (e.g., pretends to be a ""daddy"" sweeping the house or feeding the baby; later in this age range, acts out scenes at a restaurant, beauty salon, or doctor's office)",Indicator,AWARENESS OF SOCIETY ROLES
+page_60.png,,37-48m,,
+page_60.png,,"Shows increasing participation as a member of the learning community (e.g., participates in whole-group activities, helps establish rules for behavior, participates in classroom clean-up, etc.)",Indicator,LEARNING COMMUNITY
+page_60.png,,"Recognizes similarities and differences among individual people and groups of people (e.g., notices when another language is spoken; says ""Everyone in my family has brown hair"")",Indicator,FAMILY & CULTURAL IDENTITY
+page_60.png,,"Shows pride in family and cultural heritage (e.g., talks about family members and traditions; draws pictures of family members and own cultural group; shares a song or special food from cultural group, shows pride in home language [e.g., ""Gato means cat in Spanish. We speak Spanish at home!""])",Indicator,FAMILY & CULTURAL IDENTITY
+page_60.png,,"Shows increasing awareness of the roles people play in society (e.g., talks about roles of various family members; describes jobs of community helpers such as firefighters, grocery clerks, and veterinarians; talks about what they would like to be when they grow up)",Indicator,AWARENESS OF SOCIETY ROLES
+page_60.png,,49-60m,,
+page_60.png,,"Shows increasing participation as a member of the learning community (e.g., participates in whole-group activities, helps establish rules for behavior, participates in classroom clean-up, etc.)",Indicator,LEARNING COMMUNITY
+page_60.png,,"Shows pride in family and cultural heritage (e.g., talks about family members and traditions; draws pictures of family members and own cultural group; shares a song or special food from cultural group, shows pride in home language [e.g., ""Gato means cat in Spanish. We speak Spanish at home!""])",Indicator,FAMILY & CULTURAL IDENTITY
+page_60.png,,"Shows knowledge of family, cultural and political history (e.g., talks about where family came from, where cultural traditions came from, knows who president is)",Indicator,FAMILY & CULTURAL IDENTITY
+page_60.png,,"Shows increasing awareness of the roles people play in society (e.g., talks about roles of various family members; describes jobs of community helpers such as firefighters, grocery clerks, and veterinarians; talks about what they would like to be when they grow up)",Indicator,AWARENESS OF SOCIETY ROLES
+page_61.png,SS,Social Studies,Domain of Development & Learning,
+page_61.png,SS2.,HISTORY AND GEOGRAPHY,Domain Component,
+page_61.png,SS2.1,Shows awareness of sequence and change over time,Learning Goal,
+page_61.png,,BIRTH-8m,Indicator,
+page_61.png,,"Shows anticipation for regularly scheduled daily activities (e.g., when bottle is seen, kicks feet and smiles in anticipation of being fed; later in this age range, moves to the table after handwashing without the caregiver's instruction)",Indicator,AWARENESS OF PAST & FUTURE
+page_61.png,,9-18m,,
+page_61.png,,"Shows anticipation for regularly scheduled daily activities (e.g., when bottle is seen, kicks feet and smiles in anticipation of being fed; later in this age range, moves to the table after handwashing without the caregiver's instruction)",Indicator,AWARENESS OF PAST & FUTURE
+page_61.png,,19-36m,,
+page_61.png,,"Shows anticipation for regularly scheduled daily activities (e.g., when bottle is seen, kicks feet and smiles in anticipation of being fed; later in this age range, moves to the table after handwashing without the caregiver's instruction)",Indicator,AWARENESS OF PAST & FUTURE
+page_61.png,,"Understands and, later in this age range, uses increasingly complex time-related words and concepts (e.g., ""now/later,"" ""day/night,"" ""last time/next time"")",Indicator,TIME CONCEPTS
+page_61.png,,37-48m,,
+page_61.png,,"Discusses events in the immediate past or future (e.g., gives simple account of what happened that day; communicates ""After lunch, we get to read books"") and communicates about events that are increasingly distant from the present (e.g., talks about ""When I was a baby..."" and makes predictions about future events with adult support)",Indicator,AWARENESS OF PAST & FUTURE
+page_61.png,,"Understands and, later in this age range, uses increasingly complex time-related words and concepts (e.g., ""now/later,"" ""day/night,"" ""last time/next time"")",Indicator,TIME CONCEPTS
+page_61.png,,49-60m,,
+page_61.png,,"Discusses events in the immediate past or future (e.g., gives simple account of what happened that day; communicates ""After lunch, we get to read books"") and communicates about events that are increasingly distant from the present (e.g., talks about ""When I was a baby..."" and makes predictions about future events with adult support)",Indicator,AWARENESS OF PAST & FUTURE
+page_61.png,,"Understands and, later in this age range, uses increasingly complex time-related words and concepts (e.g., ""now/later,"" ""day/night,"" ""last time/next time"")",Indicator,TIME CONCEPTS
+page_62.png,SS,Social Studies,Domain of Development & Learning,
+page_62.png,SS2.,HISTORY AND GEOGRAPHY,Domain Component,
+page_62.png,SS2.2,Demonstrates simple geographic knowledge,Learning Goal,
+page_62.png,,BIRTH-8m,Indicator,
+page_62.png,,"Typical development of these skills tends to emerge after 8 months. However, foundations of this learning goal are built through: MT4.1 Explores and describes shapes and spatial relationships (see page 67)",Indicator,LOCATION AND PLACE
+page_62.png,,9-18m,,
+page_62.png,,"Knows where some favorite toys or foods are stored in familiar places (e.g., home, classroom)",Indicator,AWARENESS OF LOCATION AND PLACE
+page_62.png,,19-36m,,
+page_62.png,,"Shows awareness of familiar buildings and landmarks (e.g., home, school, library, grocery store, parks, sculptures or statues, lakes or rivers)",Indicator,AWARENESS OF LOCATION AND PLACE
+page_62.png,,"Understands and uses words indicating relative distances (e.g., near, far, close)",Indicator,AWARENESS OF LOCATION AND PLACE
+page_62.png,,37-48m,,
+page_62.png,,"Communicates with increasing specificity about the location of objects and areas at home and school (e.g., talks about something in a closet in the classroom) and can match objects to their usual geographic location (e.g., stove in kitchen, bed in bedroom)",Indicator,AWARENESS OF LOCATION AND PLACE
+page_62.png,,"Shows awareness of familiar buildings and landmarks (e.g., home, school, library, grocery store, parks, sculptures or statues, lakes or rivers)",Indicator,AWARENESS OF LOCATION AND PLACE
+page_62.png,,"Understands and uses words indicating relative distances (e.g., near, far, close)",Indicator,AWARENESS OF LOCATION AND PLACE
+page_62.png,,"Shows interest in exploring geography tools (e.g., map, compass)",Indicator,GEOGRAPHIC CONCEPTS
+page_62.png,,"Discusses basic geographic concepts and features of environments (e.g., says ""We have mountains where we live""; sees a picture of fish and says, ""They live in water"")",Indicator,GEOGRAPHIC CONCEPTS
+page_62.png,,49-60m,,
+page_62.png,,"Shows awareness of familiar buildings and landmarks (e.g., home, school, library, grocery store, parks, sculptures or statues, lakes or rivers)",Indicator,AWARENESS OF LOCATION AND PLACE
+page_62.png,,"Understands and uses words indicating relative distances (e.g., near, far, close)",Indicator,AWARENESS OF LOCATION AND PLACE
+page_62.png,,Creates drawings or simple maps of home and other familiar places with adult support,Indicator,GEOGRAPHIC CONCEPTS
+page_62.png,,"Discusses basic geographic concepts and features of environments (e.g., says ""We have mountains where we live""; sees a picture of fish and says, ""They live in water"")",Indicator,GEOGRAPHIC CONCEPTS
+page_63.png,CA,Creativity and Aesthetics,Domain of Development & Learning,
+page_63.png,CA1.,MUSIC AND MOVEMENT,Domain Component,
+page_63.png,CA2.,VISUAL ARTS,Domain Component,
+page_63.png,CA3.,DRAMA,Domain Component,
+page_63.png,CA1.1,"Focuses on a child's growing ability to explore and move to music, understand music concepts, and appreciate music",Learning Goal,
+page_63.png,CA2.1,"Charts a child's progression in exploring and appreciating art, understanding art concepts, and expressing themselves through art",Learning Goal,
+page_63.png,CA3.1,"Outlines a child's growing ability to explore drama, understand drama concepts, and appreciate and express themselves through drama",Learning Goal,
+page_64.png,CA,Creativity and Aesthetics,Domain of Development & Learning,
+page_64.png,CA1.,MUSIC AND MOVEMENT,Domain Component,
+page_64.png,CA1.1,Explores through listening singing creating and moving to music,Learning Goal,
+page_64.png,,BIRTH-8m,Indicator,
+page_64.png,,Responds to music by turning head and reacting with body movements,Indicator,EXPLORATION OF MUSIC & MOVEMENT
+page_64.png,,"Uses objects and tools to make sounds (e.g., shakes rattle)",Indicator,EXPLORATION OF MUSIC & MOVEMENT
+page_64.png,,9-18m,,
+page_64.png,,"Enjoys producing music and other sounds with voice and simple instruments (e.g., explores making noises with tambourine, attempts to blow into a whistle or harmonica)",Indicator,EXPLORATION OF MUSIC & MOVEMENT
+page_64.png,,"Moves body in response to rhythms and music (e.g., sways to the sound of music, claps along with song, though may not be on the beat)",Indicator,EXPLORATION OF MUSIC & MOVEMENT
+page_64.png,,Imitates and begins to demonstrate understanding of fast/slow and loud/soft as they relate to playing music and singing,Indicator,MUSIC & MOVEMENT CONCEPTS
+page_64.png,,"Develops preferences for favorite songs and fingerplays (e.g., claps and smiles or communicates ""Again! Again!"" when a song is finished; requests certain songs or fingerplays be played or sung)",Indicator,MUSICAL EXPRESSION & APPRECIATION
+page_64.png,,19-36m,,
+page_64.png,,"Explores a widening variety of culturally diverse musical instruments, using them to produce increasingly complex rhythms, tones, melodies, and songs",Indicator,EXPLORATION OF MUSIC & MOVEMENT
+page_64.png,,"Uses body movement to respond with increasing accuracy to beat, dynamics (loud versus quiet), and tempo (speed) of music (e.g., marches with musical instruments with increasing ability to move in step with the beat; tiptoes during quiet music and stomps when it gets louder; moves slower or faster in time with music)",Indicator,EXPLORATION OF MUSIC & MOVEMENT
+page_64.png,,Imitates and begins to demonstrate understanding of fast/slow and loud/soft as they relate to playing music and singing,Indicator,MUSIC & MOVEMENT CONCEPTS
+page_64.png,,"Requests favorite types of music, discusses favorite songs, and shows appreciation for the music and dance of others",Indicator,MUSICAL EXPRESSION & APPRECIATION
+page_64.png,,37-48m,,
+page_64.png,,"Explores a widening variety of culturally diverse musical instruments, using them to produce increasingly complex rhythms, tones, melodies, and songs",Indicator,EXPLORATION OF MUSIC & MOVEMENT
+page_64.png,,"Uses body movement to respond with increasing accuracy to beat, dynamics (loud versus quiet), and tempo (speed) of music (e.g., marches with musical instruments with increasing ability to move in step with the beat; tiptoes during quiet music and stomps when it gets louder; moves slower or faster in time with music)",Indicator,EXPLORATION OF MUSIC & MOVEMENT
+page_64.png,,"With adult support demonstrates the foundational components of music, including tempo (e.g. by singing faster when asked to up the tempo), dynamics (e.g. by louder and softer during a song and pitch*(e.g. by singing higher and lower notes)",Indicator,MUSIC & MOVEMENT CONCEPTS
+page_64.png,,"Requests favorite types of music, discusses favorite songs, and shows appreciation for the music and dance of others",Indicator,MUSICAL EXPRESSION & APPRECIATION
+page_64.png,,49-60m,,
+page_64.png,,"Explores a widening variety of culturally diverse musical instruments, using them to produce increasingly complex rhythms, tones, melodies, and songs",Indicator,EXPLORATION OF MUSIC & MOVEMENT
+page_64.png,,"Uses body movement to respond with increasing accuracy to beat, dynamics (loud versus quiet), and tempo (speed) of music (e.g., marches with musical instruments with increasing ability to move in step with the beat; tiptoes during quiet music and stomps when it gets louder; moves slower or faster in time with music)",Indicator,EXPLORATION OF MUSIC & MOVEMENT
+page_64.png,,"With adult support demonstrates the foundational components of music, including tempo (e.g. by singing faster when asked to up the tempo), dynamics (e.g. by louder and softer during a song and pitch*(e.g. by singing higher and lower notes)",Indicator,MUSIC & MOVEMENT CONCEPTS
+page_64.png,,"Expresses self through music by making up songs, changing words to familiar songs, and experimenting with rhythmic patterns",Indicator,MUSICAL EXPRESSION & APPRECIATION
+page_65.png,CA,Creativity and Aesthetics,Domain of Development & Learning,
+page_65.png,CA2.,VISUAL ARTS,Domain Component,
+page_65.png,CA2.1,Explores manipulates creates and responds to a variety of art media,Learning Goal,
+page_65.png,,BIRTH-8m,Indicator,
+page_65.png,,Explores textures and other sensory experiences,Indicator,EXPLORATION OF ART
+page_65.png,,Shows interest in gazing at pictures photographs and bright and/or contrasting colors,Indicator,EXPLORATION OF ART
+page_65.png,,9-18m,,
+page_65.png,,Participates in child-initiated visual art activities* and with adult support experiments with a variety of media and materials (e.g. crayons markers colored pencils chalk paints collage materials play dough clay),Indicator,EXPLORATION OF ART
+page_65.png,,19-36m,,
+page_65.png,,Shows increasing range and intentionality in art creations (e.g. draws multiple simple shapes; uses a variety of tools to make different textures in play dough; shows preferences and makes choices about colors),Indicator,ART CONCEPTS
+page_65.png,,Tells about their artistic creations with increasing detail,Indicator,ART APPRECIATION & EXPRESSION
+page_65.png,,Recognizes and states that objects in the environment are beautiful and later in this age range can articulate why they believe it is beautiful,Indicator,ART APPRECIATION & EXPRESSION
+page_65.png,,37-48m,,
+page_65.png,,"Engages in child-initiated visual art activities with increased independence intentionality planning and knowledge of art media and materials (e.g. asks a friend ""Can I use the easel when you're done?""; creates two- or three-dimensional art that approximate or depict people animals and objects; says ""I'm going to draw daddy"" before starting a project)",Indicator,EXPLORATION OF ART
+page_65.png,,Tells about their artistic creations with increasing detail,Indicator,ART APPRECIATION & EXPRESSION
+page_65.png,,Recognizes and states that objects in the environment are beautiful and later in this age range can articulate why they believe it is beautiful,Indicator,ART APPRECIATION & EXPRESSION
+page_65.png,,Chooses their own art for display in the learning environment or for inclusion in a book and briefly explains their choice,Indicator,ART APPRECIATION & EXPRESSION
+page_65.png,,49-60m,,
+page_65.png,,With adult support demonstrates the foundational components of art including line shape (e.g. by drawing lines and different shapes) color (e.g. by using different colors) and texture (e.g. by describing how a piece of art feels,Indicator,ART CONCEPTS
+page_65.png,,Tells about their artistic creations with increasing detail,Indicator,ART APPRECIATION & EXPRESSION
+page_65.png,,Recognizes and states that objects in the environment are beautiful and later in this age range can articulate why they believe it is beautiful,Indicator,ART APPRECIATION & EXPRESSION
+page_65.png,,Chooses their own art for display in the learning environment or for inclusion in a book and briefly explains their choice,Indicator,ART APPRECIATION & EXPRESSION
+page_65.png,,Communicates with others about art by discussing the ideas behind own art and how it was made; the feelings generated by looking at different art; and by showing appreciation for the artwork of others,Indicator,ART APPRECIATION & EXPRESSION
+page_66.png,CA,Creativity and Aesthetics,Domain of Development & Learning,
+page_66.png,CA3.,DRAMA,Domain Component,
+page_66.png,CA3.1,Explores feelings relationships and concepts through imitation pretend play and sociodramatic play,Learning Goal,
+page_66.png,,BIRTH-8m,Indicator,
+page_66.png,,"Engages in social play (e.g., peek-a-boo) with adults",Indicator,EXPLORATION OF DRAMA
+page_66.png,,9-18m,,
+page_66.png,,"Tries out roles and relationships through imitation and pretend play using real objects (e.g., uses cup to pretend to drink) and later in this age range uses objects to represent other things (e.g., pretends a block is a telephone)",Indicator,EXPLORATION OF DRAMA
+page_66.png,,19-36m,,
+page_66.png,,"Explores a variety of themes and roles through play, including real-life scenarios and people, fictional stories and characters, and play that expresses feelings and helps process experiences",Indicator,EXPLORATION OF DRAMA
+page_66.png,,37-48m,,
+page_66.png,,"Explores a variety of themes and roles through play, including real-life scenarios and people, fictional stories and characters, and play that expresses feelings and helps process experiences",Indicator,EXPLORATION OF DRAMA
+page_66.png,,"Engages in increasingly complex, longer play scenarios; assigns or assumes multiple roles within a scenario; tells more cohesive stories through play",Indicator,DRAMA CONCEPTS
+page_66.png,,49-60m,,
+page_66.png,,"Explores a variety of themes and roles through play, including real-life scenarios and people, fictional stories and characters, and play that expresses feelings and helps process experiences",Indicator,EXPLORATION OF DRAMA
+page_66.png,,"With adult support understands the foundational components of drama, including theme (e.g., can identify the main idea of the story), plot (e.g., can discuss the series of events that take place), character (e.g., can identify the main and minor characters and their roles), and dialogue (e.g., can discuss the interactions between characters)",Indicator,DRAMA CONCEPTS
+page_66.png,,Discusses and expresses appreciation after viewing a performance by older children or a professional group,Indicator,DRAMA APPRECIATION & EXPRESSION
+page_67.png,SE,Social and Emotional Development,Domain of Development & Learning,
+page_67.png,SE1.,Relationships with Others,Domain Component,
+page_67.png,SE1.1,Forms trusting relationships with nurturing adults,Learning Goal,
+page_67.png,SE1.2,Interacts with peers,Learning Goal,
+page_67.png,SE2.,Emotional Expression and Understanding,Domain Component,
+page_67.png,SE2.1,Experiences, expresses, and regulates a range of emotions
+page_67.png,SE2.2,Interprets and responds to the feelings of others,Learning Goal,
+page_67.png,SE3.,Self-Awareness and Self-Concept,Domain Component,
+page_67.png,SE3.1,Shows awareness of self as unique individual,Learning Goal,
+page_67.png,SE3.2,Demonstrates competence and confidence,Learning Goal,
+page_67.png,CD,Cognitive Development,Domain of Development & Learning,
+page_67.png,CD1.,Approaches to Learning,Domain Component,
+page_67.png,CD1.1,Shows curiosity and a willingness to try new things,Learning Goal,
+page_67.png,CD1.2,Shows persistence in approaching tasks,Learning Goal,
+page_67.png,CD2.,Executive Function,Domain Component,
+page_67.png,CD2.1,Focuses and sustains attention,Learning Goal,
+page_67.png,CD2.2,Shows flexibility in adjusting thinking and behavior to different contexts,Learning Goal,
+page_67.png,CD2.3,Regulates impulses and behaviors,Learning Goal,
+page_67.png,CD2.4,Holds and manipulates information in memory,Learning Goal,
+page_67.png,CD3.,Logic and Reasoning,Domain Component,
+page_67.png,CD3.1,Uses reasoning and planning ahead to solve problems and reach goals,Learning Goal,
+page_67.png,CD3.2,Engages in symbolic and abstract thinking,Learning Goal,
+page_67.png,,Interactions,Indicator,INTERACTIONS
+page_67.png,,Attachment relationships,Indicator,ATTACHMENT RELATIONSHIPS
+page_67.png,,Develops friendships,Indicator,SOCIAL SKILLS
+page_67.png,,Stages of play,Indicator,SOCIAL SKILLS
+page_67.png,,Social skills,Indicator,SOCIAL SKILLS
+page_67.png,,Emotion expression,Indicator,EMOTION EXPRESSION
+page_67.png,,Emotion regulation,Indicator,EMOTION REGULATION
+page_67.png,,Empathy,Indicator,EMPATHY
+page_67.png,,Emotion understanding,Indicator,EMOTION UNDERSTANDING
+page_67.png,,Sense of identity,Indicator,SENSE OF IDENTITY
+page_67.png,,Characteristics of self and others,Indicator,CHARACTERISTICS
+page_67.png,,Preferences,Indicator,PREFERENCES
+page_67.png,,Sense of autonomy,Indicator,SENSE OF AUTONOMY
+page_67.png,,Self-confidence,Indicator,SELF-CONFIDENCE
+page_67.png,,Exploration and investigation,Indicator,EXPLORATION
+page_67.png,,Interest in new experiences,Indicator,INTEREST
+page_67.png,,Determination,Indicator,DETERMINATION
+page_67.png,,Task completion,Indicator,TASK COMPLETION
+page_67.png,,Acceptance of challenges,Indicator,ACCEPTANCE OF CHALLENGES
+page_67.png,,Attention & engagement,Indicator,ATTENTION
+page_67.png,,Selective attention,Indicator,SELECTIVE ATTENTION
+page_67.png,,Flexible thinking,Indicator,FLEXIBLE THINKING
+page_67.png,,Adjusting behavior to match context,Indicator,ADJUSTING BEHAVIOR
+page_67.png,,Impulse control,Indicator,IMPULSE CONTROL
+page_67.png,,Delay of gratification,Indicator,DELAY OF GRATIFICATION
+page_67.png,,Short-term & working memory,Indicator,SHORT-TERM MEMORY
+page_67.png,,Long-term memory,Indicator,LONG-TERM MEMORY
+page_67.png,,Problem solving,Indicator,PROBLEM SOLVING
+page_67.png,,Planning,Indicator,PLANNING
+page_67.png,,Pretend play,Indicator,PRETEND PLAY
+page_67.png,,Symbolic representation,Indicator,SYMBOLIC REPRESENTATION
+page_67.png,,Abstract thinking,Indicator,ABSTRACT THINKING
+page_68.png,PH,Physical Development and Health,Domain of Development & Learning,
+page_68.png,PH1.,Gross Motor,Domain Component,
+page_68.png,PH1.1,Demonstrates locomotor skills,Learning Goal,
+page_68.png,,Body movement,Indicator,GROSS MOTOR
+page_68.png,,Traveling,Indicator,GROSS MOTOR
+page_68.png,,Climbing,Indicator,GROSS MOTOR
+page_68.png,,Complex movement,Indicator,GROSS MOTOR
+page_68.png,PH1.2,Shows stability and balance,Learning Goal,
+page_68.png,,Core stability,Indicator,STABILITY
+page_68.png,,"Jumping, hopping, & leaping",Indicator,STABILITY
+page_68.png,PH1.3,Demonstrates gross-motor manipulative skills,Learning Goal,
+page_68.png,,Catching,Indicator,MANIPULATIVE SKILLS
+page_68.png,,Throwing,Indicator,MANIPULATIVE SKILLS
+page_68.png,,Striking,Indicator,MANIPULATIVE SKILLS
+page_68.png,,Kicking,Indicator,MANIPULATIVE SKILLS
+page_68.png,PH2.,Fine Motor,Domain Component,
+page_68.png,PH2.1,Demonstrates fine-motor strength control and coordination,Learning Goal,
+page_68.png,,Hand-eye coordination,Indicator,FINE MOTOR
+page_68.png,,Grasp and manipulation,Indicator,FINE MOTOR
+page_68.png,PH2.2,Adjusts grasp and coordinates movements to use tools,Learning Goal,
+page_68.png,,Utensils,Indicator,TOOL USE
+page_68.png,,Writing & drawing tools,Indicator,TOOL USE
+page_68.png,,Scissors,Indicator,TOOL USE
+page_68.png,,Variety of tools,Indicator,TOOL USE
+page_68.png,PH3.,Health and Well-Being,Domain Component,
+page_68.png,PH3.1,Demonstrates interest in engaging in healthy eating habits and making nutritious food choices,Learning Goal,
+page_68.png,,Communicating needs,Indicator,HEALTH HABITS
+page_68.png,,Exploration of food experiences,Indicator,HEALTH HABITS
+page_68.png,,Food knowledge,Indicator,HEALTH HABITS
+page_68.png,PH3.2,Shows awareness of safe behavior,Learning Goal,
+page_68.png,,Awareness of safe behavior and signals of danger,Indicator,SAFETY
+page_68.png,,Understanding of safety rules and practices,Indicator,SAFETY
+page_68.png,PH3.3,Engages in a variety of developmentally appropriate physical activities,Learning Goal,
+page_68.png,,Participation in physical activity,Indicator,PHYSICAL ACTIVITY
+page_68.png,,Knowledge of benefits of physical activity,Indicator,PHYSICAL ACTIVITY
+page_68.png,PH3.4,Takes appropriate actions to meet basic needs,Learning Goal,
+page_68.png,,Communicating needs,Indicator,BASIC NEEDS
+page_68.png,,Personal care routines,Indicator,BASIC NEEDS
+page_68.png,,Health habits,Indicator,BASIC NEEDS
+page_68.png,LD,Language Development,Domain of Development & Learning,
+page_68.png,LD1.,Receptive Language,Domain Component,
+page_68.png,LD1.1,Understands and responds to language (in child's home language),Learning Goal,
+page_68.png,,Vocabulary & language comprehension,Indicator,RECEPTIVE LANGUAGE
+page_68.png,,Follows directions,Indicator,RECEPTIVE LANGUAGE
+page_68.png,LD2.,Expressive Language,Domain Component,
+page_68.png,LD2.1,Uses increasingly complex vocabulary grammar and sentence structure (in child's home language),Learning Goal,
+page_68.png,,Expressive vocabulary,Indicator,EXPRESSIVE LANGUAGE
+page_68.png,,Grammar & sentence structure,Indicator,EXPRESSIVE LANGUAGE
+page_68.png,,Clarity of communication,Indicator,EXPRESSIVE LANGUAGE
+page_68.png,LD3.,Communication Skills,Domain Component,
+page_68.png,LD3.1,Communicates using social and conversational rules,Learning Goal,
+page_68.png,,Conversations,Indicator,COMMUNICATION
+page_68.png,,Social rules of language,Indicator,COMMUNICATION
+page_68.png,LD4.,English Language Development of Dual Language Learners,Domain Component,
+page_68.png,LD4.1,Demonstrates progress in attending to understanding and responding to English,Learning Goal,
+page_68.png,,English language development,Indicator,DUAL LANGUAGE
+page_68.png,,Home language development,Indicator,DUAL LANGUAGE
+page_68.png,LD4.2,Demonstrates progress in speaking and expressing self in English,Learning Goal,
+page_68.png,,English language development,Indicator,DUAL LANGUAGE
+page_68.png,,Home language development,Indicator,DUAL LANGUAGE
+page_69.png,EL,Emergent Literacy,Domain of Development & Learning,
+page_69.png,EL1.,Engagement in literacy experiences and understanding of stories and books,Domain Component,
+page_69.png,EL1.1,Shows interest in literacy experiences,Learning Goal,
+page_69.png,,Engagement in literacy experiences,Indicator,LITERACY
+page_69.png,,Variety of interests,Indicator,LITERACY
+page_69.png,EL1.2,Engages in read-alouds and conversations about books and stories,Learning Goal,
+page_69.png,,Engages with books and stories,Indicator,READING
+page_69.png,,Story comprehension,Indicator,COMPREHENSION
+page_69.png,,Story structure,Indicator,STRUCTURE
+page_69.png,,Informational texts,Indicator,TEXTS
+page_69.png,EL2.,Phonological Awareness,Domain Component,
+page_69.png,EL2.1,Notices and manipulates the sounds of language,Learning Goal,
+page_69.png,,Exploration of sounds of language,Indicator,PHONOLOGY
+page_69.png,,Rhyme,Indicator,PHONOLOGY
+page_69.png,,Alliteration,Indicator,PHONOLOGY
+page_69.png,,Manipulating units of language,Indicator,LANGUAGE
+page_69.png,EL3.,Knowledge and Use of Books Print and Letters,Domain Component,
+page_69.png,EL3.1,Responds to features of books and print,Learning Goal,
+page_69.png,,Book knowledge,Indicator,LITERACY
+page_69.png,,Print knowledge,Indicator,LITERACY
+page_69.png,EL3.2,Shows knowledge of the shapes names and sounds of letters,Learning Goal,
+page_69.png,,Alphabet knowledge,Indicator,LETTERS
+page_69.png,,Letter-sound connections,Indicator,PHONICS
+page_69.png,EL3.3,Demonstrates emergent writing skills,Learning Goal,
+page_69.png,,Pre-writing exploration,Indicator,WRITING
+page_69.png,,Letter and print writing concepts,Indicator,WRITING
+page_69.png,,Early word writing,Indicator,WRITING
+page_69.png,MT,Mathematical Thinking,Domain of Development & Learning,
+page_69.png,MT1.,Number Concepts and Operations,Domain Component,
+page_69.png,MT1.1,Demonstrates number sense and an understanding of quantity,Learning Goal,
+page_69.png,,Number names & count sequence,Indicator,NUMERACY
+page_69.png,,Comparison of quantity,Indicator,QUANTITY
+page_69.png,,Connection of number numeral & quantity,Indicator,NUMERACY
+page_69.png,MT1.2,Explores combining and separating groups,Learning Goal,
+page_69.png,,Changes in quantity,Indicator,OPERATIONS
+page_69.png,,Addition & subtraction,Indicator,OPERATIONS
+page_69.png,,Early division and fractions,Indicator,OPERATIONS
+page_69.png,MT2.,Algebraic Thinking,Domain Component,
+page_69.png,MT2.1,Uses classification and patterning skills,Learning Goal,
+page_69.png,,Classification,Indicator,ALGEBRA
+page_69.png,,Patterning,Indicator,ALGEBRA
+page_69.png,MT3.,Measurement and Comparison,Domain Component,
+page_69.png,MT3.1,Participates in exploratory measurement activities and compares objects,Learning Goal,
+page_69.png,,Measurement,Indicator,MEASUREMENT
+page_69.png,,Comparison,Indicator,MEASUREMENT
+page_69.png,,Seriation,Indicator,MEASUREMENT
+page_69.png,MT4.,Geometry and Spatial Sense,Domain Component,
+page_69.png,MT4.1,Explores and describes shapes and spatial relationships,Learning Goal,
+page_69.png,,Shape knowledge,Indicator,GEOMETRY
+page_69.png,,Spatial sense,Indicator,GEOMETRY
+page_69.png,,Shape manipulation,Indicator,GEOMETRY
+page_70.png,ST,Science and Technology,Domain of Development & Learning,
+page_70.png,ST1.,Scientific Practices,Domain Component,
+page_70.png,ST1.1,Engages in the scientific process to collect analyze and communicate information,Learning Goal,
+page_70.png,ST2.,Knowledge of Science Concepts,Domain Component,
+page_70.png,ST2.1,Demonstrates knowledge of core science ideas and concepts,Learning Goal,
+page_70.png,ST3.,Knowledge of Science Content,Domain Component,
+page_70.png,ST3.1,Demonstrates knowledge of the characteristics of living things the earth's environment and physical objects and materials,Learning Goal,
+page_70.png,ST3.2,Uses tools and engineering practices to explore and solve problems,Learning Goal,
+page_70.png,ST3.3,Engages in developmentally appropriate interactions with technology and media that support creativity exploration and play,Learning Goal,
+page_70.png,SS,Social Studies,Domain of Development & Learning,
+page_70.png,SS1.,Family Community and Culture,Domain Component,
+page_70.png,SS1.1,Demonstrates positive connection to family and community,Learning Goal,
+page_70.png,SS2.,History and Geography,Domain Component,
+page_70.png,SS2.1,Shows awareness of sequence and change over time,Learning Goal,
+page_70.png,SS2.2,Demonstrates simple geographic knowledge,Learning Goal,
+page_70.png,CA,Creativity and Aesthetics,Domain of Development & Learning,
+page_70.png,CA1.,Music and Movement,Domain Component,
+page_70.png,CA1.1,Explores through listening singing creating and moving to music,Learning Goal,
+page_70.png,CA2.,Visual Arts,Domain Component,
+page_70.png,CA2.1,Explores manipulates creates and responds to a variety of art media,Learning Goal,
+page_70.png,CA3.,Drama,Domain Component,
+page_70.png,CA3.1,Explores feelings relationships and concepts through imitation pretend play and sociodramatic play,Learning Goal,
+page_9.png,CD,Cognitive Development,Domain of Development & Learning,
+page_9.png,CD1.,APPROACHES TO LEARNING,Domain Component,
+page_9.png,CD1.1,Shows curiosity and a willingness to try new things,Learning Goal,
+page_9.png,,BIRTH-8m,Indicator,
+page_9.png,,"Uses senses and a variety of actions to explore the environment (e.g., turns head toward a sound, shakes or bangs a toy, mouths objects)",Indicator,EXPLORATION & INVESTIGATION
+page_9.png,,"Shows pleasure or engagement when interesting or new things happen (e.g., laughs after shaking a toy that rattles, listens intently to a new song)",Indicator,INTEREST IN NEW EXPERIENCES
+page_9.png,,9-18m,,
+page_9.png,,"Explores different ways to use objects or materials, investigates ways to make something happen, experiments with different behaviors to see how others will react (e.g., repeatedly knocks pieces of cereal off high chair tray, tries to use basket as hat, turns faucets or switches on and off)",Indicator,EXPLORATION & INVESTIGATION
+page_9.png,,"Shows pleasure or engagement when interesting or new things happen (e.g., laughs after shaking a toy that rattles, listens intently to a new song)",Indicator,INTEREST IN NEW EXPERIENCES
+page_9.png,,19-36m,,
+page_9.png,,"Experiments with objects and materials with increasing sophistication (e.g., gathers multiple objects to find out which will sink or float, uses magnets with various objects and materials) with guidance and support from adults",Indicator,EXPLORATION & INVESTIGATION
+page_9.png,,"Asks increasingly complex questions, beginning with basic ""wh-"" questions related to the immediate world around them (e.g., ""What is this?"" ""Why is it blue?""). Later in this age range also seeks explanations for future and past events and demonstrates interest in a range of topics and ideas (e.g., ""When is lunch?"" ""How do clouds get in the sky?"")",Indicator,EXPLORATION & INVESTIGATION
+page_9.png,,"Demonstrates interest in exploring new experiences or materials with increasing willingness to participate in new activities or experiences, even if the child perceives them as challenging",Indicator,INTEREST IN NEW EXPERIENCES
+page_9.png,,37-48m,,
+page_9.png,,"Experiments with objects and materials with increasing sophistication (e.g., gathers multiple objects to find out which will sink or float, uses magnets with various objects and materials) with guidance and support from adults",Indicator,EXPLORATION & INVESTIGATION
+page_9.png,,"Asks increasingly complex questions, beginning with basic ""wh-"" questions related to the immediate world around them (e.g., ""What is this?"" ""Why is it blue?""). Later in this age range also seeks explanations for future and past events and demonstrates interest in a range of topics and ideas (e.g., ""When is lunch?"" ""How do clouds get in the sky?"")",Indicator,EXPLORATION & INVESTIGATION
+page_9.png,,"Demonstrates interest in exploring new experiences or materials with increasing willingness to participate in new activities or experiences, even if the child perceives them as challenging",Indicator,INTEREST IN NEW EXPERIENCES
+page_9.png,,49-60m,,
+page_9.png,,"Experiments with objects and materials with increasing sophistication (e.g., gathers multiple objects to find out which will sink or float, uses magnets with various objects and materials) with guidance and support from adults",Indicator,EXPLORATION & INVESTIGATION
+page_9.png,,"Asks increasingly complex questions, beginning with basic ""wh-"" questions related to the immediate world around them (e.g., ""What is this?"" ""Why is it blue?""). Later in this age range also seeks explanations for future and past events and demonstrates interest in a range of topics and ideas (e.g., ""When is lunch?"" ""How do clouds get in the sky?"")",Indicator,EXPLORATION & INVESTIGATION
+page_9.png,,"Demonstrates interest in exploring new experiences or materials with increasing willingness to participate in new activities or experiences, even if the child perceives them as challenging",Indicator,INTEREST IN NEW EXPERIENCES
+page_41.png,EL,Emergent Literacy,Domain of Development & Learning,
+page_41.png,EL3.,"KNOWLEDGE AND USE OF BOOKS, PRINT, AND LETTERS",Domain Component,
+page_41.png,EL3.2,"Shows knowledge of the shapes, names, and sounds of letters",Learning Goal,
+page_41.png,,BIRTH-8m,Indicator,
+page_41.png,,Shows interest in literacy experiences,Indicator,ALPHABET KNOWLEDGE
+page_41.png,,Notices and manipulates the sounds of language,Indicator,ALPHABET KNOWLEDGE
+page_41.png,,Responds to features of books and print,Indicator,ALPHABET KNOWLEDGE
+page_41.png,,9-18m,,
+page_41.png,,Shows interest in literacy experiences,Indicator,ALPHABET KNOWLEDGE
+page_41.png,,Notices and manipulates the sounds of language,Indicator,ALPHABET KNOWLEDGE
+page_41.png,,Responds to features of books and print,Indicator,ALPHABET KNOWLEDGE
+page_41.png,,19-36m,,
+page_41.png,,"Shows interest in letters by singing the alphabet song, playing with alphabet blocks, looking at alphabet books, etc.",Indicator,ALPHABET KNOWLEDGE
+page_41.png,,"Attends to and recognizes simple environmental print (e.g., recognizes stop sign or Walmart® or Lego® logos, although may not say letters)",Indicator,ALPHABET KNOWLEDGE
+page_41.png,,37-48m,,
+page_41.png,,"Shows interest in letters by singing the alphabet song, playing with alphabet blocks, looking at alphabet books, etc.",Indicator,ALPHABET KNOWLEDGE
+page_41.png,,"Attends to and recognizes simple environmental print (e.g., recognizes stop sign or Walmart® or Lego® logos, although may not say letters)",Indicator,ALPHABET KNOWLEDGE
+page_41.png,,"Recognizes and names an increasing number of letters correctly, especially those in own name",Indicator,ALPHABET KNOWLEDGE
+page_41.png,,Produces the correct sounds for an increasing number of letters,Indicator,LETTER-SOUND CONNECTIONS
+page_41.png,,49-60m,,
+page_41.png,,"Shows interest in letters by singing the alphabet song, playing with alphabet blocks, looking at alphabet books, etc.",Indicator,ALPHABET KNOWLEDGE
+page_41.png,,"Attends to and recognizes simple environmental print (e.g., recognizes stop sign or Walmart® or Lego® logos, although may not say letters)",Indicator,ALPHABET KNOWLEDGE
+page_41.png,,"Recognizes and names an increasing number of letters correctly, especially those in own name",Indicator,ALPHABET KNOWLEDGE
+page_41.png,,Produces the correct sounds for an increasing number of letters,Indicator,LETTER-SOUND CONNECTIONS
+page_41.png,,"Shows understanding that a string of letters represents a sequence of spoken sounds (e.g., when writing asks ""How do you spell fish?"")",Indicator,LETTER-SOUND CONNECTIONS
+page_34.png,LD,Language Development,Domain of Development & Learning,
+page_34.png,LD4.,ENGLISH LANGUAGE DEVELOPMENT,Domain Component,
+page_34.png,LD4.2,Demonstrates progress in speaking and expressing self in English,Learning Goal,
+page_34.png,,EARLY-STAGE ENGLISH LANGUAGE DEVELOPMENT,Indicator,
+page_34.png,,"Relies on nonverbal communication, such as gestures or behaviors, to seek attention, request objects, or initiate a response from others",Indicator,ENGLISH LANGUAGE DEVELOPMENT
+page_34.png,,Repeats sounds and words in English,Indicator,ENGLISH LANGUAGE DEVELOPMENT
+page_34.png,,MID-STAGE ENGLISH LANGUAGE DEVELOPMENT,Indicator,
+page_34.png,,Combines nonverbal with some verbal communication to be understood by others,Indicator,ENGLISH LANGUAGE DEVELOPMENT
+page_34.png,,Engages in codeswitching* during conversations,Indicator,ENGLISH LANGUAGE DEVELOPMENT
+page_34.png,,Uses telegraphic speech**,Indicator,ENGLISH LANGUAGE DEVELOPMENT
+page_34.png,,"Uses formulaic speech (expressions that are learned whole, e.g., ""I don't know"")",Indicator,ENGLISH LANGUAGE DEVELOPMENT
+page_34.png,,Uses English vocabulary that mainly consists of concrete nouns and some verbs and pronouns,Indicator,ENGLISH LANGUAGE DEVELOPMENT
+page_34.png,,Converses with others in English using two or three words at a time but switches back and forth between English and their home language,Indicator,ENGLISH LANGUAGE DEVELOPMENT
+page_34.png,,"Uses some English grammatical markers (e.g., ""-ing"" or the plural-forming ""-s"") and applies at times the rules of grammar of the home language to English",Indicator,ENGLISH LANGUAGE DEVELOPMENT
+page_34.png,,"Uses ""what"" and ""why"" questions in English, sometimes with errors",Indicator,ENGLISH LANGUAGE DEVELOPMENT
+page_34.png,,LATE-STAGE ENGLISH LANGUAGE DEVELOPMENT,Indicator,
+page_34.png,,Demonstrates increasing reliance on verbal communication in English to be understood by others while still making some mistakes,Indicator,ENGLISH LANGUAGE DEVELOPMENT
+page_34.png,,"Uses new English vocabulary to share knowledge of concepts, including conversational and academic vocabulary",Indicator,ENGLISH LANGUAGE DEVELOPMENT
+page_34.png,,"Sustains a conversation in English with increasingly complex syntax, adding conjunctions, adjectives, adverbs, subject-verb-object patterns, and other more advanced elements of English sentence construction",Indicator,ENGLISH LANGUAGE DEVELOPMENT
+page_34.png,,"Expands use of different forms of grammar in English (e.g., plurals; possessive pronouns; simple past tense verbs), sometimes with errors",Indicator,ENGLISH LANGUAGE DEVELOPMENT
+page_34.png,,"Uses ""what,"" ""why,"" ""how,"" ""when,"" and ""where"" questions in more complete forms in English, sometimes with mistakes",Indicator,ENGLISH LANGUAGE DEVELOPMENT
+page_34.png,,Uses age-appropriate vocabulary and grammar in the home language,Indicator,HOME LANGUAGE DEVELOPMENT
+page_34.png,,Listens to and converses in age appropriate way in home language,Indicator,HOME LANGUAGE DEVELOPMENT
+page_34.png,,"Asks a variety of age-appropriate questions (e.g., ""what,"" ""why,"" ""how,"" ""when,"" and ""where"") in home language",Indicator,HOME LANGUAGE DEVELOPMENT
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+page_27.png,PH3.4,Takes appropriate actions to meet basic needs*,Learning Goal,
+page_27.png,,BIRTH-8M,,filename=ph3.4.image
+page_27.png,,"Indicates needs and wants using gestures, body language, vocalizations, and later words (e.g., cries when tired; signs or points to food when wanting more; reaches for adult to be held or hugged)",Indicator,COMMUNICATING NEEDS
+page_27.png,,"Anticipates and cooperates during daily care routines (e.g., opens mouth when food is offered, raises legs when diaper is changed)",Indicator,PERSONAL CARE ROUTINES
+page_27.png,,9-18M,,
+page_27.png,,"Indicates needs and wants using gestures, body language, vocalizations, and later words (e.g., cries when tired; signs or points to food when wanting more; reaches for adult to be held or hugged)",Indicator,COMMUNICATING NEEDS
+page_27.png,,"Anticipates and cooperates during daily care routines (e.g., opens mouth when food is offered, raises legs when diaper is changed)",Indicator,PERSONAL CARE ROUTINES
+page_27.png,,19-36M,,
+page_27.png,,"Communicates with increasing specificity and detail to get needs met (e.g., says My tummy hurts"," I need help reaching my toothbrush"") and later may communicate about specific health needs (e.g."," ""I can't have peanuts because they make me sick"")"""
+page_27.png,,"Participates in personal hygiene and self-care routines with adult assistance (e.g., holds hands under faucet and waits for adult to turn it on, holds toothbrush with adult while brushing, sits on toilet with help, pulls off own socks)",Indicator,PERSONAL CARE ROUTINES
+page_27.png,,"Shows increasing responsibility for personal self-care routines (e.g., handwashing, toothbrushing, toileting, dressing and undressing) with some support from adults",Indicator,PERSONAL CARE ROUTINES
+page_27.png,,"Engages in health habits (e.g., blows nose, throws away tissue, and washes hands; covers mouth with arm when coughing and washes hands, uses drinking fountain without touching spout with mouth) with decreasing need for adult support, guidance, and modeling",Indicator,HEALTH HABITS
+page_27.png,,37-48M,,
+page_27.png,,"Communicates with increasing specificity and detail to get needs met (e.g., says My tummy hurts"," I need help reaching my toothbrush"") and later may communicate about specific health needs (e.g."," ""I can't have peanuts because they make me sick"")"""
+page_27.png,,"Shows increasing responsibility for personal self-care routines (e.g., handwashing, toothbrushing, toileting, dressing and undressing) with some support from adults",Indicator,PERSONAL CARE ROUTINES
+page_27.png,,"Demonstrates increasing understanding of how, when, and why personal care routines are completed (e.g., washes hands after handling classroom pet when reminded by teacher; says I need my hat so I don't get sunburned."")""",Indicator,PERSONAL CARE ROUTINES
+page_27.png,,"Engages in health habits (e.g., blows nose, throws away tissue, and washes hands; covers mouth with arm when coughing and washes hands, uses drinking fountain without touching spout with mouth) with decreasing need for adult support, guidance, and modeling",Indicator,HEALTH HABITS
+page_27.png,,49-60M,,
+page_27.png,,"Communicates with increasing specificity and detail to get needs met (e.g., says My tummy hurts"," I need help reaching my toothbrush"") and later may communicate about specific health needs (e.g."," ""I can't have peanuts because they make me sick"")"""
+page_27.png,,"Shows increasing responsibility for personal self-care routines (e.g., handwashing, toothbrushing, toileting, dressing and undressing) with some support from adults",Indicator,PERSONAL CARE ROUTINES
+page_27.png,,"Demonstrates increasing understanding of how, when, and why personal care routines are completed (e.g., washes hands after handling classroom pet when reminded by teacher; says I need my hat so I don't get sunburned."")""",Indicator,PERSONAL CARE ROUTINES
+page_27.png,,"Engages in health habits (e.g., blows nose, throws away tissue, and washes hands; covers mouth with arm when coughing and washes hands, uses drinking fountain without touching spout with mouth) with decreasing need for adult support, guidance, and modeling",Indicator,HEALTH HABITS
