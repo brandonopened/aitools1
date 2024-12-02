@@ -229,8 +229,8 @@ def process_images_with_claude(image_folder, output_csv):
         print("No data to export")
 
 def main():
-    image_folder = 'round2'
-    output_csv = 'akround2utput.csv'
+    image_folder = 'round4'
+    output_csv = 'akround4utput.csv'
 
     process_images_with_claude(image_folder, output_csv)
 
