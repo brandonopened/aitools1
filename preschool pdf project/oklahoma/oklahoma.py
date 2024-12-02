@@ -20,7 +20,7 @@ Rules for extraction:
 
 For two-column formats:
 - Extract baby actions from "THE BABY MIGHT FOR EXAMPLE" column
-- Extract teacher actions from "THE TEACHER CAN" column
+- DO NOT Extract teacher actions from "THE TEACHER CAN" column
 - Maintain parallel relationships between baby and teacher actions
 """
 
