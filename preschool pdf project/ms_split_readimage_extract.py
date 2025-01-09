@@ -7,10 +7,6 @@ import fitz  # PyMuPDF
 from PIL import Image
 
 def pdf_to_images(pdf_path, output_folder):
-    # Create output folder if it doesn't exist
-    if not os.path.exists(output_folder):
-        os.makedirs(output_folder)
-
     # Open the PDF file
     pdf = fitz.open(pdf_path)
 
