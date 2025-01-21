@@ -1,0 +1,276 @@
+code,fullstatement,type,Rewritten Statement
+ATL.1,Child manages emotions with increasing independence,Standard,Shows feelings and calms down by themselves.
+ATL.10,Child demonstrates initiative and independence,Standard, Explores new toys or surroundings without needing help.
+ATL.11,Child shows interest in and curiosity about the world around them,Developmental Milestones, Explores new objects and places with interest.
+ATL.12,Child expresses creativity in thinking and communication,Developmental Milestones, Draws unique pictures and babbles or uses simple words to describe them.
+ATL.13,Child uses imagination in play and interaction with others,Developmental Milestones,Pretends during play with friends.
+ATL.2,Child follows classroom rules and routines with increasing independence,Developmental Milestones, Follows simple routines with a little help.
+ATL.3,Child appropriately handles and takes care of classroom materials,Developmental Milestones, Picks up and puts away toys carefully.
+ATL.4,"Child manages actions, words, and behavior with increasing independence",Developmental Milestones, uses words and actions to do things on their own.
+ATL.5,Child demonstrates an increasing ability to control impulses,Developmental Milestones, Waits for a turn when playing with others.
+ATL.6,Child maintains focus and sustains attention with minimal adult support,Developmental Milestones, Stays focused on a toy or activity without much help from an adult.
+ATL.7,Child persists in tasks,Developmental Milestones,Keeps trying when playing with toys.
+ATL.8,Child holds information in mind and manipulates it to perform tasks,Standard, Remembers and uses simple steps to play a game.
+ATL.9,Child demonstrates flexibility in thinking and behavior,Developmental Milestones, Shows ability to try new ways to solve simple problems.
+FS-1,Child demonstrates classification,0, Sorts toys by color or shape.
+FS-1.a,"Child can distinguish between different categories (i.e., color, size, shape).",0,"Sorts toys by color, size, or shape."
+FS-1.b,Child can group objects or pictures based on shared characteristics.,0,Sorts toys by color or shape.
+FS-1.c,Child can explain why they have grouped items in a particular way.,0,Sorts items into groups and can show why they belong together.
+FS-2,Child creates equal and unequal sets,0, Matches and groups objects into equal or different sets.
+FS-2.a,Child Identifies Equal and Unequal Quantities,0,"*Points to groups with the same number of items and says ""same"" or ""different.""*"
+FS-2.b,Child Gesturally or Verbally Segregates Objects into Equal or Unequal Sets,0, Sorts toys into same-size or different-size groups using hands or words.
+FS-2.c,Child Demonstrates Understanding of the Concept through Drawing or Other Creative Means,0,Draws or creates to show understanding.
+FS-3,Child demonstrates one-to-one correspondence,0,Matches one object to one other object.
+FS-3.a,Child accurately counts objects individually,0, Points to and counts each toy one by one.
+FS-3.b,Child matches objects to corresponding numbers,0, Points to or Picks objects when you say a number.
+FS-3.c,Child demonstrates understanding of 'one more' or 'one less',0,"- Adds or takes away one toy when asked for ""one more"" or ""one less."""
+FS-4,"Child recognizes, duplicates, and extends simple patterns",0,"Copies and continues simple patterns, like stacking blocks in a specific order."
+FS-4.a,Child identifies and recognizes simple patterns in various contexts.,0, Spots and Follows simple patterns during play.
+FS-4.b,Child accurately duplicates given patterns using physical objects or drawings.,0, Builds or Draws simple patterns by copying them.
+FS-4.c,Child successfully extends existing simple patterns by adding appropriate elements.,0, Adds the next shape or color in a simple pattern.
+FS-5,Child identifies pattern core,0,Stacks blocks in a repeating color order.
+FS-5.a,Child recognizes repetitive sequences,0, Notices and reacts to familiar patterns.
+FS-5.b,Child predicts next element in a pattern,0, Points to or says what comes next in a simple pattern.
+FS-5.c,Child creates own pattern,0, Stacks blocks in a repeating color order.
+FS-6,Child demonstrates order and sequence,0,Stacks blocks from biggest to smallest.
+FS-6.a,Child Identifies Patterns,0," Spots and Matches simple patterns, like stripes or dots."
+FS-6.b,Child Understands Temporal Order,0,"- Puts events in order by saying ""first"" and ""then."""
+FS-6.c,Child Applies Sequential Logic,0, Stacks blocks in order from biggest to smallest.
+LC.1,Child attends to communication and language from others,Developmental Milestones, Listens and responds to voices and sounds around them.
+LC.2,Child understands and responds to increasingly complex communication and language from others,Standard, responds to simple words and phrases with actions or sounds.
+LC.3,Child varies the amount of information provided to meet the demands of the situations,Developmental Milestones,Offers different details based on what others need.
+LC.3.a,Adjusting Complexity of Information,Developmental Milestones,Simplify information during play.
+LC.3.b,Contextual Understanding and Information Sharing,Developmental Milestones,Talks about things they see or do around them.
+LC.3.c,Information Regulation in Social Interaction,Standard, Shares toys with a friend during playtime.
+LC.4,"Child understands, follows, and uses appropriate social and conversational rules",Developmental Milestones,Joins in simple conversations by taking turns and using polite words.
+LC.4.a,"""Child recognizes and respects personal space and boundaries of others""",Standard, Notices and stops when getting too close to others.
+LC.4.b,"""Child accurately interprets verbal and non-verbal social cues in a conversation""",Developmental Milestones,- Notices and responds to others' facial expressions and gestures.
+LC.4.c,"""Child applies polite and constructive language during social interactions""",Developmental Milestones,"- Says ""please"" and ""thank you"" when talking to others."
+LC.5,"Child expresses himself in increasingly long, detailed, and sophisticated ways",Developmental Milestones, uses longer sentences to share thoughts and ideas.
+LC.5.a,Vocabulary Expansion,Developmental Milestones, say new words during playtime.
+LC.5.b,Narrative Skills,Developmental Milestones, Tells simple stories using gestures and sounds.
+LC.5.c,Verbal Fluency and Clarity,Developmental Milestones, Speak clearly and use simple words to express needs and wants.
+LC.5.d,"Explore drawing, painting and writing as a way of communicating.",Developmental Milestones, Scribble with crayons or paint to share ideas.
+LC.5.e,Tell teacher about drawing,Standard,• Show and talk about their drawing to a teacher.
+LC.6,Child understands and uses a wide variety of words for a variety of purposes,Developmental Milestones, uses many different words to talk and play.
+LC.6.a,Vocabulary Expansion,Developmental Milestones, uses new words to name familiar objects and people.
+LC.6.b,Purposeful Word Usage,Developmental Milestones, uses specific words to express needs or feelings.
+LC.6.c,Word Comprehension,Standard,Understands simple words.
+LC.6.d,Begin using 's' at the end of some words such as wants trucks and mouses.,Developmental Milestones,"- Say words like ""wants,"" ""trucks,"" and ""mouses."""
+LC.7,Child shows understanding of word categories and relationships among words,Developmental Milestones," Sorts toys or pictures into groups, like animals or vehicles."
+LC.7.a,"Child can differentiate between various word categories, like nouns, adjectives, and verbs.",Developmental Milestones,"- Sorts words into groups like ""things"" (nouns), ""describing"" (adjectives), and ""actions"" (verbs)."
+LC.7.b,Child can arrange words with similar meanings into categories.,Developmental Milestones, Sorts similar objects into groups.
+LC.7.c,"Child can identify and describe relationships between words, such as synonyms, antonyms, homophones.",Standard, Points to pictures and says words that mean the same or the opposite.
+LIT.1,Child demonstrates awareness that spoken language is composed of smaller segments of sound,Developmental Milestones, Listens and repeats simple sounds or words they hear.
+LIT.1.a,Child understands and identifies different sounds in words,Developmental Milestones, Recognizes and Points to objects when hearing their names.
+LIT.1.b,Child exhibits phonological awareness,Standard, Claps along to rhymes and songs.
+LIT.1.c,Child applies sound recognition in language interaction,Developmental Milestones, Listens and responds to familiar sounds or words.
+LIT.2,Child demonstrates an understanding of how print is used (functions of print) and the rules that govern how print works (conventions of print),Developmental Milestones,Points to pictures in a book and pretends to read.
+LIT.2.a,Recognizes Basic Print Concepts,Developmental Milestones, Points to and looks at pictures in a book.
+LIT.2.b,Identifies Functions of Print,Developmental Milestones,Points to words and pretends to read during story time.
+LIT.2.c,Applies Conventional Rules of Print,Standard, Points to and turns pages of a book in the right order.
+LIT.3,Child identifies letters of the alphabet,Developmental Milestones, Points to or names some letters of the alphabet.
+LIT.3.a,Child recognizes upper-case letters.,Developmental Milestones,Points to and names some big letters.
+LIT.3.b,Child recognizes lower-case letters.,Standard, Points to and names some lower-case letters.
+LIT.3.c,Child distinguishes between different letters.,Developmental Milestones, Points to or names different letters.
+LIT.4,Child demonstrates an understanding of narrative structure through storytelling/re-telling,Standard," Tells or retells simple stories with a beginning, middle, and end."
+LIT.4.a,Child illustrates comprehension by re-telling familiar stories in their own words'.,Developmental Milestones, Tells familiar stories using their own words.
+LIT.4.b,Child identifies main events and characters in a narrative'.,Developmental Milestones,Points to familiar characters or events in a story.
+LIT.4.c,Child creates coherent and chronological narrative plots through storytelling'.,Developmental Milestones, Tells simple stories in order.
+LIT.5,Child asks and answers questions about a book that was read aloud,Developmental Milestones, Points to pictures and talks about them when listening to a story.
+LIT.5.a,Ability to Comprehend Story Elements from books,Standard, Points to or names familiar characters or objects in a storybook.
+LIT.5.b,Expressive Language Development from printed or read-aloud books.,Developmental Milestones, Points to pictures in a book and says words or sounds.
+LIT.5.c,Critical Thinking and Interpretation about printed books.,Developmental Milestones, Points to and talks about pictures in a book.
+LIT.6,Child writes for a variety of purposes using increasingly sophisticated marks,Developmental Milestones,Makes marks on paper to share ideas or tell stories.
+LIT.6.a,"Child demonstrates fine motor skills to create shapes, letters and pictures with a variety of writing tools.'",Standard, Scribbles with crayons or markers to make simple shapes and lines.
+LIT.6.b,Child can differentiate and apply various types of marks to convey different meanings or purposes.',Developmental Milestones, Draws different shapes or lines to show different ideas or feelings.
+LIT.6.c,Child develops the ability to produce increasingly complex and detailed markings representing greater command of written language.',Developmental Milestones, Draws squiggles and shapes that look more like letters and words.
+MATH.1,Child knows number names and the count sequence,Cluster, says number names in order.
+MATH.1.a,Child can accurately identify numbers when named or written.,Developmental Milestones, Points to or says numbers when they are named or shown.
+MATH.1.b,Child can recite the numerical order sequence correctly.,Developmental Milestones, says numbers in the right order while counting.
+MATH.1.c,Child can associate specific quantities with their corresponding number names.,Developmental Milestones, Matches numbers with the right amount of objects.
+MATH.10,Child explores the positions of objects in space,0,Stacks blocks and moves them around to see where they fit.
+MATH.10.a,Child Identifies Relative Positions,0,"- Points to or reaches for objects when asked about their position, like ""on"" or ""under."""
+MATH.10.b,Child Manipulates Objects,0, Grabs and Explores toys with hands and mouth.
+MATH.10.c,Child Understands Directionality,0, Points or looks in the direction of sounds or objects.
+MATH.2,Child recognizes the number of objects in a small set (subitizing),0, Points to or says how many toys are in a small group without counting.
+MATH.2.a,Child can visually identify and name numbers 1-5 without counting.,0,Points and says numbers 1-5 without counting.
+MATH.2.b,Child can group objects into sets equating to a given small number without counting.,0, Matches small groups of objects to a given number without counting.
+MATH.2.c,"Child can instantly recognize number patterns within 5 using arrays, dice patterns or fingers.",0,- Points to or names number patterns up to 5 using objects like dice or fingers.
+MATH.3,Child understands the relationship between numbers and quantities,0, Points to or touches objects while counting them.
+MATH.3.a,Child can match numbers with corresponding quantities,0, Points to the number of objects that Matches a number shown.
+MATH.3.b,Child can order quantities according to number sequence,0, lines up objects by counting them in order.
+MATH.3.c,Child can perform simple addition and subtraction with quantities,0," counts and combines small groups of objects, then takes some away to see how many are left."
+MATH.4,Child compares numbers,0,Counts and points to more or fewer objects.
+MATH.4.a,Child identifies larger and smaller quantities.,0,Points to the bigger or smaller group of objects.
+MATH.4.b,"Child understands and uses terms related to quantity comparison (more, less, equal).",0,"Points to or says ""more"" or ""less"" when comparing amounts."
+MATH.4.c,Child can arrange numbers in ascending and descending order.,0, lines up numbers from smallest to biggest or biggest to smallest.
+MATH.5,Child associates a quantity with written numerals up to 5 and begins to write numbers,0,- Points to or says numbers up to 5 when seeing them written.
+MATH.5.a,Child recognizes and accurately counts objects up to five.,0,Points and counts up to five objects.
+MATH.5.b,Child matches written numerals to their corresponding quantities up to five.,0," Points to or Picks up the same number of objects as the numeral shown, up to five."
+MATH.5.c,Child begins to practice writing numerals up to five correctly.,0, Scribbles numbers up to five with growing accuracy.
+MATH.6,Child understands addition as adding to and understands subtraction as taking away from,0, Shows understanding of adding by putting more blocks in a pile and subtracting by taking blocks away.
+MATH.6.a,"""Child can use objects to demonstrate addition as 'adding to' in practical scenarios.""",0, uses toys to show how adding more makes a bigger group.
+MATH.6.b,"""Child can apply the concept of 'taking away from' when solving simple subtraction problems.""",0, takes away objects to show simple subtraction.
+MATH.6.c,"""Child can differentiate between addition and subtraction and identify their appropriate use in real-life situations.""",0," Sorts objects into groups and takes some away, noticing changes in the number."
+MATH.7,Child understands simple patterns,0," Spots and Follows simple patterns, like red-blue-red."
+MATH.7.a,"Child identifies and describes simple sequences of objects based on their characteristics (color, shape, size, etc.).",0, Sorts toys by color or shape.
+MATH.7.b,Child predicts what comes next in a simple pattern.,0, Points to or says what comes next in a simple pattern.
+MATH.7.c,Child recreates or continues a simple pattern using physical objects or images.,0, Stacks blocks in a color pattern like red-blue-red.
+MATH.8,Child measures objects by their various attributes using standard and non-standard measurement; uses differences in attributes to make comparisons,0,Stacks blocks to see which tower is taller or shorter.
+MATH.8.a,Understanding of Measurement,0, Stacks blocks to explore different sizes.
+MATH.8.b,Application of Measurement,0," Measures objects using hands or simple tools, like stacking blocks to see which is taller."
+MATH.8.c,Comparison and Differentiation,0,"Notice differences between objects, like size or color."
+MATH.9,"Child identifies, describes, compares, and composes shapes",0,"Stacks, sorts, and plays with different shapes."
+MATH.9.a,Recognizes differences in shapes,0, Spots and Points to different shapes.
+MATH.9.b,Can describe shapes with basic language,0,Points to and names simple shapes.
+MATH.9.c,"Compare, compose and explore shapes",0,Stack and fit different shapes together during play.
+P-ATL.1.a,"""Child can identify and articulate their own emotions.""",Developmental Milestones, Points to or uses simple words to show how they feel.
+P-ATL.1.b,"""Child utilizes appropriate coping strategies to handle negative emotions.""",Developmental Milestones, uses a favorite toy or hugs a caregiver to feel better when upset.
+P-ATL.1.c,"""Child independently resolves emotional distress or conflict, and can return to play or tasks.""",Standard, Calms themselves and goes back to playing after being upset.
+P-ATL.10.a,Child exhibits self-direction in play and learning activities.,Developmental Milestones, Chooses toys and activities to play with on their own.
+P-ATL.10.b,Child independently completes tasks with minimal assistance.,Developmental Milestones, Completes simple tasks with little help.
+P-ATL.10.c,Child shows curiosity and willingness to explore and try new activities.,Standard, reaches out to touch and examine new objects.
+P-ATL.11.a,Child engages with their environment,Developmental Milestones," Explores surroundings by touching, looking, and moving around."
+P-ATL.11.b,Child asks questions about unfamiliar things,Standard, Points to or gestures at new things and looks to adults for answers.
+P-ATL.11.c,Child exhibits exploratory behavior,Developmental Milestones, reaches for and touches new objects with curiosity.
+P-ATL.12.a,Child uses imaginative thinking to create new ideas or interpretations.',Developmental Milestones, Pretends to be different characters or uses objects in creative ways during play.
+P-ATL.12.b,"Child conveys ideas and emotions through various forms of art, drama, and play.'",Developmental Milestones," Expresses feelings and ideas through drawing, acting, and playing."
+P-ATL.12.c,Child engages in storytelling or description to express thoughts and experiences.',Developmental Milestones, Tells simple stories or Shares experiences.
+P-ATL.13.a,"""Child exhibits creative role-playing during playtime""",Developmental Milestones, Pretends to be different characters while playing.
+P-ATL.13.b,"""Child incorporates invented scenarios in social interactions""",Standard, Pretends and plays make-believe games with friends.
+P-ATL.13.c,"""Child applies inventive use of toys and props in play and interaction""",Developmental Milestones, uses toys and objects in new and creative ways during play.
+P-ATL.13.d,Play beside other children and imitate the play of another child.,Developmental Milestones, play next to other kids and copy what they do.
+P-ATL.2.a,Understanding and recalling classroom rules,Standard, Follows simple rules during playtime.
+P-ATL.2.b,Applying routines independently,Developmental Milestones, Follows daily routines without help.
+P-ATL.2.c,Adaptability to changes in rules and routines,Developmental Milestones, Adjusts easily to new routines and rules.
+P-ATL.3.a,Child demonstrates understanding of rules for using materials,Developmental Milestones,Follows simple rules when playing with toys.
+P-ATL.3.b,Child actively participates in the cleaning and return of materials,Standard, Helps tidy up toys and put them back in their place.
+P-ATL.3.c,Child displays awareness of classmates' use of materials,Developmental Milestones, Notices how other children play with toys.
+P-ATL.4.a,Child can complete age-appropriate tasks with little to no assistance (Self-sufficiency).,Standard, Completes simple tasks alone.
+P-ATL.4.b,Child demonstrates control over emotions and can communicate feelings appropriately (Emotional regulation and communication).,Developmental Milestones, Shows feelings by using words or gestures.
+P-ATL.4.c,"Child follows rules and instructions, showing an understanding of appropriate behavior (Understanding and adherence to rules).",Developmental Milestones,Follows simple directions and shows they know what to do.
+P-ATL.5.a,Child shows improvement in delaying immediate gratification for a bigger reward.,Developmental Milestones,Waits for a bigger treat instead of taking the first one right away.
+P-ATL.5.b,"Child increasingly adheres to set rules and boundaries, demonstrating enhanced self-discipline.",Developmental Milestones,Follows simple rules and routines.
+P-ATL.5.c,Child often utilizes problem-solving strategies instead of acting on initial impulses.,Developmental Milestones, uses simple strategies to solve problems instead of acting right away.
+P-ATL.6.a,Child engages with a single activity for an extended period (5-10 minutes) without frequent redirection.,Developmental Milestones,- Plays with one toy for 5-10 minutes without needing help to stay focused.
+P-ATL.6.b,Child follows simple instructions and completes short tasks with minimal reminders from adults.,Developmental Milestones,Follows simple directions and finishes small tasks with little help.
+P-ATL.6.c,Child shows interest and curiosity by asking questions and exploring materials independently.,Standard, Explores toys and objects with curiosity.
+P-ATL.7.a,Developing focus,Developmental Milestones, Follows a moving toy with their eyes.
+P-ATL.7.b,Demonstrating adaptive skills,Standard, uses hands to feed themselves.
+P-ATL.7.c,Exhibiting perseverance,Developmental Milestones, Keeps trying to stack blocks even when they fall down.
+P-ATL.8.a,Child shows evidence of Memory Retention,Standard, Remembers where a favorite toy is kept.
+P-ATL.8.b,Child shows evidence of Cognitive Flexibility,Developmental Milestones,Switches easily between playing with different toys.
+P-ATL.8.c,Task Execution is observed informally or formally.,Developmental Milestones, Completes simple tasks with guidance or on their own.
+P-ATL.9.a,"""Child exhibits adaptability in new situations or changes in routine""",Developmental Milestones, Adjusts to new activities or changes in routine.
+P-ATL.9.b,"""Child shows capability in problem-solving using different strategies""",Standard, Tries different ways to solve a problem.
+P-ATL.9.c,"""Child portrays an understanding and acceptance of different perspectives and ideas""",Developmental Milestones,- Shows interest in others' ideas by listening and watching.
+P-LC.1.a,Listening Comprehension,Standard, responds to familiar words or phrases by looking or pointing.
+P-LC.1.b,Active Engagement,Developmental Milestones,Plays and explores with curiosity.
+P-LC.1.c,Observer Learning,Developmental Milestones,Watches and learns from people and things around them.
+P-LC.1.d,Develop an appreciation for music and participate in music and movement activities that represent a variety of the cultures and the home language of the children in the classroom.,Developmental Milestones,"Clap, dance, and sway to music from different cultures and languages."
+P-LC.1.e,"Understand pronouns such as me, mine, yours, him and her.",Developmental Milestones,"- Uses pronouns like ""me,"" ""mine,"" and ""yours"" in conversations."
+P-LC.1.f,Attempt to sing songs with words and later sing phrases of songs.,Developmental Milestones, Sing along with parts of favorite songs.
+P-LC.2.a,Child comprehends and accurately interprets simple and compound instructions.,Developmental Milestones,"Follows simple directions like ""pick up the toy"" or ""sit down."""
+P-LC.2.b,Child demonstrates proactive responses to verbal cues and commands from adults and peers.,Developmental Milestones, Follows simple directions from adults and friends.
+P-LC.2.c,Child exhibits an understanding of complex language by engaging in reciprocal conversations.,Standard, talks back and forth with others using simple words and sentences.
+P-LC.2.d,Child answers simple questions,Developmental Milestones, responds to simple questions with sounds or gestures.
+P-SE.1.a,Child shows respect and responsive behavior towards adults.,Developmental Milestones, Smiles or reaches out when a familiar adult approaches.
+P-SE.1.b,Child can build trusted relationships with adult figures.,Developmental Milestones,Shows trust by reaching out to familiar adults for comfort.
+P-SE.1.c,Child exhibits effective communication skills with adults.,Developmental Milestones, uses simple words or gestures to express needs to adults.
+P-SE.10.a,"""Child demonstrates ability to perform simple tasks independently""",Developmental Milestones, Completes simple tasks without help.
+P-SE.10.b,"""Child can identify and articulate personal strengths and achievements""",Standard, Points to or names things they are good at doing.
+P-SE.10.c,"""Child shows self-affection and expresses pride in personal progress""",Developmental Milestones, hugs themselves and Smiles when they accomplish something new.
+P-SE.11.a,Recognizing Family and Community Roles,Developmental Milestones,"- Points to or names familiar people like ""mommy"" or ""teacher""."
+P-SE.11.b,Developing Interpersonal Skills,Developmental Milestones, Smiles and reaches out to play with others.
+P-SE.11.c,Appreciating Diversity and Inclusion,Standard, Notices and Smiles at people from different backgrounds.
+P-SE.2.a,Initiates conversation with adults by asking questions or sharing information.,Standard, Asks questions or Shares stories with grown-ups.
+P-SE.2.b,Listens to and follows simple instructions given by adults.,Standard, Follows simple directions from adults.
+P-SE.2.c,Respects personal boundaries and space of adults.,Developmental Milestones,Stays in their own space when near grown-ups.
+P-SE.3.a,Demonstrates Cooperative Play,Developmental Milestones, plays together with other children.
+P-SE.3.b,Shows Empathy and Understanding,Standard, Offers a hug or toy when a friend is upset.
+P-SE.3.c,Develops Conflict Resolution Skills,Developmental Milestones, Shares toys with a friend after a disagreement.
+P-SE.4.a,Shares toys and materials with other children during play.,Developmental Milestones, Gives toys to friends during playtime.
+P-SE.4.b,Works with other children to solve problems or complete tasks during play.,Developmental Milestones, plays together with friends to solve problems or finish a game.
+P-SE.4.c,"Engages in group activities or games, cooperating with peers to achieve common goals.",Standard," plays simple games with other children, taking turns and sharing."
+P-SE.5.a,Child Identifies and Articulates the Conflict',Standard, Points to or Shows what is wrong during a disagreement.
+P-SE.5.a,'Child Identifies and Articulates the Conflict',Standard, Points to or Shows frustration when something is wrong.
+P-SE.5.b,Child Generates Possible Solutions',Developmental Milestones, Tries different ways to solve a simple problem.
+P-SE.5.b,'Child Generates Possible Solutions',Developmental Milestones, Tries different ways to solve a problem.
+P-SE.5.c,Child Actively Participates in Conflict Resolution',Developmental Milestones, takes turns and uses words or gestures to solve problems with others.
+P-SE.5.c,'Child Actively Participates in Conflict Resolution',Developmental Milestones, takes turns and uses words to solve problems with friends.
+P-SE.6.a,Skill to Identify and Express Emotions,Developmental Milestones," Shows feelings by smiling, crying, or making faces."
+P-SE.6.b,Emotional Recognition in Others,Developmental Milestones,- Notice and respond to others' feelings by smiling or showing concern.
+P-SE.6.c,Emotional Regulation Skill,Developmental Milestones, Calms down with help from a caregiver.
+P-SE.7.a,Demonstrates Empathy,Standard,Shows care by comforting a friend who is upset.
+P-SE.7.b,Social Interaction,Developmental Milestones,Plays alongside other children.
+P-SE.7.c,Conflict Resolution,Developmental Milestones,Shares toys with a friend to solve problems together.
+P-SE.8.a,Demonstrates Self-Regulation,Developmental Milestones, Calms down after being upset with a little help.
+P-SE.8.b,Identifies Emotions,Developmental Milestones, Recognizes and names basic feelings like happy or sad.
+P-SE.8.c,Uses Coping Strategies,Standard,Finds ways to calm down when upset.
+P-SE.9.a,Self-Recognition,Developmental Milestones, Recognizes themselves in the mirror.
+P-SE.9.b,Emotional Understanding,Standard,Recognizes and responds to others' emotions with facial expressions or gestures.
+P-SE.9.c,Interest Exploration,Developmental Milestones, Shows curiosity by reaching for new objects.
+PMP.1,"Child demonstrates control, strength, and coordination of large muscles",0," Crawls, walks, or climbs with growing strength and balance."
+PMP.1.a,"Child can successfully execute a range of activities exercising large muscles such as jumping, running, climbing, and balancing.",0," Jumps, runs, climbs, and balances using big muscles."
+PMP.1.b,"Child shows significant improvements in muscle strength and can effectively handle objects like balls, hoops, or bicycles.",0," Lifts and plays with balls and hoops, showing stronger muscles."
+PMP.1.c,"Child exhibits coordinated movements in relation to spatial awareness, including maneuvering around obstacles.",0, Moves around objects smoothly without bumping into them.
+PMP.2,Child uses perceptual information to guide motions and interactions with objects and other people,0, reaches for and grasps toys or objects while looking at them.
+PMP.2.a,"Child can accurately interpret visual, auditory, and tactile information to determine distance, location, and characteristics of objects and beings.'",0," Recognizes and reaches for toys that are nearby, responding to sights, sounds, and touches."
+PMP.2.b,"Child is able to appropriately adjust movements and responses based on perceived information, demonstrating control of over their actions.'",0, Moves and responds to new things with control and awareness.
+PMP.2.c,Child can engage effectively in interactive activities by using perceptual cues to understand and respond to the actions of others.',0,- Follows and responds to others' actions by watching and listening.
+PMP.3,"Child demonstrates increasing control, strength, and coordination of small muscles",0,Grasps and manipulates small objects with growing skill.
+PMP.3.a,Child demonstrates accurate handling and manipulation of objects,0, Picks up and Moves objects with control.
+PMP.3.b,Child exhibits steady improvement in fine-motor tasks,0, Stacks blocks with growing skill.
+PMP.3.c,Child displays growing strength in small muscle groups,0, grasps and holds small objects with increasing strength.
+PMP.4,Child demonstrates personal hygiene and self-care skills,0, Washes hands with help.
+PMP.4.a,"Child independently performs basic hygiene tasks such as washing hands, brushing teeth, and tidying up personal items.",0, Washes hands and brushes teeth with little help.
+PMP.4.b,Child understands the importance of a daily hygiene routine and can follow simple self-care instructions.,0, Washes hands when reminded by an adult.
+PMP.4.c,"Child recognizes the need for cleanliness and is able to identify when personal care, like using the restroom or cleaning up a spill, is needed.",0, Notices spills and Asks for help to clean them up.
+PMP.5,Child develops knowledge and skills that help promote nutritious food choices and eating habits,0, Chooses and eats a variety of colorful fruits and veggies during meals.
+PMP.5.a,Understanding Nutrition,0, Picks up and Explores different foods with curiosity.
+PMP.5.b,Making Healthy Choices,0,Choose foods and activities that are good for their body.
+PMP.5.c,Developing Healthy Eating Habits,0, Tries new foods with curiosity.
+PMP.6,Child demonstrates knowledge of personal safety practices and routines,0,Knows how to stay safe by following simple routines like holding hands while crossing the street.
+PMP.6.a,"Child can identify potential dangers in various environments (home, school, playground).",0," Notices and Points to things that might be dangerous, like sharp objects or stairs."
+PMP.6.b,"Child correctly follows personal safety routines like hand-washing, crossing the road, etc.",0,Washes hands with help and stops at the curb when crossing the road.
+PMP.6.c,Child exhibits understanding of how to seek help from trusted adults in unsafe or uncomfortable situations.,0,Asks trusted adults for help when feeling unsafe or uncomfortable.
+SCI.1,"Child observes and describes observable phenomena (objects, materials, organisms, and events)",0," Notices and talks about things they see around them, like toys, animals, or events."
+SCI.1.a,Child Identifies and Classifies Observable Materials,0,Sorts and names objects they see.
+SCI.1.b,Child Demonstrates Basic Observation Techniques with Organisms and Events,0, looks closely at bugs and plants while playing outside.
+SCI.1.c,Child Expresses Thoughts and Findings Verbally or Through Art,0, Shares ideas by talking or creating drawings.
+SCI.2,Child engages in scientific talk,0,Asks questions about the world around them.
+SCI.2.a,Child uses appropriate and specific scientific vocabulary,0,Uses simple science words to describe things.
+SCI.2.b,Child asks inquiry-based questions,0,"- Asks ""why"" or ""how"" questions during play."
+SCI.2.c,Child articulates observations and hypothesis,0, Points to objects and makes simple guesses about what might happen next.
+SCI.3,Child compares and categorizes observable phenomena,0,Sorts and matches objects by color or shape.
+SCI.3.a,"Child sorts objects based on various criteria,",0, groups toys by color or shape.
+SCI.3.b,"The child is able to differentiate between various objects and phenomena based on their observable characteristics such as size, color, shape, and texture. This skill builds the foundation for making comparisons and distinctions between different phenomena.",0," Sorts objects by size, color, shape, or texture."
+SCI.3.c,"The child develops the ability to group similar objects and phenomena together based on their common features. They can sort objects into categories, such as animals and plants, or round and square objects.",0," groups toys by shape or type, like animals or blocks."
+SCI.3.d,The child starts to analyze and reason out the differences and similarities of objects and phenomena through keen observation.,0, Notices and Points out how objects are alike or different.
+SCI.4,"Child asks a question, gathers information, and makes predictions",0, Asks questions and guesses what might happen next.
+SCI.4.a,Can formulate qQuestions,0, Asks simple questions.
+SCI.4.b,Understands the concept of gathering information to be analyzed later.,0, Collects objects and looks at them closely.
+SCI.4.c,Can use the beginnings of predictive reasoning.,0, Starts to guess what might happen next in simple situations.
+SCI.5,Child plans and conducts investigations and experiments,0, Explores and plays with objects to see what happens.
+SCI.5.a,Child formulates hypotheses or predictions',0, Tries to guess what will happen next during play.
+SCI.5.b,Child gathers and uses data',0, Points and Explores objects to learn about them.
+SCI.5.c,Child analyzes results and makes conclusions',0, Notices what happens and thinks about why it happened.
+SCI.5.d,Acquire scientific knowledge related to life science (properties of living things).,0, explore and Notice different plants and animals around them.
+SCI.5.e,Acquire scientific knowledge related to earth science (properties of the earth and objects in the sky).,0,"Look up at the sky and point to the sun, moon, or stars."
+SCI.6,"Child analyzes results, draws conclusions, and communicates results",0,"Looks at what happens, thinks about it, and tells others."
+SCI.6.a,Data Interpreting,0, Recognizes and responds to patterns or changes in their environment.
+SCI.6.b,Student uses critical thinking to analyze and interpret investigations.,0, Examines and Explores objects to understand how they work.
+SCI.6.c,Expressive Communication,0,"Uses sounds, gestures, or simple words to share needs or feelings."
+SE.1,Child engages in and maintains positive relationships and interactions with adults,Developmental Milestones,Smiles and reaches out to familiar adults for comfort and play.
+SE.10,Child expresses confidence in own skills and positive feelings about self,Standard,Claps and smiles after stacking blocks.
+SE.11,"Child has a sense of belonging to family, community, and other groups",Developmental Milestones, Smiles and reaches out to familiar people.
+SE.2,Child engages in prosocial and cooperative behavior with adults,Developmental Milestones, Shares toys and Helps adults with simple tasks.
+SE.3,Child engages in and maintains positive interactions and relationships with other children,Developmental Milestones, Smiles and plays happily with other children.
+SE.4,Child engages in cooperative play with other children,Standard, plays together with friends.
+SE.4.A.1,Shows interest in another child‚Äôs actions,Developmental Milestones,Watches what another child is doing.
+SE.5,Child uses basic problem-solving to resolve conflicts with other children,Developmental Milestones, Shares toys to solve playtime disagreements with friends.
+SE.6,Child expresses a broad range of emotions and recognizes these emotions in self and others,Developmental Milestones," Smiles, frowns, or cries to show different feelings and Notices when others do the same."
+SE.7,Child expresses care and concern toward others,Developmental Milestones,Shows kindness by hugging or comforting others when they are upset.
+SE.8,Child manages emotions with increasing independence,Developmental Milestones, Calms down by themselves after getting upset.
+SE.9,"Child recognizes self as a unique individual having own abilities, characteristics, emotions, and interests",Developmental Milestones, Notices own reflection and Points to self in the mirror.
