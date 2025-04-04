@@ -1,0 +1,529 @@
+Sequence,Human Code,Full Statement,CVR,Transition Gap,Progression Coherence,Overall Progression Score
+1.1.1.1.1,ATL.1.A.1,Calms when held by a familiar caregiver,-0.6,0.0,1.0,0.36
+1.1.1.2.1,ATL.1.B.1,Smiles or vocalizes in response to familiar voices.,-0.2,0.0,1.0,0.52
+1.1.1.3.1,ATL.1.C.1,"Initiates simple interactions, like holding hands.",-0.6,0.0,1.0,0.36
+1.1.1.4.1,ATL.1.D.1,Seeks adults for comfort during challenges,0.2,0.0,1.0,0.6799999999999999
+1.1.1.5.1,ATL.1.E.1,Manages less intense emotions independently.,0.6,0.0,1.0,0.8400000000000001
+1.1.1.5.2,ATL.1.E.2,Articulates their emotions.,1.0,0.0,1.0,1.0
+1.1.1.5.3,ATL.1.E.3,Asks for adult support to manage intense emotions.,0.2,0.0,1.0,0.6799999999999999
+1.1.1.6.1,ATL.1.F.1,Expresses emotions in ways that are appropriate to the situation.,-0.6,0.0,1.0,0.36
+1.1.1.6.2,ATL.1.F.2,Seeks adult assistance when emotions are most intense.,0.2,0.0,1.0,0.6799999999999999
+1.1.1.6.3,ATL.1.F.3,"Uses coping strategies, such as using words or taking deep breaths, to manage emotions with adult support.",0.6,0.0,1.0,0.8400000000000001
+1.1.2.1.1,ATL.2.A.1,Shows recognition of familiar routines through calmness or anticipation,-0.2,0.0,1.0,0.52
+1.1.2.2.1,ATL.2.B.1,"Participates in simple routines, such as putting toys in a bin when encouraged.",-0.2,0.0,1.0,0.52
+1.1.2.3.1,ATL.2.C.1,"Begins anticipating steps in routines, like washing hands before eating.",-1.0,0.0,1.0,0.19999999999999996
+1.1.2.4.1,ATL.2.D.1,"Participates in group routines, such as lining up or cleaning up toys",0.6,0.0,1.0,0.8400000000000001
+1.1.2.5.1,ATL.2.E.1,Follows classroom rules and routines with assistance from adults.,0.2,0.0,1.0,0.6799999999999999
+1.1.2.6.1,ATL.2.F.2,Follows classroom rules and routines with occasional reminders from adults.,0.6,0.0,1.0,0.8400000000000001
+1.1.2.6.2,ATL.2.F.4,Responds to signals when transitioning from one activity to another.,-0.2,0.0,1.0,0.52
+1.1.3.1.1,ATL.3.A.1,Grasps and explores objects with curiosity.,0.2,0.0,1.0,0.6799999999999999
+1.1.3.2.1,ATL.3.B.1,Begins to place items in designated spaces with guidance.,1.0,0.0,1.0,1.0
+1.1.3.3.1,ATL.3.C.1,"Helps with simple clean-up tasks, such as putting books back on a shelf.",0.6,0.0,1.0,0.8400000000000001
+1.1.3.4.1,ATL.3.D.1,Begins to understand the value of taking care of shared materials.,0.6,0.0,1.0,0.8400000000000001
+1.1.3.5.1,ATL.3.E.1,Handles classroom materials properly with adult support.,0.6,0.0,1.0,0.8400000000000001
+1.1.3.5.2,ATL.3.E.2,Participates in the cleaning and return of classroom materials.,0.2,0.0,1.0,0.6799999999999999
+1.1.3.6.1,ATL.3.F.1,Takes care of classroom materials,0.2,0.0,1.0,0.6799999999999999
+1.1.3.6.2,ATL.3.F.2,Appropriately handles materials during activities.,-0.2,0.0,1.0,0.52
+1.1.3.6.3,ATL.3.F.3,Cleans up and returns materials appropriately.,0.6,0.0,1.0,0.8400000000000001
+1.1.4.1.1,ATL.4.A.1,Reacts to caregiver’s facial expressions and calming voice,-0.6,0.0,1.0,0.36
+1.1.4.2.1,ATL.4.B.1,Begins to stop or start actions based on simple verbal cues.,-1.0,0.0,1.0,0.19999999999999996
+1.1.4.3.1,ATL.4.C.1,"Uses simple words to express needs or feelings instead of actions (e.g., “Mine!”).",0.6,0.0,1.0,0.8400000000000001
+1.1.4.4.1,ATL.4.D.1,Demonstrates self-control during transitions and group activities.,-0.6,0.0,1.0,0.36
+1.1.4.5.1,ATL.4.E.1,"Manages actions, words and behavior with support from adults.",-1.0,0.0,1.0,0.19999999999999996
+1.1.4.6.1,ATL.4.F.1,"Regulates actions, words, and behavior with support from adults if needed.",0.2,0.0,1.0,0.6799999999999999
+1.1.4.6.2,ATL.4.F.2,Describes the effects that behavior may have on others.,0.2,0.0,1.0,0.6799999999999999
+1.1.4.6.3,ATL.4.F.3,"Waits for turn, such as waits in line to wash hands or waits for turn on swings.",-0.2,0.0,1.0,0.52
+1.1.4.6.4,ATL.4.F.4,Refrains from aggressive behavior towards others.,0.2,0.0,1.0,0.6799999999999999
+1.1.4.6.5,ATL.4.F.5,Demonstrates understanding of the consequences of behavior.,-0.6,0.0,1.0,0.36
+1.2.1.1.1,ATL.5.A.1,Pauses actions when a caregiver says “no” or redirects.,-0.6,0.0,1.0,0.36
+1.2.1.2.1,ATL.5.B.1,Waits briefly when attention is redirected.,-0.2,0.0,1.0,0.52
+1.2.1.3.1,ATL.5.C.1,"Attempts self-control with gestures or words (e.g., waiting before grabbing a toy).",-1.0,0.0,1.0,0.19999999999999996
+1.2.1.5.1,ATL.5.E.1,Child shows improvement in delaying immediate gratification for a bigger reward.,0.2,0.0,1.0,0.6799999999999999
+1.2.1.5.2,ATL.5.E.2,"Frequently engages in impulsive behaviors, but inhibits them when directly supported by an adult.",-0.2,0.0,1.0,0.52
+1.2.2.1.1,ATL.6.A.1,Watches moving objects or faces for short periods.,0.2,0.0,1.0,0.6799999999999999
+1.2.2.2.1,ATL.6.B.1,"Focuses on activities, such as stacking blocks, for increasing durations.Engages with a single activity for a few minutes before seeking adult interaction.",-1.0,0.0,1.0,0.19999999999999996
+1.2.2.3.1,ATL.6.C.1,"Resumes tasks after mild distractions, such as looking back at a toy after hearing a noise.",-0.2,0.0,1.0,0.52
+1.2.2.4.1,ATL.6.D.1,"Completes multi-step tasks with reminders (e.g., “Pick up the block and put it in the bin”).",0.2,0.0,1.0,0.6799999999999999
+1.2.2.5.1,ATL.6.E.1,Focus on tasks and activities despite distractions or interruptions for short periods of time (5-10 minutes).,-0.2,0.0,1.0,0.52
+1.2.2.6.1,ATL.6.F.1,Focus on tasks and activities despite distractions or interruptions for extended periods of time.,1.0,0.0,1.0,1.0
+1.2.2.6.2,ATL.6.F.2,Engages in purposeful play for extended periods of time.,0.6,0.0,1.0,0.8400000000000001
+1.2.2.6.3,ATL.6.F.3,Attends to adult during large and small group activities with minimal support.,-0.2,0.0,1.0,0.52
+1.2.3.1.1,ATL.7.A.1,"Attempts to grasp objects or roll over, even after initial failure.",-0.6,0.0,1.0,0.36
+1.2.3.2.1,ATL.7.B.1,Seeks adult assistance if unable to complete a task independently.,-0.2,0.0,1.0,0.52
+1.2.3.3.1,ATL.7.C.1,"Tries multiple approaches to solve problems, such as stacking blocks after a tower falls.",-0.2,0.0,1.0,0.52
+1.2.3.4.1,ATL.7.D.1,Uses trial-and-error methods without giving up quickly.,-0.6,0.0,1.0,0.36
+1.2.3.5.1,ATL.7.E.1,Persists on tasks when presented with small challenges with or without adult support.,0.2,0.0,1.0,0.6799999999999999
+1.2.3.6.1,ATL.7.F.1,Persists on preferred and  less preferred tasks activities with or without adult support.,0.6,0.0,1.0,0.8400000000000001
+1.2.3.6.2,ATL.7.F.2,Returns focus to an activity or task after having been away from it.,0.2,0.0,1.0,0.6799999999999999
+1.2.4.1.1,ATL.8.B.1,Searches for partially hidden objects during play.,0.6,0.0,1.0,0.8400000000000001
+1.2.4.2.1,ATL.8.A.1,"Completes simple cause-and-effect tasks based on past experiences (e.g., pressing a button to hear a sound).",-0.6,0.0,1.0,0.36
+1.2.4.3.1,ATL.8.C.1,"Completes familiar sequences, like stacking blocks in order, using memory.",-0.2,0.0,1.0,0.52
+1.2.4.4.1,ATL.8.D.1,Recalls and follows multi-step instructions with guidance.,0.2,0.0,1.0,0.6799999999999999
+1.2.4.5.1,ATL.8.E.1,Follows two-step directions with or without reminders.,-0.2,0.0,1.0,0.52
+1.2.4.6.1,ATL.8.F.1,Recounts recent experiences in correct sequence with relevant details.,0.6,0.0,1.0,0.8400000000000001
+1.2.4.6.2,ATL.8.F.2,Follows multi-step (three or more) directions with or without reminders.,-0.2,0.0,1.0,0.52
+1.2.4.6.3,ATL.8.F.3,Recalls actions to go with stories or songs shortly after being taught.,-0.2,0.0,1.0,0.52
+1.2.5.1.1,ATL.9.A.1,"Reacts differently to new stimuli, showing curiosity or caution.",0.6,0.0,1.0,0.8400000000000001
+1.2.5.2.1,ATL.9.B.1,"Tries different methods to achieve goals, like turning an object to make it fit.",0.2,0.0,1.0,0.6799999999999999
+1.2.5.3.1,ATL.9.C.1,Adapts to changes in routines with support.,-0.2,0.0,1.0,0.52
+1.2.5.4.1,ATL.9.D.1,Uses alternate strategies when a preferred method does not work.,0.2,0.0,1.0,0.6799999999999999
+1.2.5.5.1,ATL.9.E.1,"Demonstrates flexibility or the ability to adapt to change, in thinking and behavior when prompted by an adult.",-0.2,0.0,1.0,0.52
+1.2.5.5.2,ATL.9.E.2,Demonstrates problem-solving abilities by applying different strategies with or without adult support.,-0.2,0.0,1.0,0.52
+1.2.5.6.1,ATL.9.F.1,Demonstrates flexibility in thinking and behavior without prompting.,0.2,0.0,1.0,0.6799999999999999
+1.2.5.6.2,ATL.9.F.2,Responds to adult suggestions to show flexibility in approaching tasks or solving problems independently or with peers.,-0.2,0.0,1.0,0.52
+1.2.5.6.3,ATL.9.F.3,"Applies different rules in contexts that require different behaviors, such as using indoor voices or feet instead of outdoor voices or feet.",-0.2,0.0,1.0,0.52
+1.2.5.6.4,ATL.9.F.4,Transitions between activities without getting upset.,-0.2,0.0,1.0,0.52
+1.3.1.1.1,ATL.10.B.1,Reaches for objects or moves toward items of interest.,0.6,0.0,1.0,0.8400000000000001
+1.3.1.2.1,ATL.10.A.1,Explores toys and new environments with curiosity,0.2,0.0,1.0,0.6799999999999999
+1.3.1.3.1,ATL.10.C.1,"Initiates simple actions, such as setting up toys for play.",0.2,0.0,1.0,0.6799999999999999
+1.3.1.4.1,ATL.10.D.1,"Takes responsibility for small tasks, like putting toys away.",-0.6,0.0,1.0,0.36
+1.3.1.5.1,ATL.10.E.1,Works independently on tasks with minimal assistance.,-0.2,0.0,1.0,0.52
+1.3.1.5.2,ATL.10.E.2,"Shows initiative with tasks and activities, particularly in interactions with familiar adults.",0.6,0.0,1.0,0.8400000000000001
+1.3.1.6.1,ATL.10.F.1,Works on tasks independently for increasing amounts of time.,0.2,0.0,1.0,0.6799999999999999
+1.3.1.6.2,ATL.10.F.2,"Displays initiative and proactive behavior, especially during preferred tasks and activities.",1.0,0.0,1.0,1.0
+1.3.1.6.3,ATL.10.F.3,Makes choices independently and communicates them to adults and other children.,-0.2,0.0,1.0,0.52
+1.3.1.6.4,ATL.10.F.4,"Plans play by establishing roles, choosing materials, and suggesting play scenarios.",0.2,0.0,1.0,0.6799999999999999
+1.3.2.1.1,ATL.11.A.1,"Explores surroundings by watching, grasping, or mouthing objects.",0.6,0.0,1.0,0.8400000000000001
+1.3.2.2.1,ATL.11.B.1,Shows curiosity by pointing at or reaching for new objects,-0.2,0.0,1.0,0.52
+1.3.2.3.1,ATL.11.C.1,"Investigates new objects or environments (e.g., opening drawers, lifting lids).",0.2,0.0,1.0,0.6799999999999999
+1.3.2.4.1,ATL.11.D.1,"Demonstrates curiosity by asking specific questions (e.g., “What’s that sound?”).",0.2,0.0,1.0,0.6799999999999999
+1.3.2.5.1,ATL.11.E.1,Asks questions about unfamiliar things.,0.2,0.0,1.0,0.6799999999999999
+1.3.2.5.2,ATL.11.E.2,Explores new play and tasks with adult support.,-0.2,0.0,1.0,0.52
+1.3.2.6.1,ATL.11.F.1,Asks questions on topics of interest.,0.6,0.0,1.0,0.8400000000000001
+1.3.2.6.2,ATL.11.F.2,Seeks out new information or new experiences and tasks with or without adult support.,-0.2,0.0,1.0,0.52
+1.3.2.6.3,ATL.11.F.3,"Shows interest in learning and discussing new activities, ideas, or topics.",0.2,0.0,1.0,0.6799999999999999
+1.3.2.6.4,ATL.11.F.4,Participates in new activities or experiences even if they are perceived as challenging.,-0.2,0.0,1.0,0.52
+1.4.1.1.1,ATL.12.A.1,"Reacts to varied stimuli, such as music or bright colors, with smiles or coos.",-0.2,0.0,1.0,0.52
+1.4.1.2.1,ATL.12.B.1,Experiments with sounds or babbling to imitate words or melodies.,0.2,0.0,1.0,0.6799999999999999
+1.4.1.3.1,ATL.12.C.1,"Combines words, gestures, or objects creatively (e.g., using a block as a phone).",0.2,0.0,1.0,0.6799999999999999
+1.4.1.4.1,ATL.12.D.1,"Creates imaginative scenarios during play (e.g., “I’m a firefighter!”).",-0.2,0.0,1.0,0.52
+1.4.1.5.1,ATL.12.E.1,Expresses creative ideas in words and/or actions when prompted by adults,-0.2,0.0,1.0,0.52
+1.4.1.6.1,ATL.12.F.1,Communicates creative ideas and actions with and without prompting from adults.,-0.2,0.0,1.0,0.52
+1.4.1.6.2,ATL.12.F.2,Asks questions about tasks or activities that indicate thinking about new ways to accomplish the task or activity.,-0.6,0.0,1.0,0.36
+1.4.1.6.3,ATL.12.F.3,Demonstrates ability to create multiple solutions to a problem,0.2,0.0,1.0,0.6799999999999999
+1.4.1.6.4,ATL.12.F.4,"Approaches tasks, activities, and play in ways that show creative problem solving.",0.2,0.0,1.0,0.6799999999999999
+1.4.2.1.1,ATL.13.B.1,"Reacts to playful activities, such as peek-a-boo or silly voices, with smiles or laughter.",0.6,0.0,1.0,0.8400000000000001
+1.4.2.2.1,ATL.13.A.1,"Engages in simple imitative play (e.g., pretending to talk on a phone).",0.2,0.0,1.0,0.6799999999999999
+1.4.2.3.1,ATL.13.C.1,"Engages in basic role-play, such as pretending to be a parent or an animal.",0.2,0.0,1.0,0.6799999999999999
+1.4.2.4.1,ATL.13.D.1,"Creates extended pretend play sequences (e.g., cooking food and serving it to peers).",-0.6,0.0,1.0,0.36
+1.4.2.5.1,ATL.13.E.1,Exhibits creative role-playing with peers.,0.2,0.0,1.0,0.6799999999999999
+1.4.2.5.2,ATL.13.E.2,Communicates creative ideas to other children and adults.,-0.2,0.0,1.0,0.52
+1.4.2.5.3,ATL.13.E.3,Applies inventive use of toys and props in play.,0.2,0.0,1.0,0.6799999999999999
+1.4.2.6.1,ATL.13.F.1,"Tells stories, makes up songs, and other creative works with peers and adults.",-0.2,0.0,1.0,0.52
+1.4.2.6.2,ATL.13.F.2,Engages in pretend play with peers and adults.,1.0,0.0,1.0,1.0
+1.4.2.6.3,ATL.13.F.3,Uses imagination with materials to create stories or works of art,-0.2,0.0,1.0,0.52
+1.4.2.6.4,ATL.13.F.4,Uses objects or materials to represent something else during play.,0.2,0.0,1.0,0.6799999999999999
+2.1.1.1.1,SE.1.A.1,Smiles or vocalizes in response to familiar voices.,-0.2,0.0,1.0,0.52
+2.1.1.2.1,SE.1.B.1,Calms when held by a familiar caregiver.,0.6,0.0,1.0,0.8400000000000001
+2.1.1.3.1,SE.1.C.1,"Initiates simple interactions, like holding hands.",0.6,0.0,1.0,0.8400000000000001
+2.1.1.4.1,SE.1.D.1,Seeks adults for comfort during challenges,-0.2,0.0,1.0,0.52
+2.1.1.5.1,SE.1.E.1,Engages in positive interactions with trusted adults.,0.2,0.0,1.0,0.6799999999999999
+2.1.1.5.2,SE.1.E.2,Participates in interactions with trusted and new adults.,0.2,0.0,1.0,0.6799999999999999
+2.1.1.5.3,SE.1.E.3,Separates from trusted adults in familiar settings.,0.2,0.0,1.0,0.6799999999999999
+2.1.1.5.4,SE.1.E.4,Seeks support from trusted adults to solve problems,0.2,0.0,1.0,0.6799999999999999
+2.1.1.6.1,SE.1.F.1,Interacts readily with trusted adults.,0.6,0.0,1.0,0.8400000000000001
+2.1.1.6.2,SE.1.F.2,Demonstrates active listening and responds appropriately when adults speak.,-0.6,0.0,1.0,0.36
+2.1.1.6.3,SE.1.F.3,"Engages in some positive interactions with less familiar adults, such as parent volunteers.",0.2,0.0,1.0,0.6799999999999999
+2.1.1.6.4,SE.1.F.4,Seeks help from adults when needed.,-0.2,0.0,1.0,0.52
+2.1.2.1.1,SE.2.A.1,Reacts to soothing voices by calming or smiling,-0.2,0.0,1.0,0.52
+2.1.2.2.1,SE.2.B1,Attempts to mimic facial expressions during interactions,0.2,0.0,1.0,0.6799999999999999
+2.1.2.3.1,SE.2.C.1,"Shares simple tasks with adults (e.g., stacking blocks)",0.6,0.0,1.0,0.8400000000000001
+2.1.2.4.1,SE.2.D.1,Listens and follows basic directions in group settings,-0.6,0.0,1.0,0.36
+2.1.2.5.1,SE.2.E.1,"Engages sometimes in prosocial behavior with adults, such as greeting the teacher or saying goodbye.",-0.2,0.0,1.0,0.52
+2.1.2.5.2,SE.2.E.2,Initiates conversation with familiart adults by asking questions or sharing information.,-0.2,0.0,1.0,0.52
+2.1.2.5.3,SE.2.E.3,"Resolves uncooperative behavior with familiar adults, such as saying ""No"" to requeststs.",-0.2,0.0,1.0,0.52
+2.1.2.5.4,SE.2.E.4,Responds to adult requests and directions that may include assistance or prompting.,-0.2,0.0,1.0,0.52
+2.1.2.6.1,SE.2.F.1,Behaves cooperatively with adults.,0.6,0.0,1.0,0.8400000000000001
+2.1.2.6.2,SE.2.F.2,Participates in adult-led activities.,0.6,0.0,1.0,0.8400000000000001
+2.1.2.6.3,SE.2.F.3,"Engages in prosocial behaviors with adults, such as using respectful language or greetings.",-0.2,0.0,1.0,0.52
+2.1.2.6.4,SE.2.F.4,Follows adult guidelines and expectations for appropriate behavior.,0.2,0.0,1.0,0.6799999999999999
+2.2.1.1.1,SE.3.1,Watches and tracks behavior of other infants,0.6,0.0,1.0,0.8400000000000001
+2.2.1.2.1,SE.3.B.1,Looks back and forth between adult and toy while playing,0.2,0.0,1.0,0.6799999999999999
+2.2.1.3.1,SE.3.C.1,Plays side-by-side with others using similar toys,0.2,0.0,1.0,0.6799999999999999
+2.2.1.4.1,SE.3.D.1,Participates in simple group routines with peers,0.6,0.0,1.0,0.8400000000000001
+2.2.1.5.1,SE.3.E.1,"Sometimes engages in prosocial behaviors, such as sharing or taking turns or waiting to speak in conversations, with other children with or without prompting from an adult.",0.2,0.0,1.0,0.6799999999999999
+2.2.1.6.1,SE.3.F.1,Sustains interactions with other children more often and for increasing periods of time.,0.6,0.0,1.0,0.8400000000000001
+2.2.1.6.2,SE.3.F.2,Interacts with and develops friendships with a variety of peers.,-0.2,0.0,1.0,0.52
+2.2.2.1.1,SE.4.A.1,Shows interest in another child’s actions,-0.6,0.0,1.0,0.36
+2.2.2.2.1,SE.4.B.1,"Reaches out to touch another child’s face, hair, or toy",-0.2,0.0,1.0,0.52
+2.2.2.4.1,SE.4.C.1,Demonstrates sharing with minimal support,-0.2,0.0,1.0,0.52
+2.2.2.5.1,SE.4.D.1,Works with other children to solve problems or complete tasks during play.,-0.2,0.0,1.0,0.52
+2.2.2.5.2,SE.4.D.2,Engages with other children to plan and enact coordinated play for short periods of time.,-0.2,0.0,1.0,0.52
+2.2.2.6.1,SE.4.E.1,Respects personal boundaries and spaces during play interactions.,0.6,0.0,1.0,0.8400000000000001
+2.2.2.6.2,SE.4.E.2,"Engages in joint play, such as using coordinated goals, planning, roles, and games with rules, with at least one other child at a time.",-0.2,0.0,1.0,0.52
+2.2.2.6.3,SE.4.E.3,Exhibits social interaction skills in the context of group pretend play.,0.2,0.0,1.0,0.6799999999999999
+2.2.2.6.4,SE.4.E.4,Demonstrates willingness to include others' ideas during interactions and play.,-0.2,0.0,1.0,0.52
+2.2.2.6.5,SE.4.E.5,Engages in reflection and conversation about past play experiences.,-0.2,0.0,1.0,0.52
+2.2.3.1.1,SE.5.A.1,Responds to help from adults during frustration,-0.2,0.0,1.0,0.52
+2.2.3.2.1,SE.5.B.1,Uses simple gestures to indicate wants or dislikes,0.2,0.0,1.0,0.6799999999999999
+2.2.3.3.1,SE.5.C.1,Seeks help from adults to resolve disagreements,-0.2,0.0,0.9999999999999999,0.5199999999999999
+2.2.3.4.1,SE.5.C.1,Initiates problem-solving strategies with peers,0.2,1.0,0.9999999999999999,0.37999999999999995
+2.2.3.5.1,SE.5.D.1,"Begins to recognize and describe basic social problems in classroom experiences, or in books or pictures.",-1.0,0.0,1.0,0.19999999999999996
+2.2.3.5.2,SE.5.D.2,Suggests simple solutions to resolve conflicts with adult support.,-0.2,0.0,1.0,0.52
+2.2.3.6.1,SE.5.F.1,"Uses basic strategies for dealing with common conflicts, such as sharing, taking turns, and compromising.",0.2,0.0,1.0,0.6799999999999999
+2.2.3.6.2,SE.5.F.2,Demonstrates problem-solving and critical thinking during play with peers.,-0.2,0.0,1.0,0.52
+2.2.3.6.3,SE.5.F.3,"Recognizes and describes basic social problems in classroom experiences, or in books or pictures.",-0.6,0.0,1.0,0.36
+2.2.3.6.4,SE.5.F.4,"Suggests simple solutions to resolve conflicts, with or without adult support.",0.2,0.0,1.0,0.6799999999999999
+2.3.1.1.1,SE.6.A.1,Shows distinct emotions like happiness and sadness,0.2,0.0,1.0,0.6799999999999999
+2.3.1.2.1,SE.6.B.1,Uses gestures to communicate needs or frustrations,-0.6,0.0,1.0,0.36
+2.3.1.3.1,SE.6.C.1,Names simple emotions with support,-0.2,0.0,1.0,0.52
+2.3.1.4.1,SE.6.D.1,Identifies emotions in self and peers,-0.6,0.0,1.0,0.36
+2.3.1.5.1,SE.6.E.1,Recognizes and names a broad range of emotions in self.,0.2,0.0,1.0,0.6799999999999999
+2.3.1.6.1,SE.6.F.1,Demonstrates appropriate emotional responses.,-0.6,0.0,1.0,0.36
+2.3.1.6.2,SE.6.F.2,Recognizes and names a broad range of emotions in self and others.,-0.6,0.0,1.0,0.36
+2.3.1.6.3,SE.6.F.3,Recognizes and names basic emotions in books or photographs.,0.6,0.0,1.0,0.8400000000000001
+2.3.1.6.4,SE.6.F.4,Uses verbal and nonverbal communication to express emotions,-0.2,0.0,1.0,0.52
+2.3.2.1.1,SE.7.A.1,Watches a crying peer with interest,0.2,0.0,1.0,0.6799999999999999
+2.3.2.2.1,SE.7.B.1,Pats another child who is crying,-0.2,0.0,1.0,0.52
+2.3.2.3.1,SE.7.C.1,Attempts to comfort peers using words or actions,0.2,0.0,1.0,0.6799999999999999
+2.3.2.4.1,SE.7.D.1,Shares or helps peers in distress,-0.2,0.0,1.0,0.52
+2.3.2.5.1,SE.7.E.1,Notices feelings of others.,-0.6,0.0,1.0,0.36
+2.3.2.5.2,SE.7.E.2,Seeks out adult help for peers who are distressed or upset.,0.2,0.0,1.0,0.6799999999999999
+2.3.2.6.1,SE.7.F.1,Demonstrates empathy to emotions and feelings of others.,-0.2,0.0,1.0,0.52
+2.3.2.6.2,SE.7.F.2,Offers support to adults or other children who are distressed.,0.2,0.0,1.0,0.6799999999999999
+2.3.2.6.3,SE.7.F.3,Notices feelings of others.,-0.2,0.0,1.0,0.52
+2.3.3.1.1,SE.8.A.1,Self-soothes by finger-sucking or holding an object,1.0,0.0,1.0,1.0
+2.3.3.2.1,SE.8.B.1,Uses a comfort object when stressed,-1.0,0.0,1.0,0.19999999999999996
+2.3.3.3.1,SE.8.C.1,Manages small frustrations without adult intervention,-0.2,0.0,1.0,0.52
+2.3.3.4.1,SE.8.D.1,"Begins using calming strategies, such as deep breathing",-0.2,0.0,1.0,0.52
+2.3.3.5.1,SE.8.E.1,Seeks adult support to manage more intense emotions.,0.2,0.0,1.0,0.6799999999999999
+2.3.3.5.2,SE.8.E.2,Manages less intense emotions independently.,-0.2,0.0,1.0,0.52
+2.3.3.6.1,SE.8.F.1,Connects feelings with behaviors.,-0.2,0.0,1.0,0.52
+2.3.3.6.2,SE.8.F.2,Exhibits ability to regulate emotions without support.,-0.2,0.0,1.0,0.52
+2.3.3.6.3,SE.8.F.3,Expresses feelings in ways that are appropriate to the situation.,-0.2,0.0,1.0,0.52
+2.3.3.6.4,SE.8.F.4,Looks for adult assistance when feelings are most intense.,-0.6,0.0,1.0,0.36
+2.3.3.6.5,SE.8.F.5,Uses a range of coping strategies to manage emotions with the support of an adult.,-0.2,0.0,1.0,0.52
+2.4.1.1.1,SE.9.A.1,Looks at own reflection in a mirror,-0.2,0.0,1.0,0.52
+2.4.1.2.1,SE.9.B.1,Points to self in pictures or videos,1.0,0.0,1.0,1.0
+2.4.1.3.1,SE.9.C.1,Recognizes self by name and characteristics,0.6,0.0,1.0,0.8400000000000001
+2.4.1.4.1,SE.9.D.1,Talks about self and family in relation to others,1.0,0.0,1.0,1.0
+2.4.1.5.1,SE.9.E.1,Describes own physical characteristics and behaviors.,1.0,0.0,1.0,1.0
+2.4.1.5.2,SE.9.E.2,Indicates likes and dislikes when asked.,-0.2,0.0,1.0,0.52
+2.4.1.6.1,SE.9.F.1,Understands others think differently than self,-0.6,0.0,1.0,0.36
+2.4.1.6.2,SE.9.F.2,Recognizes and respects differences in perspectives and opinions of others.,0.2,0.0,1.0,0.6799999999999999
+2.4.1.6.3,SE.9.F.3,"Exhibits knowledge of uniqueness of self, inlcuding talents, interests, preferences, or culture.",-0.6,0.0,1.0,0.36
+2.4.1.6.4,SE.9.F.4,Describes self using several different characteristics.,0.2,0.0,1.0,0.6799999999999999
+2.4.2.1.1,SE.10.A.1,Smiles when praised for actions,0.2,0.0,1.0,0.6799999999999999
+2.4.2.2.1,SE.10.B.1,Claps for accomplishments with adult modeling,-0.2,0.0,1.0,0.52
+2.4.2.3.1,SE.10.C.1,"Tries new activities, like climbing stairs",-0.2,0.0,1.0,0.52
+2.4.2.4.1,SE.10.D.1,Shows pride in completed tasks,-0.2,0.0,1.0,0.52
+2.4.2.5.1,SE.10.E.1,Shares positive feelings about self independently or when prompted by an adult.,-0.2,0.0,1.0,0.52
+2.4.2.5.2,SE.10.E.2,Expresses pride in personal progress and accomplishments.,-1.0,0.0,1.0,0.19999999999999996
+2.4.2.5.3,SE.10.E.3,Identifies personal strengths and achievements.,-0.6,0.0,1.0,0.36
+2.4.2.6.1,SE.10.F.1,Shows satisfaction or seeks acknowledgment when completing a task or solving a problem.,0.2,0.0,1.0,0.6799999999999999
+2.4.2.6.2,SE.10.F.2,Exhibits confidence in own abilities and skills.,-0.6,0.0,1.0,0.36
+2.4.2.6.3,SE.10.F.3,"Shows positive thinking and self-appreciation with ""I-can"" statements.",-1.0,0.0,1.0,0.19999999999999996
+2.4.2.6.4,SE.10.F.4,Expresses own ideas or beliefs in group contexts or in interactions with others.,-0.2,0.0,1.0,0.52
+2.4.3.1.1,SE.11.B.1,Responds to family members’ voices with excitement,-0.2,0.0,1.0,0.52
+2.4.3.2.1,SE.11.A.1,Points to family members in photos,-0.2,0.0,1.0,0.52
+2.4.3.3.1,SE.11.C.1,Refers to family members by name,0.2,0.0,1.0,0.6799999999999999
+2.4.3.4.1,SE.11.D.1,Participates in family or community rituals,0.2,0.0,1.0,0.6799999999999999
+2.4.3.5.1,SE.11.E.1,Relates personal stories about being a part of different groups.,0.6,0.0,1.0,0.8400000000000001
+2.4.3.5.2,SE.11.E.2,"Identifies self as being a part of different groups, such as family, community, culture, faith, or school.",0.2,0.0,1.0,0.6799999999999999
+2.4.3.6.1,SE.11.F.1,Assumes role as classroom member.,0.2,0.0,1.0,0.6799999999999999
+2.4.3.6.2,SE.11.F.2,"Identifies self as being a part of different groups, such as family, community, culture, faith, or school.",-0.6,0.0,1.0,0.36
+2.4.3.6.3,SE.11.F.3,Relates personal stories about being a part of different groups.,-0.6,0.0,1.0,0.36
+2.4.3.6.4,SE.11.F.4,Identifies similarities and differences about self across familiar environments and settings.,-0.2,0.0,1.0,0.52
+3.7.1.5.2,LIT.6.b,Child can differentiate and apply various types of marks to convey different meanings or purposes.',1.0,0.0,1.0,1.0
+3.7.1.5.3,P-LIT.6a," Engages in writing activities that consist largely of drawing and scribbling. Begins to convey meaning. With modeling and support, writes some letter-like forms and letters.",0.2,0.0,1.0,0.6799999999999999
+3.7.1.5.5,LIT.6.c,Child develops the ability to produce increasingly complex and detailed markings representing greater command of written language.',-0.2,0.0,1.0,0.52
+4.1.1.1.1,MATH.1.A.1,"Notices differences in the number of objects (e.g., one versus many).",0.2,0.0,1.0,0.6799999999999999
+4.1.1.2.1,MATH.1.B.1,"Points to objects or shows interest in grouping items (e.g., stacking rings).",-0.2,0.0,1.0,0.52
+4.1.1.3.1,MATH.1.C.1,"Begins using number words during play (e.g., “one, two”).",0.2,0.0,1.0,0.6799999999999999
+4.1.1.4.1,MATH.1.D.1,Counts objects up to three with guidance.,0.2,0.0,1.0,0.6799999999999999
+4.1.1.5.1,Math.1.E.1,Says or signs more number words in sequence.,0.2,0.0,1.0,0.6799999999999999
+4.1.1.5.2,Math.1.E.2,"Says or signs some number words in sequence (up to 10), starting with one. Understands that counting words are separate words, such as ""one,"" ""two,"" ""three"" versus ""onetwothree"".",-0.2,0.0,1.0,0.52
+4.1.1.6.1,MATH.1.F.1,Begins to write numerals,-0.6,0.0,1.0,0.36
+4.1.1.6.2,MATH.1.F.2,Identifies quantity to 5 without counting,-0.6,0.0,1.0,0.36
+4.1.1.6.3,MATH.1.F.3,Uses ordinal terms,1.0,0.0,1.0,1.0
+4.1.1.6.4,MATH.1.F.4,Recognizes and names numerals 0-10.,0.2,0.0,1.0,0.6799999999999999
+4.1.1.6.5,MATH.1.F.5,Recognize that zero represents the count of no objects.,-0.2,0.0,1.0,0.52
+4.1.1.6.6,MATH.1.F.6,Know counting sequence is constant,-0.6,0.0,1.0,0.36
+4.1.1.6.7,MATH.1.F.7,Counts verbally or signs to at least 20 by ones.,0.2,0.0,1.0,0.6799999999999999
+4.1.1.6.8,MATH.1.F.8,Rote counts to 10,-0.2,0.0,1.0,0.52
+4.1.1.6.9,MATH.1.F.9,Rote counts to 30,0.6,0.0,1.0,0.8400000000000001
+4.1.2.1.1,MATH.2.A.1,"Explores objects by grasping and mouthing, noticing differences in size.",-0.2,0.0,1.0,0.52
+4.1.2.2.1,MATH.2.B.1,"Stacks or nests objects, such as cups or blocks.",-0.6,0.0,1.0,0.36
+4.1.2.3.1,MATH.2.C.1,Identifies “big” and “small” with prompts; begins to fill and empty containers.,0.2,0.0,1.0,0.6799999999999999
+4.1.2.4.1,MATH.2.D.1,"Uses terms like “on,” “under,” and “in” to describe object placement.",-0.2,0.0,1.0,0.52
+4.1.2.5.1,MATH.2.E.1,"Develops an understanding of what whole numbers mean. Begins to recognize the number of small objects in groups without counting (referred to as ""subitizing"").",-0.2,0.0,1.0,0.52
+4.1.2.5.2,MATH.2.E.2,"Quickly recognizes the number of objects in a small set (referred to as ""subitizing"").",-0.6,0.0,1.0,0.36
+4.1.2.5.3,MATH.2.E.3,Child can visually identify and name numbers 1-5 without counting.,1.0,0.0,1.0,1.0
+4.1.2.6.1,MATH.2.F.1,"Instantly recognizes, without counting, small quantities of up to 5 objects and says or signs the number.",0.2,0.0,1.0,0.6799999999999999
+4.1.2.6.2,MATH.2.F.2,Separates items up to 10 into equal groups,0.2,0.0,1.0,0.6799999999999999
+4.1.3.1.1,MATH.3.A.1,"Reacts to repetitive sounds or movements, such as clapping.",-0.6,0.0,1.0,0.36
+4.1.3.2.1,MATH.3.B.1,"Imitates simple patterns in actions, such as banging two objects together.",-0.2,0.0,1.0,0.52
+4.1.3.3.1,MATH.3.C.1,Matches similar objects or colors to form simple sequences.,-0.2,0.0,1.0,0.52
+4.1.3.4.1,MATH.3.D.1,"Recognizes AB patterns (e.g., red-blue-red-blue).",-0.2,0.0,1.0,0.52
+4.1.3.5.1,MATH.3.E.1,Begins to coordinate verbal counting with objects by pointing to or moving objects for small groups of objects laid in a line (referred to as one-to-one correspondence).,-0.6,0.0,1.0,0.36
+4.1.3.5.2,MATH.3.E.2,Child can match numbers with corresponding quantities,0.6,0.0,1.0,0.8400000000000001
+4.1.3.5.3,MATH.3.E.3,"Begins to understand that the last number represents how many objects are in a group (referred to as ""cardinality"").",-0.2,0.0,1.0,0.52
+4.1.3.6.1,MATH.3.F.1,Count up to 5 items in a scattered configuration; not in a row or column.,-0.2,0.0,1.0,0.52
+4.1.3.6.2,MATH.3.F.2,"When counting objects, says or signs the number names in order, pairing one number word that corresponds with one object, up to at least 10.",0.2,0.0,1.0,0.6799999999999999
+4.1.3.6.3,MATH.3.F.3,Child begins to understand that numbers 0-10 can be composed and decomposed in various ways to represent a quantity.,0.2,0.0,1.0,0.6799999999999999
+4.1.3.6.4,MATH.3.F.4,Understands that the last number said represents the number of objects in a set.,-0.2,0.0,1.0,0.52
+4.1.4.1.1,MATH.4.A.1,"Explores objects by mouthing, grasping, or banging, noticing different weights or textures.",0.6,0.0,1.0,0.8400000000000001
+4.1.4.2.1,MATH.4.B.1,Compares sizes by choosing larger or smaller objects.,-0.2,0.0,1.0,0.52
+4.1.4.3.1,MATH.4.C.1,Sorts objects by size or weight with guidance.,-0.6,0.0,1.0,0.36
+4.1.4.4.1,MATH.4.D.1,"Identifies objects as “big” or “small,” “heavy” or “light.”",0.6,0.0,1.0,0.8400000000000001
+4.1.4.5.1,MATH.4.E.1,"Begins to accurately count and compare objects that are about the same size and are in small groups with adult assistance, such as counts a pile of 2 blocks and a pile of 4, and determines whether the piles have the same or different numbers of blocks. Identifies the first and second objects in a sequence.",0.6,0.0,1.0,0.8400000000000001
+4.1.4.5.2,MATH.4.E.2,"Counts to determine and compare number amounts even when the larger group's objects are smaller in size, such as buttons, compared with the smaller group's objects that are larger in size, such as markers. Uses numbers related to order or position.",-0.6,0.0,1.0,0.36
+4.1.4.6.1,MATH.4.F.1,"Identifies whether the number of objects in one group is more than, less than, or the same as objects in another group for up to at least five objects.",-0.6,0.0,1.0,0.36
+4.1.4.6.2,MATH.4.F.2,Identifies and uses numbers related to order or position from first to tenth.,0.6,0.0,1.0,0.8400000000000001
+4.1.4.6.3,MATH.4.F.3,Compare two sets of 1-5 objects using comparative language such as same more or fewer.,0.2,0.0,1.0,0.6799999999999999
+4.1.5.1.1,MATH.5.A.1,"Notices different quantities (e.g., one toy versus many).",0.6,0.0,1.0,0.8400000000000001
+4.1.5.2.1,MATH.5.B.1,"Groups objects during play, such as stacking blocks or sorting rings",0.2,0.0,1.0,0.6799999999999999
+4.1.5.3.1,MATH.5.C.1,"Points to objects while attempting to count (e.g., “one, two”).",-0.2,0.0,1.0,0.52
+4.1.5.4.1,MATH.5.D.1,"Begins recognizing numerals (e.g., points to the “3” when prompted).",0.2,0.0,1.0,0.6799999999999999
+4.1.5.5.1,MATH.5.E.1,Understands that a written numeral represents a quantity and may draw objects or use informal symbols to represent numbers.,0.2,0.0,1.0,0.6799999999999999
+4.1.5.5.2,MATH.5.E.2,"Understands that written numbers represent quantities of objects, and uses information symbols, such as a tally, to represent numerals. With adult support, writes some numerals up to 10.",-0.2,0.0,1.0,0.52
+4.1.5.6.1,MATH.5.F.1,Associates a number of objects with a written numeral 0–5.,0.6,0.0,1.0,0.8400000000000001
+4.1.5.6.2,MATH.5.F.2,Uses objects/pictures to add up to 5 objects,-0.2,0.0,1.0,0.52
+4.1.5.6.3,MATH.5.F.3,Uses objects/pictures to subtract objects from set 0-5,-0.2,0.0,1.0,0.52
+4.1.5.6.4,MATH.5.F.4,"Recognizes and, with support, writes some numerals up to 10.",0.2,0.0,1.0,0.6799999999999999
+4.1.6.1.1,MATH.6.A.1,"Watches as objects are added or removed (e.g., during play).",0.6,0.0,1.0,0.8400000000000001
+4.1.6.2.1,MATH.6.B.1,"Reacts to changes in quantities, such as surprise when objects disappear.",-0.6,0.0,1.0,0.36
+4.1.6.3.1,MATH.6.C.1,Combines or separates small groups of objects with guidance.,-0.6,0.0,1.0,0.36
+4.1.6.4.1,MATH.6.D.1,"Adds or removes items during play (e.g., “I’ll give you two blocks”).",-0.2,0.0,1.0,0.52
+4.1.6.5.1,MATH.6.E.1,Begins to add and subtract very small collections of objects in practical scenarios with adult support.,0.2,0.0,1.0,0.6799999999999999
+4.1.6.5.2,MATH.6.E.2,"Solves addition problems by joining objects together and subtraction problems by separating, using manipulatives and fingers to represent objects.",0.2,0.0,1.0,0.6799999999999999
+4.1.6.5.3,MATH.6.E.3,Can apply the concept of 'taking away from' when solving simple subtraction problems.,-0.2,0.0,1.0,0.52
+4.1.6.6.1,MATH.6.F.1,"Represents addition and subtraction in different ways, such as with fingers, objects, and drawings.",0.6,0.0,1.0,0.8400000000000001
+4.1.6.6.2,MATH.6.F.2,Solves addition and subtraction word problems. Adds and subtracts up to 5 to or from a given number.,-0.2,0.0,1.0,0.52
+4.1.6.6.3,MATH.6.F.3,"With adult assistance, begins to use counting on from the larger number for addition. For example, when adding a group of 3 and a group of 2, counts ""One, two, three..."" and then counts on ""Four, five!"" (keeping track with fingers). When counting back for subtraction such as taking away 3 from 5, counts, ""Five, four, three...two!"" (keeping track with fingers).",0.2,0.0,1.0,0.6799999999999999
+4.1.6.6.4,MATH.6.F.4,Understands addition as putting together and adding to,-1.0,0.0,1.0,0.19999999999999996
+4.1.8.6.1,FS-6.a,"Completes more complex sequencing tasks, such as arranging picture cards to depict a story or lifecycle (e.g., caterpillar, cocoon, butterfly).",0.6,0.0,1.0,0.8400000000000001
+4.2.1.1.1,MATH.7.A.1,"Recognizes repetitive patterns in sounds, such as lullabies.",0.2,0.0,1.0,0.6799999999999999
+4.2.1.2.1,MATH.7.B.1,"Responds to visual patterns, like stripes or checkers.",0.6,0.0,1.0,0.8400000000000001
+4.2.1.3.1,MATH.7.C.1,"Matches objects to continue a simple pattern (e.g., toy-car-toy).",-0.6,0.0,0.9999999999999999,0.35999999999999993
+4.2.1.4.1,MATH.7.C.1,"Recognizes and extends AB patterns (e.g., red-blue-red-blue).",-1.0,1.0,0.9999999999999999,-0.10000000000000009
+4.2.1.5.1,MATH.7.E.1,Predicts what comes next in a simple pattern.,-0.2,0.0,1.0,0.52
+4.2.1.5.2,MATH.7.E.2,"Recognizes a simple pattern, and with adult assistance, fills in the missing element of a pattern.",-0.2,0.0,1.0,0.52
+4.2.1.5.3,MATH.7.E.4,"Creates, identifies, extends, and duplicates simple repeating patterns in different forms, such as with objects, numbers, sounds, and movements.",-0.2,0.0,1.0,0.52
+4.2.1.6.1,MATH.7.F.1,Creates Patterns,0.6,0.0,1.0,0.8400000000000001
+4.2.1.6.2,MATH.7.F.2,Fills in missing elements of simple patterns.,-0.6,0.0,1.0,0.36
+4.2.1.6.3,MATH.7.F.3,"Duplicates simple patterns in a different location than demonstrated, such as making the same alternating color pattern with blocks at a table that was demonstrated on the rug. Extends patterns, such as making an eight block tower of the same pattern that was demonstrated with four blocks.",-0.2,0.0,1.0,0.52
+4.2.1.6.4,MATH.7.F.4,"Identifies the core unit of sequentially repeating patterns, such as color in a sequence of alternating red and blue blocks.",-0.6,0.0,1.0,0.36
+4.3.1.1.1,MATH.9.A.1,"Looks at and tracks simple shapes, such as circles or squares.",-0.2,0.0,1.0,0.52
+4.3.1.2.1,MATH.9.B.1,Reaches for or plays with toys of distinct shapes.,0.2,0.0,1.0,0.6799999999999999
+4.3.1.3.1,MATH.9.C.1,"Sorts objects by shape (e.g., circle blocks versus square blocks).",0.2,0.0,1.0,0.6799999999999999
+4.3.1.4.1,MATH.9.D.1,Identifies and names common shapes like “circle” and “triangle.”,-0.2,0.0,1.0,0.52
+4.3.1.5.1,MATH.9.E.1,"Recognizes and names typical circle, square, and sometimes a triangle. With adult support, matches some shapes that are different sizes and orientations.",0.2,0.0,1.0,0.6799999999999999
+4.3.1.5.2,MATH.9.E.2,Describes shapes with basic language,-0.2,0.0,1.0,0.52
+4.3.1.5.3,MATH.9.E.3,Recognizes and compares a greater number of shapes of different sizes and orientations. Begins to identify sides and angles as distinct parts of shapes.,-0.6,0.0,1.0,0.36
+4.3.1.6.1,MATH.9.F.1,"Names and describes shapes in terms of length of sides, number of sides, and number of angles.",0.2,0.0,1.0,0.6799999999999999
+4.3.1.6.2,MATH.9.F.2,"Analyzes, compares and sorts two and three-dimensional shapes and objects in different sizes. Describes their similarities, differences, and other attributes, such as size and shape.",-0.2,0.0,1.0,0.52
+4.3.1.6.3,MATH.9.F.3,Creates and builds shapes from components.,1.0,0.0,1.0,1.0
+4.3.2.1.1,MATH.10.A.1,"Reaches for objects placed in different positions (e.g., above, beside, or in front).",-0.2,0.0,1.0,0.52
+4.3.2.2.1,MATH.10.B.1,Searches for objects hidden under or behind others during play.,0.6,0.0,1.0,0.8400000000000001
+4.3.2.3.1,MATH.10.C.1,"Places objects in specific positions during play, such as stacking blocks in order or aligning cars.",-0.2,0.0,1.0,0.52
+4.3.2.4.1,MATH.10.D.1,Demonstrates understanding of positional words by correctly placing objects when instructed.,0.6,0.0,1.0,0.8400000000000001
+4.3.2.5.1,MATH.10.E.1,"Understands spatial vocabulary. With adult support, follows directions involving their own position in space, such as ""Stand up and stretch your arms to the sky.""",0.2,0.0,1.0,0.6799999999999999
+4.3.2.6.1,MATH.10.F.1,"Understands and uses language related to directionality, order, and the position of objects, including up/down, and in front/behind.",0.2,0.0,1.0,0.6799999999999999
+4.3.2.6.2,MATH.10.F.2,Recognizes shapes in real world,-0.2,0.0,1.0,0.52
+4.3.2.6.3,MATH.10.F.3,Identifies Geometric Shapes and Spatial Relations,0.2,0.0,1.0,0.6799999999999999
+4.3.3.5.1,FS-1.a,"Child can distinguish between different categories (i.e., color, size, shape).",-0.6,0.0,1.0,0.36
+4.3.3.5.2,FS-1.b,Child can group objects or pictures based on shared characteristics.,0.6,0.0,1.0,0.8400000000000001
+4.4.1.1.1,MATH.8.A.1,Explores objects of different sizes and weights by touching or mouthing.,-0.6,0.0,1.0,0.36
+4.4.1.2.1,MATH.8.B.1,Begins stacking objects of similar size.,-0.6,0.0,1.0,0.36
+4.4.1.3.1,MATH.8.C.1,Matches or lines up objects by size with support.,-0.6,0.0,1.0,0.36
+4.4.1.4.1,MATH.8.D.1,"Uses hands or other items to compare object sizes (e.g., “This block is longer”).",-0.2,0.0,1.0,0.52
+4.4.1.5.1,MATH.8.E.1,"Uses measurable attributes to make comparisons, such as identifies objects as the same/different and more/less.",-0.2,0.0,1.0,0.52
+4.4.1.6.1,MATH.8.F.1,Recognizes and Names Time Words,0.2,0.0,1.0,0.6799999999999999
+4.4.1.6.2,MATH.8.F.2,Applies Time Words in Context,-0.2,0.0,1.0,0.52
+4.4.1.6.3,MATH.8.F.3,Differentiates Between Time Words,-0.6,0.0,1.0,0.36
+4.4.1.6.4,MATH.8.F.4,"Measures using the same unit, such as putting together snap cubes to see how tall a book is.",0.2,0.0,1.0,0.6799999999999999
+4.4.1.6.5,MATH.8.F.5,Child recognizes and compares capacity based on how much space exists within an object.,-0.2,0.0,1.0,0.52
+4.4.1.6.6,MATH.8.F.6,"Compares or orders up to 5 objects based on their measurable attributes, such as height or weight.",-0.2,0.0,1.0,0.52
+4.4.1.6.7,MATH.8.F.7,"Uses comparative language, such as shortest, heavier, or biggest.",-0.2,0.0,1.0,0.52
+5.1.1.1.1,SCI.1.A,Reaches out to touch and explore objects with different textures.,-0.2,0.0,1.0,0.52
+5.1.1.2.1,SCI.1.B.1,"Watches and tracks events, like a ball rolling or water flowing.",0.2,0.0,1.0,0.6799999999999999
+5.1.1.3.1,SCI.1.C.1,"Describes basic features of objects, such as color or shape.",-0.2,0.0,1.0,0.52
+5.1.1.4.1,SCI.1.D.1,Uses simple descriptive language to share observations.,-0.6,0.0,1.0,0.36
+5.1.1.5.1,SCI.1.E.1,"Uses the five senses to observe objects, materials, organisms, and events. Provides simple verbal or signed descriptions. With adult support, represents observable phenomena, such as draws a picture.",0.6,0.0,1.0,0.8400000000000001
+5.1.1.5.2,SCI.1.E.2,Demonstrates Basic Observation Techniques with Organisms and Events,-0.6,0.0,1.0,0.36
+5.1.1.5.3,SCI.1.E.3,"Makes increasingly complex observations of objects, materials, organisms, and events. Provides greater detail in descriptions. Represents observable phenomena in more complex ways, such as pictures that include more detail.",0.2,0.0,1.0,0.6799999999999999
+5.1.1.6.1,SCI.1.F.1,"Identifies, observes, describes, and discusses objects in the sky.",0.2,0.0,1.0,0.6799999999999999
+5.1.1.6.2,SCI.1.F.2,"Identifies the five senses (smell, touch, sight, sound, taste) and uses them to make observations.",0.6,0.0,1.0,0.8400000000000001
+5.1.1.6.3,SCI.1.F.3,"Uses observational tools to extend the five senses, such as a magnifying glass, microscope, binoculars, or stethoscope.",-0.2,0.0,1.0,0.52
+5.1.1.6.4,SCI.1.F.4,"Describes observable phenomena using adjectives and labels, such as lemons taste sour and play dough feels sticky.",-0.6,0.0,1.0,0.36
+5.1.1.6.5,SCI.1.F.5,"Represents observable phenomena with pictures, diagrams, and 3-D models.",0.6,0.0,1.0,0.8400000000000001
+5.1.2.1.1,SCI.2.A.1,Makes sounds or gestures when interacting with new phenomena.,-0.2,0.0,1.0,0.52
+5.1.2.2.1,SCI.2.B.1,Uses gestures or babbling to “comment” on objects of interest.,0.2,0.0,1.0,0.6799999999999999
+5.1.2.3.1,SCI.2.C.1,Participates in back-and-forth exchanges about observable phenomena.,-0.6,0.0,1.0,0.36
+5.1.2.4.1,SCI.2.D.1,"Attempts to answer simple questions, such as “What is it doing?”",-0.6,0.0,1.0,0.36
+5.1.2.5.1,SCI.2.E.1,Uses a greater number of scientific vocabulary words. Repeats new words offered by adults and may ask questions about unfamiliar words.,-0.2,0.0,1.0,0.52
+5.1.2.5.2,SCI.2.E.2,Begins to use scientific vocabulary words with modeling and support from an adult. Sometimes repeats new words offered by adults.,-0.6,0.0,1.0,0.36
+5.1.2.6.1,SCI.2.F.1,Demonstrates understanding of the importance of conservation,0.6,0.0,1.0,0.8400000000000001
+5.1.2.6.2,SCI.2.F.2,"Uses scientific practice words or signs, such as observe, describe, compare, contrast, question, predict, experiment, reflect, cooperate, or measure.",0.6,0.0,1.0,0.8400000000000001
+5.1.2.6.3,SCI.2.F.3,"Uses scientific content words when investigating and describing observable phenomena, such as parts of a plant, animal, or object.",0.6,0.0,1.0,0.8400000000000001
+5.1.3.1.1,SCI.3.A.1,"Explores objects through touch and mouthing, noticing variations.",-0.2,0.0,1.0,0.52
+5.1.3.2.1,SCI.3.B.1,Recognizes and points out differences between objects or materials.,-0.2,0.0,1.0,0.52
+5.1.3.3.1,SCI.3.C.1,"Uses basic words to compare phenomena (e.g., “big,” “small”).",-0.6,0.0,1.0,0.36
+5.1.3.4.1,SCI.3.D.1,"Compares objects using descriptive language (e.g., “This is bigger”).",0.2,0.0,1.0,0.6799999999999999
+5.1.3.5.1,SCI.3.E.1,"Sorts objects into groups based on simple attributes, such as color. With support, uses measurement tools to quantify similarities and differences of observable phenomena, such as when a child scoops sand into two containers and with adult assistance, determines which container holds more scoops.",-0.2,0.0,1.0,0.52
+5.1.3.5.2,SCI.3.E.3,"Sorts objects into groups based on more complex attributes, such as weight, sound, or texture. Uses measurement tools to assess the properties of and compare observable phenomena.",-0.2,0.0,1.0,0.52
+5.1.3.6.1,SCI.3.F.1,"Categorizes by sorting observable phenomena into groups based on attributes such as appearance, weight, function, ability, texture, odor, and sound.
+ Uses measurement tools, such as a ruler, balance scale, eye dropper, unit blocks, thermometer, or measuring cup, to quantify similarities and differences of observable phenomena.",-0.2,0.0,1.0,0.52
+5.1.3.6.2,SCI.3.F.2,Explores and categorizes living things,0.2,0.0,1.0,0.6799999999999999
+5.2.1.1.1,SCI.4.A.1,Explores objects actively to learn more about them.,0.2,0.0,1.0,0.6799999999999999
+5.2.1.2.1,SCI.4.B.1,Reacts to changes or novel stimuli by turning head or vocalizing.,0.6,0.0,1.0,0.8400000000000001
+5.2.1.3.1,SCI.4.C.1,Looks for familiar objects or phenomena during exploration.,0.6,0.0,1.0,0.8400000000000001
+5.2.1.4.1,SCI.4.D.1,Gathers information by observing or interacting with phenomena.,0.2,0.0,1.0,0.6799999999999999
+5.2.1.5.1,SCI.4.E.1,"Asks simple questions. Uses adults as primary resources to gather information about questions. With adult support and modeling, makes simple predictions, such as ""I think that the golf ball will be heavier than the ping pong ball.""",-0.2,0.0,1.0,0.52
+5.2.1.6.1,SCI.4.F.2,"Asks questions that can be answered through an investigation, such as ""What do plants need to grow?"" or ""What countries do the children in our class come from?"".",-0.6,0.0,1.0,0.36
+5.2.1.6.2,SCI.4.F.3,Gathers information about a question by looking at books or discussing prior knowledge and observations.,0.6,0.0,1.0,0.8400000000000001
+5.2.1.6.3,SCI.4.F.4,Collects and represents data in a variety of ways based on ability.,0.2,0.0,1.0,0.6799999999999999
+5.2.1.6.4,SCI.4.F.5,Gathers information about a question by looking at books or discussing prior knowledge and observations.,-0.2,0.0,1.0,0.52
+5.2.1.6.5,SCI.4.F.6,"Makes predictions and brainstorms solutions based on background knowledge and experiences, such as ""I think that plants need water to grow."" or ""I think adding yellow paint to purple will make brown.""",0.2,0.0,1.0,0.6799999999999999
+5.2.2.1.1,SCI.5.A.1,Reaches for or explores objects with curiosity.,-0.2,0.0,1.0,0.52
+5.2.2.2.1,SCI.5.B.1,"Experiments with actions, such as dropping objects to see what happens.",0.2,0.0,1.0,0.6799999999999999
+5.2.2.3.1,SCI.5.C.1,"Participates in guided exploration, like mixing colors or textures",-0.2,0.0,1.0,0.52
+5.2.2.4.1,SCI.5.D.1,"Completes simple experiments, like pouring water to observe movement",0.2,0.0,1.0,0.6799999999999999
+5.2.2.5.1,SCI.5.E.1,Child gathers and uses data',-0.6,0.0,1.0,0.36
+5.2.2.5.2,SCI.5.E.3,"With increasing independence, engages in some parts of conducting complex investigations or experiments. Increasingly able to articulate the steps that need to be taken to conduct an investigation. Uses more complex ways to gather and record data, such as with adult support, makes a graph that shows children's favorite snacks.",-0.2,0.0,1.0,0.52
+5.2.2.5.3,SCI.5.E.4,"With adult support, engages in simple investigations and experiments, such as building a ""bridge"" out of classroom materials and seeing how many dolls it will hold before it collapses. Records data with teacher assistance, mostly using pictures and marks on a page.",1.0,0.0,1.0,1.0
+5.2.2.6.1,SCI.5.F.4,Articulates steps to be taken and lists materials needed for an investigation or experiment.,0.2,0.0,1.0,0.6799999999999999
+5.2.2.6.2,SCI.5.F.7,"Implements steps and uses materials to explore testable hypothesis, such as ""Do plants need water to grow?"" by planting seeds and giving water to some but not to others.",-0.2,0.0,0.9999999999999999,0.5199999999999999
+5.2.3.1.1,SCI.6.A.1,Shows interest in changes in objects or surroundings.,-0.6,0.0,1.0,0.36
+5.2.3.2.1,SCI.6.B.1,Explores cause and effect through repeated actions.,-0.2,0.0,1.0,0.52
+5.2.3.3.1,SCI.6.C.1,"Shows simple understanding of results (e.g., “It fell down”).",0.2,0.0,1.0,0.6799999999999999
+5.2.3.4.1,SCI.6.D.1,Describes what happened after completing an experiment or activity.,0.2,0.0,1.0,0.6799999999999999
+5.2.3.5.1,SCI.6.E.1,"With adult assistance, analyzes and interprets data. Draws conclusions and provides simple descriptions of results. For example, an adult suggests counting how many dolls can be supported by a bridge before it breaks and along with the children counts, ""One, two, three dolls. What happened when we put on the next doll?"" A child says, ""The bridge broke!""",0.2,0.0,1.0,0.6799999999999999
+5.2.3.5.2,SCI.6.E.2,"With increasing independence, analyzes and interprets data and draws conclusions.",-0.2,0.0,1.0,0.52
+5.2.3.5.3,SCI.6.E.3,Compares results to initial prediction and generates new questions or designs.,-0.6,0.0,1.0,0.36
+5.2.3.5.4,SCI.6.E.4,"Communicates results, solutions, and conclusions in increasingly complex ways through multiple methods.",0.2,0.0,1.0,0.6799999999999999
+5.2.3.6.1,SCI.6.F.1,Identifies Different Types of Graphs,-0.6,0.0,1.0,0.36
+5.2.3.6.2,SCI.6.F.2,Analyzes and interprets data with mathematical language and summarizes results of investigation.,-0.2,0.0,1.0,0.52
+5.2.3.6.3,SCI.6.F.3,"Communicates results, solutions, and conclusions through a variety of methods, such as telling an adult that plants need water to grow or putting dots on a map that show the number of children from each country.",-0.6,0.0,1.0,0.36
+5.2.3.6.4,SCI.6.F.4,Analyzes and interprets data and summarizes results of investigation.,0.2,0.0,1.0,0.6799999999999999
+5.3.1.6.1,SCI.4.F.1,Uses simple tools for investigating properties of materials,0.2,0.0,1.0,0.6799999999999999
+5.3.2.6.1,SCI.5.F.2,"Identifies different sources, types and uses of energy",-0.6,0.0,1.0,0.36
+5.4.1.6.1,SCI.5.E.2,Acquire scientific knowledge related to life science (properties of living things).,-0.6,0.0,1.0,0.36
+5.4.2.6.1,SCI.5.F.5,"Child observes, describes, and discusses the life cycles of organisms.",0.6,0.0,1.0,0.8400000000000001
+5.4.3.6.1,SCI.3.F.3,"Observes, investigates, describes, and discusses the characteristics of organisms.",-0.6,0.0,1.0,0.36
+5.4.4.6.1,SCI.5.F.7,"Uses senses and simple tools to observe, gather, and record data, such as gathering data on where children's families are from and creating a graph that shows the number of children from different countries.",0.2,1.0,0.9999999999999999,0.37999999999999995
+5.4.4.6.2,SCI.5.F.1,Engage in play to explore the physical and natural world.,0.2,0.0,1.0,0.6799999999999999
+5.5.1.6.1,SCI.5.F.3,Identifies and differentiates properties of materials and how they affect their environment and usage.,-0.6,0.0,1.0,0.36
+5.5.2.6.1,SCI.5.E.5,Acquire scientific knowledge related to earth science (properties of the earth and objects in the sky).,0.6,0.0,1.0,0.8400000000000001
+6.1.1.1.1,PMP.1.B.1,Lifts head during tummy time and begins rolling over.,-0.6,0.0,1.0,0.36
+6.1.1.2.1,PMP.1.A.1,"Crawls, pulls up to stand, and begins walking with support.",0.2,0.0,1.0,0.6799999999999999
+6.1.1.3.1,PMP.1.C.1,Walks steadily and runs with increasing confidence,-0.6,0.0,1.0,0.36
+6.1.1.4.1,PMP.1.D.1,Climbs stairs with alternating feet and jumps with both feet.,-0.2,0.0,1.0,0.52
+6.1.1.5.1,PMP.1.E.1,"Child can successfully execute a range of activities exercising large muscles such as jumping, running, climbing, and balancing.",0.2,0.0,1.0,0.6799999999999999
+6.1.1.5.2,PMP.1.E.2,"Child shows significant improvements in muscle strength and can effectively handle objects like balls, hoops, or bicycles.",-0.2,0.0,1.0,0.52
+6.1.1.5.3,PMP.1.E.3,"Balances, such as on one leg or on a beam, for longer periods of time both when standing still and when moving from one position to another. Demonstrates more coordinated movement when engaging in skills, such as jumping for height and distance, hopping, and running. Engages in more complex movements, such as riding a tricycle, with ease. Engages in physical activities of increasing levels of intensity for sustained periods of time.",-0.2,0.0,1.0,0.52
+6.1.1.5.4,PMP.1.E.4,"Balances, such as on one leg or a beam, for short periods with some assistance. Performs some skills, such as jumping for height and hopping, but these skills may not be consistently demonstrated. Engages in physical activity that requires strength and stamina for at least brief periods.",0.2,0.0,1.0,0.6799999999999999
+6.1.1.5.5,PMP.1.E.5,"Child exhibits coordinated movements in relation to spatial awareness, including maneuvering around obstacles.",-0.2,0.0,1.0,0.52
+6.1.1.6.1,PMP.1.F.1,Demonstrates coordination/balance,-0.2,0.0,1.0,0.52
+6.1.1.6.2,PMP.1.F.2,Coordinates sequence of movements,-0.2,0.0,1.0,0.52
+6.1.1.6.3,PMP.1.F.3,Demonstrates control/strength of large muscles,-0.2,0.0,1.0,0.52
+6.1.1.6.4,PMP.1.F.4,Demonstrates balance and coordination,0.6,0.0,1.0,0.8400000000000001
+6.1.1.6.5,PMP.1.F.5,Child demonstrates coordination and balance in isolation.,0.2,0.0,1.0,0.6799999999999999
+6.1.1.6.6,PMP.1.F.6,"Demonstrates balance in large-muscle movement, such as walking on a log without falling or balancing on one leg.",-0.2,0.0,1.0,0.52
+6.1.1.6.7,PMP.1.F.7,Gross Motor Development,-0.2,0.0,1.0,0.52
+6.1.1.6.8,PMP.1.F.8,"Performs activities that combine and coordinate large muscle movements, including swinging on a swing, climbing a ladder, or dancing to music.",-0.2,0.0,1.0,0.52
+6.1.1.6.9,PMP.1.F.9,"Demonstrates strength and stamina that allow for participation in a range of physical activities, such as running around playing tag.",0.2,0.0,1.0,0.6799999999999999
+6.1.2.1.1,PMP.2.A.1,Turns head toward sounds or visual stimuli.,0.2,0.0,1.0,0.6799999999999999
+6.1.2.2.1,PMP.2.B.1,Tracks moving objects and adjusts body movements accordingly,-0.2,0.0,1.0,0.52
+6.1.2.3.1,PMP.2.C.1,"Uses visual cues to adjust movements (e.g., stepping over obstacles).",-0.6,0.0,1.0,0.36
+6.1.2.4.1,PMP.2.D.1,"Combines visual and tactile information to solve problems, such as fitting shapes into a sorter.",0.6,0.0,1.0,0.8400000000000001
+6.1.2.5.1,PMP.2.E.1,"Child is able to appropriately adjust movements and responses based on perceived information, demonstrating control of over their actions.'",0.2,0.0,1.0,0.6799999999999999
+6.1.2.5.2,PMP.2.E.2,"Somewhat aware of own body, space, and relationship to other objects. May have difficulty consistently coordinating motions and interactions with objects and other people.",-0.2,0.0,1.0,0.52
+6.1.2.5.3,PMP.2.E.3,"Shows increasing awareness of body, space, and relationship to other objects in ways that allow for more coordinated movements, actions, and interactions with others.",-0.6,0.0,1.0,0.36
+6.1.2.5.4,PMP.2.E.4,"Child can accurately interpret visual, auditory, and tactile information to determine distance, location, and characteristics of objects and beings.'",0.2,0.0,1.0,0.6799999999999999
+6.1.2.6.1,PMP.2.F.1,Identifies/locates body parts,-0.2,0.0,1.0,0.52
+6.1.2.6.2,PMP.2.F.2,Recognizes and names basic body parts,0.2,0.0,1.0,0.6799999999999999
+6.1.2.6.3,PMP.2.F.3,Matches body parts to their functions,-0.2,0.0,1.0,0.52
+6.1.2.6.4,PMP.2.F.4,Distinguishes external and internal body parts,0.2,0.0,1.0,0.6799999999999999
+6.1.2.6.5,PMP.2.F.5,Demonstrates awareness of own body and other people's space during interactions.,-0.2,0.0,1.0,0.52
+6.1.2.6.6,PMP.2.F.6,Guides body motions relative to other/objects,-0.2,0.0,1.0,0.52
+6.1.2.6.7,PMP.2.F.8,Object Interaction,-0.2,0.0,1.0,0.52
+6.1.2.6.8,PMP.2.F.9,Coordinated Movement,0.2,0.0,1.0,0.6799999999999999
+6.1.2.6.9,PMP.2.F.7,Spatial Awareness,-0.6,0.0,1.0,0.36
+6.1.2.6.10,PMP.2.F.10,"Moves body in relation to objects to effectively perform tasks, such as moving body in position to kick a ball.",-0.2,0.0,1.0,0.52
+6.1.2.6.11,PMP.2.F.11,"When asked, can move own body in front of, to the side, or behind something or someone else, such as getting in line with other children.",-0.2,0.0,1.0,0.52
+6.1.2.6.12,PMP.2.F.12,Changes directions when moving with little difficulty.,0.2,0.0,1.0,0.6799999999999999
+6.2.1.1.1,PMP.3.A.1,"Grasps small objects with the whole hand (e.g., rattles or toys).",0.2,0.0,1.0,0.6799999999999999
+6.2.1.2.1,PMP.3.C.1,"Uses a pincer grasp to pick up small items, like food or small toys.",-0.6,0.0,1.0,0.36
+6.2.1.3.1,PMP.3.B.1,Stacks blocks and uses utensils with growing precision.,-0.2,0.0,1.0,0.52
+6.2.1.4.1,PMP.3.D.1,Strings large beads and manipulates puzzle pieces.,-0.2,0.0,1.0,0.52
+6.2.1.5.1,PMP.3.E.1,Child exhibits steady improvement in fine-motor tasks,-0.2,0.0,1.0,0.52
+6.2.1.5.2,PMP.3.E.2,"Performs simple hand-eye tasks, such as drawing simple shapes like circles and cutting paper with scissors. May demonstrate limited precision and control in more complex tasks.",-0.2,0.0,1.0,0.52
+6.2.1.5.3,PMP.3.E.3,Child displays growing strength in small muscle groups,-0.2,0.0,1.0,0.52
+6.2.1.5.4,PMP.3.E.4,"Performs tasks that require more complex hand-eye coordination, such as cutting out shapes and drawing letter-like forms, with moderate levels of precision and control.",0.2,0.0,1.0,0.6799999999999999
+6.2.1.5.5,PMP.3.E.5,Child demonstrates accurate handling and manipulation of objects,0.6,0.0,1.0,0.8400000000000001
+6.2.1.6.1,PMP.3.F.1,Demonstrates control/strength of small muscles,0.2,0.0,1.0,0.6799999999999999
+6.2.1.6.2,PMP.3.F.2,Demonstrates Fine Motor Skills,-0.2,0.0,1.0,0.52
+6.2.1.6.3,PMP.3.F.3,Exhibit Manual Dexterity,-0.2,0.0,1.0,0.52
+6.2.1.6.4,PMP.3.F.4,Show Hand-eye coordination,0.6,0.0,1.0,0.8400000000000001
+6.2.1.6.5,PMP.3.F.5,"Easily coordinates hand and eye movements to carry out tasks, such as working on puzzles or stringing beads together.",-0.6,0.0,1.0,0.36
+6.2.1.6.6,PMP.3.F.6,Demonstrates eye-hand coordination,0.6,0.0,1.0,0.8400000000000001
+6.2.1.6.7,PMP.3.F.7,'Displays precision in grasping objects',-0.2,0.0,1.0,0.52
+6.2.1.6.8,PMP.3.F.8,'Manages successful object transfer from one hand to another',-1.0,0.0,1.0,0.19999999999999996
+6.2.1.6.9,PMP.3.F.9,'Accurately directs hand based on visual input',-0.2,0.0,1.0,0.52
+6.2.1.6.10,PMP.3.F.10,"Uses a pincer grip to hold and manipulate tools for writing, drawing, and painting.",-0.2,0.0,1.0,0.52
+6.2.1.6.11,PMP.3.F.11,"Uses coordinated movements to complete complex tasks, such as cutting along a line, pouring, or buttoning.",-0.6,0.0,1.0,0.36
+6.2.2.1.1,PMP.4.A.1,Reacts positively to being cleaned or cared for by caregivers,0.2,0.0,1.0,0.6799999999999999
+6.2.2.2.1,PMP.4.B.1,"Begins to assist in basic self-care tasks, such as holding out arms to put on clothes.",-0.2,0.0,1.0,0.52
+6.2.2.3.1,PMP.4.C.1,"Attempts simple self-care tasks with assistance, such as washing hands or using a spoon.",0.2,0.0,1.0,0.6799999999999999
+6.2.2.4.1,PMP.4.D.1,"Independently completes basic tasks, like washing hands with supervision.",0.2,0.0,1.0,0.6799999999999999
+6.2.2.5.1,PMP.4.E.1,"Performs basic hygiene tasks such as washing hands, brushing teeth, and tidying up personal items independently.",-0.6,0.0,1.0,0.36
+6.2.2.5.2,PMP.4.E.2,"Shows an awareness of personal hygiene and self-care skills, such as telling an adult it is important to wash hands before eating. May not complete or exhibit these skills regularly without adult guidance and supervision.",0.6,0.0,1.0,0.8400000000000001
+6.2.2.5.3,PMP.4.E.3,Child understands the importance of a daily hygiene routine and can follow simple self-care instructions.,0.2,0.0,1.0,0.6799999999999999
+6.2.2.5.4,PMP.4.E.4,Begins to take more responsibility for personal hygiene and self-care skills. Sometimes completes them without adult prompting.,-0.2,0.0,1.0,0.52
+6.2.2.5.5,PMP.4.E.5,"Child recognizes the need for cleanliness and is able to identify when personal care, like using the restroom or cleaning up a spill, is needed.",0.6,0.0,1.0,0.8400000000000001
+6.2.2.6.1,PMP.4.F.1,"Washes hands with soap and water. Knows to do this before eating, after using the bathroom, or after blowing nose.",-0.2,0.0,1.0,0.52
+6.2.2.6.2,PMP.4.F.2,Practices personal health/hygiene,1.0,0.0,1.0,1.0
+6.2.2.6.3,PMP.4.F.3,Demonstrates Basic Personal Hygiene Routines,0.2,0.0,1.0,0.6799999999999999
+6.2.2.6.4,PMP.4.F.4,Understands the Importance of Dietary Health,0.2,0.0,1.0,0.6799999999999999
+6.2.2.6.5,PMP.4.F.5,Displays Awareness of Physical Fitness,0.6,0.0,1.0,0.8400000000000001
+6.2.2.6.6,PMP.4.F.6,"Demonstrates increasing ability to take responsibility for participating in personal self-care skills, such as brushing teeth or getting dressed.",0.2,0.0,1.0,0.6799999999999999
+6.3.1.1.1,PMP.5.A.1,Shows interest in feeding times and observes adults eating.,0.2,0.0,1.0,0.6799999999999999
+6.3.1.2.1,PMP.5.B.1,Explores different tastes and textures during mealtimes.,-0.6,0.0,1.0,0.36
+6.3.1.3.1,PMP.5.C.1,Recognizes favorite healthy foods and begins asking for them by name.,-0.2,0.0,1.0,0.52
+6.3.1.4.1,PMP.5.D.1,Demonstrates curiosity about food preparation by watching or helping caregivers.,-0.2,0.0,1.0,0.52
+6.3.1.5.1,PMP.5.E.1,Understanding Nutrition,0.6,0.0,1.0,0.8400000000000001
+6.3.1.5.2,PMP.5.E.2,Making Healthy Choices,-1.0,0.0,1.0,0.19999999999999996
+6.3.1.5.3,PMP.5.E.3,Demonstrates a basic knowledge of the role of foods and nutrition in healthy development. Often requires adult guidance and supervision to make healthy eating choices.,-1.0,0.0,1.0,0.19999999999999996
+6.3.1.5.4,PMP.5.E.4,Demonstrates an increasing understanding of the ways in which foods and nutrition help the body grow and be healthy. Makes healthy eating choices both independently and with support.,0.6,0.0,1.0,0.8400000000000001
+6.3.1.5.5,PMP.5.E.5,Developing Healthy Eating Habits,-0.2,0.0,1.0,0.52
+6.3.1.6.1,PMP.5.F.1,Identifies a variety of healthy and unhealthy foods.,0.6,0.0,1.0,0.8400000000000001
+6.3.1.6.2,PMP.5.F.2,Identifies good nutrition/exercise habits,-0.6,0.0,1.0,0.36
+6.3.1.6.3,PMP.5.F.3,Understands Basic Food Groups,-0.2,0.0,1.0,0.52
+6.3.1.6.4,PMP.5.F.4,Differentiates Between Healthy and Unhealthy Foods,-0.6,0.0,1.0,0.36
+6.3.1.6.5,PMP.5.F.5,Recognizes Physical Activity Importance,0.2,0.0,1.0,0.6799999999999999
+6.3.1.6.6,PMP.5.F.6,Demonstrates basic understanding that eating a variety of foods helps the body grow and be healthy.,-0.2,0.0,1.0,0.52
+6.3.1.6.7,PMP.5.F.7,Moderates food consumption based on awareness of own hunger and fullness.,0.6,0.0,1.0,0.8400000000000001
+6.3.2.1.1,PMP.6.A.1,"Reacts to changes in their environment that signal safety or danger, such as loud noises or being held securely.",0.2,0.0,1.0,0.6799999999999999
+6.3.2.2.1,PMP.6.B.1,"Understands simple safety instructions, like ""Stop"" or ""No.""",-0.6,0.0,1.0,0.36
+6.3.2.3.1,PMP.6.C.1,"Begins to follow basic safety routines, such as holding hands while walking.",0.2,0.0,1.0,0.6799999999999999
+6.3.2.4.1,PMP.6.D.1,"Anticipates safety rules during familiar routines, such as waiting before crossing the street.",-0.2,0.0,1.0,0.52
+6.3.2.5.1,PMP.6.E.1,"Child can identify potential dangers in various environments (home, school, playground).",0.6,0.0,1.0,0.8400000000000001
+6.3.2.5.2,PMP.6.E.2,Shows awareness of a growing number of personal safety practices and routines. Looks to adults for support in enacting these.,0.2,0.0,1.0,0.6799999999999999
+6.3.2.5.3,PMP.6.E.3,"Child correctly follows personal safety routines like hand-washing, crossing the road, etc.",0.2,0.0,1.0,0.6799999999999999
+6.3.2.5.4,PMP.6.E.4,Child exhibits understanding of how to seek help from trusted adults in unsafe or uncomfortable situations.,0.2,0.0,1.0,0.6799999999999999
+6.3.2.5.5,PMP.6.E.5,Exhibits increasing independence in following basic personal safety practices and routines. Follows adult guidance around more complex practices.,0.2,0.0,1.0,0.6799999999999999
+6.3.2.6.1,PMP.6.F.1,"Identifies, avoids, and alerts others to danger, such as keeping a safe distance from swings.",0.2,0.0,1.0,0.6799999999999999
+6.3.2.6.2,PMP.6.F.2,Practices personal safety,-0.2,0.0,1.0,0.52
+6.3.2.6.3,PMP.6.F.3,Demonstrates awareness of safety rules and guidelines,1.0,0.0,1.0,1.0
+6.3.2.6.4,PMP.6.F.4,Shows understanding of personal boundaries and respect for others,-0.2,0.0,1.0,0.52
+6.3.2.6.5,PMP.6.F.5,Displays skills in self-caution and awareness during physical activities,-0.2,0.0,1.0,0.52
+6.3.2.6.6,PMP.6.F.6,"Identifies and follows basic safety rules with adult guidance and support, such as transportation and street safety practices.",-0.2,0.0,1.0,0.52
+7.4.3.1,VIII.D.1.a,Recognizes the design and colors of the US flag.,-0.2,0.0,1.0,0.52
+7.4.3.2,VIII.D.1.b,Distinguishes the state flag from other flags.,0.6,0.0,1.0,0.8400000000000001
+7.4.3.3,VIII.D.1.c,Understands the symbolic meaning of the flags' components.,0.6,0.0,1.0,0.8400000000000001
+7.4.4.1,VIII.D.2.a,Recognizes and Recites Pledge of Allegiance,0.6,0.0,1.0,0.8400000000000001
+7.4.4.2,VIII.D.2.b,Understands the Meaning of the Pledge,-0.6,0.0,1.0,0.36
+7.4.4.3,VIII.D.2.c,Demonstrates Proper Etiquette during the Pledge,0.2,0.0,1.0,0.6799999999999999
+7.4.4.4,VIII.D.2.d,Child recites the Pledge of Allegiance to their state flag and understands what observing a moment of silence means.,0.2,0.0,1.0,0.6799999999999999
+7.4.5.1,VIII.D.3.a,Understanding the Concept of Voting,0.6,0.0,1.0,0.8400000000000001
+7.4.5.2,VIII.D.3.b,Expressing Personal Opinion,0.2,0.0,1.0,0.6799999999999999
+7.4.5.3,VIII.D.3.c,Respecting Others' Opinions,-0.6,0.0,1.0,0.36
+8.1.1.6.1,XI.A.1.a,Navigates and interacts with user-friendly interfaces.,-0.2,0.0,1.0,0.52
+8.1.1.6.2,XI.A.1.c,Demonstrates responsiveness to digital feedback.,0.2,0.0,1.0,0.6799999999999999
+8.1.1.6.3,XI.A.2.a,Identifies different digital tools.,1.0,0.0,1.0,1.0
+8.1.1.6.4,XI.A.2.c,Applies digital tools in learning.,-0.2,0.0,1.0,0.52
+8.2.1.6.1,XI.A.5.a,Identifies and avoid online risks such as chatting with strangers on games,0.2,0.0,1.0,0.6799999999999999
+8.2.1.6.2,XI.A.5.c,Understands consequences of misusing technology,0.6,0.0,1.0,0.8400000000000001
+8.3.1.6.1,XI.A.4.a,"Explores digital tools to find information, ask questions, and discover new ideas with guidance and support.",-0.2,0.0,1.0,0.52

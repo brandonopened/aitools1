@@ -19,9 +19,9 @@ def extract_pdf_pages(input_path, output_path, start_page, end_page):
 
 # Example usage
 input_file = 'msearly.pdf'
-output_file = 'ms_standardsonly.pdf'
+output_file = 'testms.pdf'
 start_page = 12
-end_page = 90
+end_page = 13
 
 # Check if input file exists
 if not os.path.exists(input_file):
