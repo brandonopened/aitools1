@@ -9,6 +9,7 @@ from reportlab.lib.enums import TA_LEFT, TA_CENTER
 import re
 from bs4 import BeautifulSoup
 from docx.shared import Pt, RGBColor
+from html import unescape
 
 # Function to clean HTML content
 def clean_html_content(text):
@@ -65,7 +66,7 @@ def export_to_word(data, output_file):
     doc = Document()
     
     # Title
-    add_heading(doc, "Preschool 2024 Curriculum", 0)
+    add_heading(doc, "Preschool2024 Curriculum", 0)
 
     # Iterate through folders
     for folder in data["folders"]:
@@ -79,27 +80,53 @@ def export_to_word(data, output_file):
         
         # Process resources if they exist
         if "resources" in folder:
-            add_heading(doc, "Resources", 2)
             for resource in folder["resources"]:
-                add_heading(doc, resource["title"], 3)
+                add_heading(doc, resource["title"], 2)
                 add_paragraph(doc, f"ID: {resource['id']}")
                 add_paragraph(doc, f"Type: {resource['type']}")
                 add_paragraph(doc, f"Focus Area: {resource['focus_area']}")
                 add_html_paragraph(doc, f"Short Description: {resource['short_description']}")
                 
-                # Content Blocks
-                if "content_blocks" in resource:
-                    add_heading(doc, "Content Blocks", 4)
-                    for block in resource["content_blocks"]:
-                        add_paragraph(doc, f"Type: {block['type']}")
-                        if "content" in block and isinstance(block["content"], dict):
-                            if "text" in block["content"]:
-                                add_html_paragraph(doc, block["content"]["text"])
-                            if "title" in block["content"]:
-                                add_html_paragraph(doc, f"Title: {block['content']['title']}")
-                            if "columns" in block["content"]:
-                                for col in block["content"]["columns"]:
-                                    add_html_paragraph(doc, f"{col['title']}: {col['text']}")
+                # Process activities
+                if "activities" in resource:
+                    add_heading(doc, "Activities", 3)
+                    for activity in resource["activities"]:
+                        add_heading(doc, activity["title"], 4)
+                        add_paragraph(doc, f"ID: {activity['id']}")
+                        add_paragraph(doc, f"Type: {activity['type']}")
+
+                        # Process content blocks
+                        if "content_blocks" in activity:
+                            add_heading(doc, "Content Blocks", 5)
+                            for block in activity["content_blocks"]:
+                                block_title = block.get("title", block.get("type", ""))
+                                add_heading(doc, block_title, 6)
+                                add_paragraph(doc, f"Type: {block['type']}")
+                                if "content" in block:
+                                    if isinstance(block["content"], dict):
+                                        if "text" in block["content"]:
+                                            add_html_paragraph(doc, block["content"]["text"])
+                                        if "title" in block["content"]:
+                                            add_html_paragraph(doc, f"Title: {block['content']['title']}")
+                                        if "columns" in block["content"]:
+                                            for col in block["content"]["columns"]:
+                                                add_html_paragraph(doc, f"{col.get('title', '')}: {col['text']}")
+                                    elif isinstance(block["content"], list):
+                                        for item in block["content"]:
+                                            if isinstance(item, dict):
+                                                if "text" in item:
+                                                    add_html_paragraph(doc, item["text"])
+                                                if "title" in item:
+                                                    add_html_paragraph(doc, f"Title: {item['title']}")
+                                                if "columns" in item:
+                                                    for col in item["columns"]:
+                                                        add_html_paragraph(doc, f"{col.get('title', '')}: {col['text']}")
+
+                        # Process standards coding schemes and statements
+                        if "standards" in activity:
+                            add_heading(doc, "Standards", 7)
+                            for standard in activity["standards"]:
+                                add_paragraph(doc, f"{standard['code']}: {standard['statement']}")
 
     # Save the Word document
     doc.save(output_file)
@@ -141,7 +168,7 @@ def export_to_pdf(data, output_file):
                 story.append(Paragraph(f"ID: {resource['id']}", styles["Normal"]))
                 story.append(Paragraph(f"Type: {resource['type']}", styles["Normal"]))
                 story.append(Paragraph(f"Focus Area: {resource['focus_area']}", styles["Normal"]))
-                story.append(Paragraph(f"Short Description: {resource['short_description']}", styles["HTMLStyle"]))
+                story.append(Paragraph(clean_html_content(resource["short_description"]), styles["Normal"]))
 
                 # Content Blocks
                 if "content_blocks" in resource:
@@ -150,12 +177,12 @@ def export_to_pdf(data, output_file):
                         story.append(Paragraph(f"Type: {block['type']}", styles["Normal"]))
                         if "content" in block and isinstance(block["content"], dict):
                             if "text" in block["content"]:
-                                story.append(Paragraph(block["content"]["text"], styles["HTMLStyle"]))
+                                story.append(Paragraph(clean_html_content(block["content"]["text"]), styles["Normal"]))
                             if "title" in block["content"]:
-                                story.append(Paragraph(f"Title: {block['content']['title']}", styles["HTMLStyle"]))
+                                story.append(Paragraph(clean_html_content(block["content"]["title"]), styles["Normal"]))
                             if "columns" in block["content"]:
                                 for col in block["content"]["columns"]:
-                                    story.append(Paragraph(f"{col['title']}: {col['text']}", styles["HTMLStyle"]))
+                                    story.append(Paragraph(clean_html_content(f"{col['title']}: {col['text']}"), styles["Normal"]))
                 story.append(Spacer(1, 12))
         story.append(PageBreak())
 
