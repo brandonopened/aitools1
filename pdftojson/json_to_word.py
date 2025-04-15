@@ -77,35 +77,118 @@ def preprocess_html_for_reportlab(html_text):
 # --- Preprocessing --- 
 def preprocess_standards(data):
     """ Creates a mapping from resource_id to a list of standard strings. """
+    print("--- Starting Standard Preprocessing ---") # DEBUG
     standard_map = {}
+    
+    # --- Data Gathering: Look in multiple potential locations --- 
+    all_potential_standards = []
+    
+    # 1. Look for top-level 'standards' array
     top_level_standards = data.get("standards", [])
-    # Also check within activities if standards aren't top-level
-    # This assumes standards might be defined in multiple places
-    all_standards = list(top_level_standards) 
+    if top_level_standards:
+        all_potential_standards.extend(top_level_standards)
+        print(f"Found {len(top_level_standards)} top-level standards in 'standards' array.") # DEBUG
+        
+    # 2. Look for top-level 'framework_items' array (based on user JSON)
+    top_level_framework_items = data.get("framework_items", [])
+    if top_level_framework_items:
+        all_potential_standards.extend(top_level_framework_items)
+        print(f"Found {len(top_level_framework_items)} top-level items in 'framework_items' array.") # DEBUG
+        
+    # 3. Look for standards nested within activities
+    activity_standards_count = 0 # DEBUG
     for folder in data.get("folders", []):
         for resource in folder.get("resources", []):
-            for activity in resource.get("activities", []):
-                all_standards.extend(activity.get("standards", []))
+             # 4. Also check for framework_items directly under resources?
+             resource_framework_items = resource.get("framework_items", [])
+             if resource_framework_items:
+                  all_potential_standards.extend(resource_framework_items)
+                  print(f"Found {len(resource_framework_items)} items in 'framework_items' under resource {resource.get('id')}.") # DEBUG
+             
+             # Check activities
+             for activity in resource.get("activities", []):
+                activity_stds = activity.get("standards", [])
+                if activity_stds:
+                    activity_standards_count += len(activity_stds)
+                    all_potential_standards.extend(activity_stds)
+                # 5. Also check for framework_items directly under activities?
+                activity_framework_items = activity.get("framework_items", [])
+                if activity_framework_items:
+                    all_potential_standards.extend(activity_framework_items)
+                    print(f"Found {len(activity_framework_items)} items in 'framework_items' under activity {activity.get('id')}.") # DEBUG
+                    
+    if activity_standards_count > 0:
+        print(f"Found {activity_standards_count} standards nested within activities.") # DEBUG
+    # --- End Data Gathering ---
 
-    unique_standards = {std['id']: std for std in all_standards if isinstance(std, dict) and 'id' in std}.values()
+    # Use dict to ensure uniqueness based on standard/item ID
+    unique_standards_dict = {}
+    for std in all_potential_standards:
+        if isinstance(std, dict) and 'id' in std:
+            # Use human_coding_scheme if available and code is missing
+            if 'code' not in std and 'human_coding_scheme' in std:
+                std['code'] = std['human_coding_scheme']
+            # Use full_statement if available and statement is missing
+            if 'statement' not in std and 'full_statement' in std:
+                std['statement'] = std['full_statement']
+                
+            unique_standards_dict[std['id']] = std
+        else:
+            print(f"Warning: Found standard/item without ID or not a dict: {std}") # DEBUG
+            
+    unique_standards = list(unique_standards_dict.values())
+    print(f"Processing {len(unique_standards)} unique standards/items...") # DEBUG
 
+    standards_processed_count = 0 # DEBUG
+    links_found_count = 0 # DEBUG
     for standard in unique_standards:
+        standard_code = standard.get('code', 'NO_CODE') # DEBUG
+        
+        # Look for the linkage field
         res_items = standard.get("resources_framework_items")
+        
+        if res_items is None:
+             continue # Skip if no linkage field
+             
         # Handle potential variations in structure (dict or list)
         if isinstance(res_items, dict):
             res_items = [res_items]
         elif not isinstance(res_items, list):
+            print(f"Warning: Standard {standard_code} has unexpected type for resources_framework_items: {type(res_items)}") # DEBUG
             res_items = []
+        
+        if not res_items: # Skip if list is empty after handling
+            continue
             
+        standards_processed_count += 1 # DEBUG (Count standards that HAVE the linkage field)
+        found_link_for_this_std = False # DEBUG
         for item in res_items:
              if isinstance(item, dict) and "resource_id" in item:
                 resource_id = item["resource_id"]
+                
+                if standard_code == "P-SE.7.a" and resource_id == 98219:
+                    print(f"DEBUG: Found link for P-SE.7.a to resource 98219! Item: {item}")
+                    
                 std_string = f"{standard.get('code','N/A')}: {standard.get('statement', 'N/A')}"
                 if resource_id not in standard_map:
                     standard_map[resource_id] = []
                 if std_string not in standard_map[resource_id]: # Avoid duplicates
                      standard_map[resource_id].append(std_string)
+                     found_link_for_this_std = True # DEBUG
+             else:
+                 print(f"Warning: Standard {standard_code} has item in resources_framework_items that is not a dict or lacks 'resource_id': {item}") # DEBUG
+                 
+        if found_link_for_this_std:
+            links_found_count += 1 # DEBUG (Count standards for which we actually added a link)
                      
+    print(f"Finished processing standards. {standards_processed_count} standards/items had resources_framework_items field. Found links for {links_found_count} of them.") # DEBUG
+    if 98219 in standard_map:
+        print("DEBUG: Resource ID 98219 IS present in the final standard_map.")
+        print(f"DEBUG: Standards for 98219: {standard_map[98219]}")
+    else:
+        print("DEBUG: Resource ID 98219 IS NOT present in the final standard_map.")
+        
+    print("--- Finished Standard Preprocessing ---") # DEBUG
     return standard_map
 
 # --- Export Functions --- 
