@@ -1,130 +1,202 @@
 import pandas as pd
 from docx import Document
 from docx.shared import Pt
-from openai import OpenAI
+from agno.agent import Agent
+from agno.models.openai import OpenAIChat
 import os
 
-# Initialize OpenAI client
-client = OpenAI(api_key=os.getenv('OPENAI_API_KEY'))
+# Initialize OpenAI client (Agno handles this internally via environment variables)
+# client = OpenAI(api_key=os.getenv('OPENAI_API_KEY'))
+
+# --- Define Agno Agents ---
+
+language_agent = Agent(
+    name="Language Agent",
+    role="You are an expert in early childhood language development. Create engaging toddler activities focused on vocabulary, communication, and language skills.",
+    model=OpenAIChat(id="gpt-4o"),
+)
+
+math_agent = Agent(
+    name="Math Agent",
+    role="You are an expert in early childhood math education. Create engaging toddler activities focused on counting, shapes, patterns, and basic math concepts.",
+    model=OpenAIChat(id="gpt-4o"),
+)
+
+science_agent = Agent(
+    name="Science Agent",
+    role="You are an expert in early childhood science education. Create engaging toddler activities focused on exploration, cause and effect, and natural curiosity.",
+    model=OpenAIChat(id="gpt-4o"),
+)
+
+art_agent = Agent(
+    name="Art Agent",
+    role="You are an expert in early childhood art education. Create engaging toddler activities focused on creativity, sensory experiences, and fine motor skills.",
+    model=OpenAIChat(id="gpt-4o"),
+)
+
+music_agent = Agent(
+    name="Music Agent",
+    role="You are an expert in early childhood music education. Create engaging toddler activities focused on rhythm, movement, songs, and musical exploration.",
+    model=OpenAIChat(id="gpt-4o"),
+)
+
+default_agent = Agent(
+    name="General Activity Agent",
+    role="You are an expert in early childhood education. Create engaging toddler activities focused on development, learning, and social interaction.",
+    model=OpenAIChat(id="gpt-4o"),
+)
+
+# Create a map for easy agent lookup
+agent_map = {
+    'Language': language_agent,
+    'Math': math_agent,
+    'Science': science_agent,
+    'Art': art_agent,
+    'Music': music_agent,
+    'default': default_agent
+}
 
 # Load spreadsheet data
 def load_spreadsheet(filename):
     data = pd.read_excel(filename, sheet_name=None)
     return data
 
-# Generate activity using OpenAI
-def generate_activity(section_type, activity_summary, theme):
-    # Create tailored prompts based on section type
-    section_prompts = {
-        'Language': f"""
-        Create an engaging language development activity for toddlers based on the theme "{theme}".
-        Activity summary: "{activity_summary}"
-        
-        Focus on:
-        - Vocabulary building
-        - Simple sentence structures
-        - Interactive communication
-        - Age-appropriate language concepts
-        
-        Provide clear, step-by-step instructions for teachers to implement this activity.
-        """,
-        
-        'Math': f"""
-        Design a fun math activity for toddlers based on the theme "{theme}".
-        Activity summary: "{activity_summary}"
-        
-        Focus on:
-        - Basic counting
-        - Shape recognition
-        - Simple patterns
-        - Hands-on exploration
-        
-        Provide clear, step-by-step instructions for teachers to implement this activity.
-        """,
-        
-        'Science': f"""
-        Create an engaging science exploration activity for toddlers based on the theme "{theme}".
-        Activity summary: "{activity_summary}"
-        
-        Focus on:
-        - Sensory exploration
-        - Simple cause and effect
-        - Observation skills
-        - Natural curiosity
-        
-        Provide clear, step-by-step instructions for teachers to implement this activity.
-        """,
-        
-        'Art': f"""
-        Design a creative art activity for toddlers based on the theme "{theme}".
-        Activity summary: "{activity_summary}"
-        
-        Focus on:
-        - Process over product
-        - Sensory experiences
-        - Fine motor development
-        - Creative expression
-        
-        Provide clear, step-by-step instructions for teachers to implement this activity.
-        """,
-        
-        'Music': f"""
-        Create a musical activity for toddlers based on the theme "{theme}".
-        Activity summary: "{activity_summary}"
-        
-        Focus on:
-        - Rhythm and movement
-        - Simple songs
-        - Sound exploration
-        - Group participation
-        
-        Provide clear, step-by-step instructions for teachers to implement this activity.
-        """,
-        
-        'default': f"""
-        Create an engaging activity for toddlers based on the theme "{theme}".
-        Activity summary: "{activity_summary}"
-        
-        Focus on:
-        - Age-appropriate engagement
-        - Skill development
-        - Fun and learning
-        - Social interaction
-        
-        Provide clear, step-by-step instructions for teachers to implement this activity.
-        """
-    }
+def clean_activity_text(text):
+    """Clean the activity text by removing formatting characters and extra whitespace."""
+    if not text:
+        return None
     
-    # Select appropriate prompt based on section type
-    prompt = section_prompts.get(section_type, section_prompts['default'])
+    # Remove box drawing characters and other special formatting
+    text = text.replace('┃', '').replace('│', '').replace('─', '').replace('━', '')
+    
+    # Remove extra whitespace and normalize line breaks
+    lines = [line.strip() for line in text.split('\n') if line.strip()]
+    cleaned_text = '\n'.join(lines)
+    
+    # Debug: Print the cleaned text
+    print("\n=== Cleaned Text ===")
+    print(cleaned_text)
+    print("=== End Cleaned Text ===\n")
+    
+    return cleaned_text
 
-    response = client.chat.completions.create(
-        model="gpt-4-turbo",
-        messages=[{"role": "system", "content": prompt}],
-        max_tokens=300,
-        temperature=0.8
-    )
-
-    return response.choices[0].message.content.strip()
+def generate_activity_with_agent(agent_map, section_type, activity_summary, theme):
+    """Generates an activity using the appropriate Agno agent."""
+    
+    # Select the correct agent based on the section type
+    agent = agent_map.get(section_type, agent_map['default'])
+    
+    # Construct the prompt for the agent
+    prompt = f"""
+    Theme: "{theme}"
+    Activity Summary: "{activity_summary}"
+    
+    Generate a detailed activity based on your specialized role. Include:
+    1. Clear step-by-step instructions
+    2. Materials needed (if any)
+    3. Learning objectives
+    4. Tips for teachers
+    
+    Format your response with proper line breaks and clear sections.
+    Do not use any special formatting characters or box drawing characters.
+    Use markdown-style formatting for sections (e.g., **Objective:**, **Materials Needed:**)
+    """
+    
+    try:
+        # Use print_response method and capture its output
+        response = agent.print_response(prompt, stream=False)
+        if not response:
+            print(f"Warning: Empty response from {section_type} agent")
+            return f"Activity for {activity_summary} - Please try generating this activity again."
+        
+        # Debug: Print the raw response
+        print("\n=== Raw Response ===")
+        print(response)
+        print("=== End Raw Response ===\n")
+        
+        # Clean the response text
+        cleaned_response = clean_activity_text(response)
+        if not cleaned_response:
+            print(f"Warning: Empty response after cleaning from {section_type} agent")
+            return f"Activity for {activity_summary} - Please try generating this activity again."
+            
+        return cleaned_response
+    except Exception as e:
+        print(f"Error generating activity: {str(e)}")
+        return f"Activity for {activity_summary} - Error generating activity. Please try again."
 
 # Create a structured Word document
 def create_document(activities_dict, output_filename):
     doc = Document()
+    
+    # Set default font
+    style = doc.styles['Normal']
+    font = style.font
+    font.name = 'Arial'
+    font.size = Pt(11)
 
     # Title
-    doc.add_heading('Toddler Weekly Activity Plan', 0)
+    title = doc.add_heading('Toddler Weekly Activity Plan', 0)
+    title.alignment = 1  # Center alignment
+    title.style.font.size = Pt(16)
+    title.style.font.bold = True
 
     # Add activities to document
     for theme, sections in activities_dict.items():
-        doc.add_heading(theme, level=1)
-        for section, activity_text in sections.items():
-            doc.add_heading(section, level=2)
-            para = doc.add_paragraph(activity_text)
-            para.style.font.size = Pt(12)
+        # Theme heading
+        theme_heading = doc.add_heading(theme, level=1)
+        theme_heading.style.font.size = Pt(14)
+        theme_heading.style.font.bold = True
+        
+        # Add sections
+        for section_title, activity_text in sections.items():
+            # Section heading
+            section_heading = doc.add_heading(section_title, level=2)
+            section_heading.style.font.size = Pt(12)
+            section_heading.style.font.bold = True
+            
+            # Activity text
+            para = doc.add_paragraph()
+            para.style.font.size = Pt(11)
+            
+            # Format the activity text with proper spacing
+            if activity_text:  # Check if activity_text exists
+                # Clean the text one more time before adding to document
+                cleaned_text = clean_activity_text(activity_text)
+                if cleaned_text:
+                    # Debug: Print what's being added to the document
+                    print(f"\n=== Adding to Document: {section_title} ===")
+                    print(cleaned_text)
+                    print("=== End Document Addition ===\n")
+                    
+                    # Process each line with proper formatting
+                    current_style = 'normal'  # Track current style
+                    for line in cleaned_text.split('\n'):
+                        if line.strip():  # Only add non-empty lines
+                            # Check for bold sections
+                            if line.startswith('**') and line.endswith('**'):
+                                run = para.add_run(line.strip('*') + '\n')
+                                run.bold = True
+                            else:
+                                run = para.add_run(line.strip() + '\n')
+                            run.font.size = Pt(11)
+                else:
+                    run = para.add_run("Error: Activity content could not be generated. Please try again.")
+                    run.font.size = Pt(11)
+            else:
+                # Add error message if activity text is missing
+                run = para.add_run("Error: Activity content could not be generated. Please try again.")
+                run.font.size = Pt(11)
+            
+            # Add spacing between sections
+            doc.add_paragraph()
+        
+        # Add page break between themes
         doc.add_page_break()
 
+    # Save the document
     doc.save(output_filename)
-    print(f"Document saved to {output_filename}")
+    print(f"\nDocument saved to {output_filename}")
 
 # Main logic
 def main(spreadsheet_filename, output_doc_filename):
@@ -161,16 +233,23 @@ def main(spreadsheet_filename, output_doc_filename):
             activity_summary = row.iloc[0]
             print(f"\nGenerating activity for {current_section}:")
             print(f"Activity Title: {activity_summary}")
-            activity_text = generate_activity(current_section, activity_summary, theme_name)
-            activities_dict[theme_name][f"{current_section} - {activity_summary}"] = activity_text
-            print("✓ Activity generated successfully")
+            try:
+                activity_text = generate_activity_with_agent(agent_map, current_section, activity_summary, theme_name)
+                activities_dict[theme_name][f"{current_section} - {activity_summary}"] = activity_text
+                print("✓ Activity generated successfully")
+                
+                # Save progress after each activity
+                create_document(activities_dict, output_doc_filename)
+                print("✓ Progress saved to document")
+            except Exception as e:
+                print(f"Error processing activity: {str(e)}")
+                print("Skipping to next activity...")
 
-    print("\n=== Creating Document ===")
-    create_document(activities_dict, output_doc_filename)
-    print(f"Document saved to {output_doc_filename}")
+    print("\n=== Final Document Created ===")
+    print(f"All activities have been generated and saved to {output_doc_filename}")
 
 if __name__ == "__main__":
     spreadsheet_filename = 'Toddler _ Themes_for Brandon.xlsx'
-    output_doc_filename = 'Generated_Weekly_Activities.docx'
+    output_doc_filename = 'Generated_Weekly_Activities_agent.docx'
 
     main(spreadsheet_filename, output_doc_filename)
