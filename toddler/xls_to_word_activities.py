@@ -66,19 +66,34 @@ def clean_activity_text(text):
     if not text:
         return None
     
-    # Remove box drawing characters and other special formatting
-    text = text.replace('┃', '').replace('│', '').replace('─', '').replace('━', '')
-    
-    # Remove extra whitespace and normalize line breaks
-    lines = [line.strip() for line in text.split('\n') if line.strip()]
-    cleaned_text = '\n'.join(lines)
-    
-    # Debug: Print the cleaned text
-    print("\n=== Cleaned Text ===")
-    print(cleaned_text)
-    print("=== End Cleaned Text ===\n")
-    
-    return cleaned_text
+    try:
+        # Remove all box drawing characters and special formatting
+        text = text.replace('┃', '').replace('│', '').replace('─', '').replace('━', '')
+        text = text.replace('┗', '').replace('┛', '').replace('┏', '').replace('┓', '')
+        text = text.replace('┣', '').replace('┫', '').replace('┳', '').replace('┻', '')
+        text = text.replace('╋', '').replace('╂', '').replace('╁', '').replace('╀', '')
+        
+        # Remove any remaining special characters
+        text = ''.join(char for char in text if ord(char) < 128)
+        
+        # Remove extra whitespace and normalize line breaks
+        lines = []
+        for line in text.split('\n'):
+            line = line.strip()
+            if line and not line.startswith('---'):  # Skip separator lines
+                lines.append(line)
+        
+        cleaned_text = '\n'.join(lines)
+        
+        # Debug: Print the cleaned text
+        print("\n=== Cleaned Text ===")
+        print(cleaned_text)
+        print("=== End Cleaned Text ===\n")
+        
+        return cleaned_text
+    except Exception as e:
+        print(f"Error cleaning text: {str(e)}")
+        return None
 
 def generate_activity_with_agent(agent_map, section_type, activity_summary, theme):
     """Generates an activity using the appropriate Agno agent."""
@@ -98,8 +113,8 @@ def generate_activity_with_agent(agent_map, section_type, activity_summary, them
     4. Tips for teachers
     
     Format your response with proper line breaks and clear sections.
-    Do not use any special formatting characters or box drawing characters.
     Use markdown-style formatting for sections (e.g., **Objective:**, **Materials Needed:**)
+    Do not use any special characters, box drawing characters, or separators.
     """
     
     try:
@@ -107,7 +122,7 @@ def generate_activity_with_agent(agent_map, section_type, activity_summary, them
         response = agent.print_response(prompt, stream=False)
         if not response:
             print(f"Warning: Empty response from {section_type} agent")
-            return f"Activity for {activity_summary} - Please try generating this activity again."
+            return None
         
         # Debug: Print the raw response
         print("\n=== Raw Response ===")
@@ -118,12 +133,12 @@ def generate_activity_with_agent(agent_map, section_type, activity_summary, them
         cleaned_response = clean_activity_text(response)
         if not cleaned_response:
             print(f"Warning: Empty response after cleaning from {section_type} agent")
-            return f"Activity for {activity_summary} - Please try generating this activity again."
+            return None
             
         return cleaned_response
     except Exception as e:
         print(f"Error generating activity: {str(e)}")
-        return f"Activity for {activity_summary} - Error generating activity. Please try again."
+        return None
 
 # Create a structured Word document
 def create_document(activities_dict, output_filename):
@@ -170,7 +185,6 @@ def create_document(activities_dict, output_filename):
                     print("=== End Document Addition ===\n")
                     
                     # Process each line with proper formatting
-                    current_style = 'normal'  # Track current style
                     for line in cleaned_text.split('\n'):
                         if line.strip():  # Only add non-empty lines
                             # Check for bold sections
@@ -181,11 +195,11 @@ def create_document(activities_dict, output_filename):
                                 run = para.add_run(line.strip() + '\n')
                             run.font.size = Pt(11)
                 else:
-                    run = para.add_run("Error: Activity content could not be generated. Please try again.")
+                    run = para.add_run(f"Error: Could not process activity text for {section_title}. Please try again.")
                     run.font.size = Pt(11)
             else:
                 # Add error message if activity text is missing
-                run = para.add_run("Error: Activity content could not be generated. Please try again.")
+                run = para.add_run(f"Error: No activity text generated for {section_title}. Please try again.")
                 run.font.size = Pt(11)
             
             # Add spacing between sections
@@ -235,16 +249,22 @@ def main(spreadsheet_filename, output_doc_filename):
             print(f"Activity Title: {activity_summary}")
             try:
                 activity_text = generate_activity_with_agent(agent_map, current_section, activity_summary, theme_name)
-                activities_dict[theme_name][f"{current_section} - {activity_summary}"] = activity_text
-                print("✓ Activity generated successfully")
-                
-                # Save progress after each activity
-                create_document(activities_dict, output_doc_filename)
-                print("✓ Progress saved to document")
+                if activity_text:
+                    activities_dict[theme_name][f"{current_section} - {activity_summary}"] = activity_text
+                    print("✓ Activity generated successfully")
+                    
+                    # Save progress after each activity
+                    create_document(activities_dict, output_doc_filename)
+                    print("✓ Progress saved to document")
+                else:
+                    print("✗ Failed to generate activity text")
             except Exception as e:
                 print(f"Error processing activity: {str(e)}")
                 print("Skipping to next activity...")
 
+    # Save final document with all generated activities
+    create_document(activities_dict, output_doc_filename)
+    # Final confirmation
     print("\n=== Final Document Created ===")
     print(f"All activities have been generated and saved to {output_doc_filename}")
 
